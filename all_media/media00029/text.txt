@@ -1,0 +1,538 @@
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 1
+Check List
+the journal of 
+biodiversity data
+Checklist of chelonians from the upper Madeira River and the 
+lower Madeira-Purus interfluvium (Brazilian Amazon), including a range expansion for Podocnemis sextuberculata Cornalia, 1849
+Claudia Keller1*, Francisco Villamarín1, Rafael Bernhard1,2 and Daniely Félix da Silva3
+1 Inst ituto Nacional de Pesquisas da Amazônia – INPA, Coordenação de Biodiversidade - CBIO, CP 2223, 690060–000, Manaus, AM, 
+Brazil
+2 Present address: Universidade do Estado do Amazonas – UEA, Centro de Estudos Superiores de Tefé – CEST, Estrada do Bexiga 1085, 
+Tefé, AM, Brazil
+3 Universidade Federal do Pará – UFPA, Núcleo de Altos Estudos Amazônicos – NAEA, Av. Perimetral 1901, Belém, PA, Brazil
+* Corresponding author. E-mail: keller@inpa.gov.br
+Abstract: We present data on occurrence of chelonians 
+for the Madeira River (southwestern Amazon, Brazil). Sampling was undertaken along the BR-319 Highway in the Madeira-Purus interfluvium and along a 125
+-km 
+stretch of the upper Madeira River. Findings were contrasted with a checklist of species expected to occur in the region according to current distribution maps, and with literature data for the Madeira subbasin. Out of 12 expected species, we recorded five in the Madeira-Purus interfluvium (three other species were registered by other recent voucher-based studies in the region), and eight species in the upper Madeira region. Podocnemis expansa  (Schweigger, 1812) and P . unifilis Troschel, 
+1848 occurred below and inbetween the upper Madeira rapids. Podocnemis sextuberculata Cornalia, 1849 had 
+its range extended by over 700 km, but may be limited upriver by the rapids. Mesoclemmys gibba (Schweigger, 1812) and M. raniceps Gray, 1855 occurred sympatrically along the river. Chelonian diversity along the lower and upper Madeira appears to be complementary. 
+Key words: Chelonoidis ; Chelus; conservation 
+monitoring; Neotropics; Platemys ; river dams
+INTRODUCTION
+The distribution areas of chelonian species in the 
+Brazilian Amazon frequently are based on scarce 
+locality records spread over huge areas, with the notable exception of the most conspicuous podocnemidids and the terrestrial Chelonoidis denticulata  (Linnaeus, 
+1766) (see Iverson 1992 and his updated digital distribution maps in Iverson et al. 2000). A number of factors contribute to this state of affairs, such as the huge extension and logistical difficulty of surveying Amazonian aquatic habitats, the secretive habits of many species, and the fact that many chelonian records stay only in the logbooks of scientific expeditions and lack collected specimens or even photographs of the turtles or tortoises. Also important is the accelerated habitat destruction and alteration in the southeastern Amazon, and increasingly so in its southwestern region (Vieira et al. 2008), which may compromise the environmental integrity of entire watersheds in the region over the next decades (Soares-Filho et al. 2006). Even in this scenario, the Madeira River, the largest tributary of the right margin of the Amazonas River, stands out as surprisingly devoid of chelonian records. The Madeira basin is included, partially or as a whole, in the inferred distribution area of several chelonian species (Rueda-Almonacid et al. 2007). Five of these have no published geographically referenced locations for the Madeira River, while others, including the ubiquitous Podocnemis unifilis Troschel, 1848 and Podocnemis expansa  
+(Schweigger, 1812), have one or two locations, most of them in the lower portion of the river (Iverson et al. 2000; Berry and Iverson 2001; Schneider et al. 2012). Podocnemis expansa  is the only species recorded from 
+the upper Madeira (Iverson 1992; Iverson et al. 2000). Only three species (Platemys platycephala (Schneider, 1792), Podocnemis unifilis and Podocnemis erythrocephala  
+[Spix, 1824]) have one record in the region between the Madeira and Purus rivers (Madeira-Purus interfluvium) (Iverson et al. 2000; Schneider et al. 2012).
+The upper Madeira River featured one of the most 
+impressive sets of whitewater rapids in the Amazon basin (Cella-Ribeiro et al. 2013), which have been evaluated as a potential historical barrier for fishes (see review in Check List 12(4): 1937, 31 July 2016  doi:  http://dx.doi.org/10.15560/12.4.1937
+ISSN 1809-127X  © 2016 Check List and A uthors412
+1937
+31 July 2016
+Lists of species Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 2
+Keller et al.  |  Check list of chelonians in the Madeira Riverchelonian species expected to occurr in and along the 
+Madeira River; and (b) to evaluate the complementarity of chelonian diversity in the lower and upper Madeira River, considering that the latter is impacted by the con-struction of two hydroelectric dams and their associated reservoirs.
+MATERIALS AND METHODS 
+Madeira-Purus interfluvium
+Surveys in the lower Madeira-Purus interfluvium 
+were carried out on 11 RAPELD sampling modules (Magnusson et al. 2005) of the PPBio Program located in forested areas along approximately 600 km of the BR-319 Highway, between the localities of Careiro da Várzea (03°11ʹ42 ʺ S, 059°52ʹ12ʺ W) and Humaitá 
+(07°30ʹ43ʺ S, 063°02ʹ17 ʺ W) (Figure 1). The at present 
+partially impassable highway crosses the interfluvium from northeast to southwest for about 800 km. Sampling modules are 40–80 km apart. Details on the sampling design along the BR-319 Highway can be found at https://ppbio.inpa.gov.br/sitios/br319/infra .
+The interfluvium features gentle soil and topography 
+gradients, with altitudes varying between 30–50 m (IBGE 1997), and the occurrence of large tabular interfluves with a flat topography (Radambrasil 1978). Until km 260 of the highway, sampling units are located on a relatively young palaeo-varzea deposited by the Amazonas River (Costa et al. 2001; Rossetti et al. 2005), with frequent and subtle micro topographic variations of 1–3 m, which favor the formation of temporary ponds. The mean annual temperature of the region ranges between 24–26°C. The rainy season usually starts in October, reaching its highest peak between January and March. Vegetation cover is dominated by dense to open tropical forests (Radambrasil 1978).
+Sampling was undetaken on 250 m stretches of 53 
+different 1st- to 3rd-order streams. Many of the 1st- and 2nd-order streams sampled dry out completely during the dry season (between June and October). Three sampling campaigns took place between November and February to March from 2012 to 2015, when all streams had enough water. Five fyke nets (Vogt 1980, 2012) were set on each 250 m stretch for 3–5 days (average 3.57 days) and were checked daily. All captured individuals were transported alive to the camping site, where all biometric measurements and photographs were taken.
+Upper Madeira region
+The upper Madeira River is embeded in a deep valley 
+punctuated by crystalline rock outcrops that form 18 
+sections of rapids between the cities of Porto Velho and Guajará-Mirim, the latter on the upstream tributary Mamoré River (Cella-Ribeiro et al. 2013). The water cur-rent was generally strong and fast flowing, along steep river banks, with only a few small tributary rivers. A Queiroz et al. 2013), river dolphins (Gravena et al. 2014), and crocodilians (Hrbek et al. 2008). A biogeographical transition also has been detected in one anuran species inhabiting the left margin of the upper Madeira (Simões et al. 2012). Due to the absence of distribution data, it is unknown whether the rapids act as a barrier and affect chelonian diversity up- and downstream on the Madeira. The sole record of P . expansa from the Madeira River (Iverson et al. 2000) is immediately downstream from the rapids, although the species is known to reproduce in the Guaporé River, an upstream tributary (Soares 2000; Cantarelli 2006). Seven other species have been recorded from the headwaters of the Madeira in Bolivia, but none or only one or two records are from the lower Madeira (Ernst 1987; Ernst and Leuteritz 1999; Iverson et al. 2000; Berry and Iverson 2001; Schneider et al. 2012). 
+In recent years there have been several biodiversity 
+surveys along the Madeira River and the Madeira-Purus interfluvium, such as the PROBIO Project, sponsored by the Brazilian Ministry of Environment (Rapp-Py-Daniel et al. 2007), the environmental impact assessment of the repavement of the Manaus to Porto Velho BR-319 Highway (UFAM/DNIT 2009) as well as other projects associated with the PPBio Program along the highway ( http://ppbio.inpa.gov.br), the environmental 
+surveys for management plans of conservation units (NUSEC/UFAM 2014a, 2014b), and the environmental impact assessment and monitoring projects for two hydroelectric powerplants in the upper Madeira River (Santo Antônio http://www.santoantonioenergia.com.br and Jirau http://www.energiasustentaveldobrasil.
+com.br ). These studies produced a considerable amount 
+of information about the occurrence and distribution of the fauna in the Madeira River basin, including chelonians.
+Here we report on chelonian species recorded dur -
+ing two field-intensive projects carried out in the Madeira River subbasin: a 2-year chelonian survey for the environmental monitoring program of the Santo Antônio hydropower plant, in the upper Madeira (state of Rondônia, Brazil), and a 4-year research project on foodwebs of small forest streams along the BR-319 Highway in the state of Amazonas (Brazil). We report a qualitative subsample of the total number of chelonians sampled during both studies, namely those specimens that are individually verifyable through physical and/or photographic vouchers with exact geographic coor -
+dinates. Quantitative survey data of both studies will be reported elsewhere. The records are contrasted with the scarce information available on the occurrence of chelonians in the lower part of the Madeira River sub-basin, as well as the list of expected species in the area, based on the available distribution data from literature. Our objectives were: (a) to assess the distribution of  Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 3
+Keller et al.  |  Check list of chelonians in the Madeira River
+Figure 1. Map of chelonian location records in the area surveyed in the Madeira-Purus interfluvium along the BR-319 Highway, plotted on a JERS-1 
+image acquired on May/June 1996 (ASF 2015). Location points reflect the coordinates listed for each species for the region (MPI) on Table 1. Coordinates are in datum WGS84. M.raniceps = Mesoclemmys raniceps; M.gibba = Mesoclemmys gibba; P .platycephala = Platemys platycephala; C.fimbriatus = Chelus fimbriatus; P .dumerilianus = Peltocephalus dumerilianus. Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 4
+Keller et al.  |  Check list of chelonians in the Madeira Rivernumber of islands with sandbanks formed large beaches 
+during the low water season, from July to October, and adjacent pools of lentic water. Near Porto Velho the mar -
+gins of the Madeira are covered mostly by pasture and small-scale agriculture land, while upstream there are patches of terra-firme forest, seasonally flooded forests and more open, white-sand forests. The flooded forests are restricted to lowland areas near the riverbank. Per -
+manent to semi-permanent lakes also are found along the larger rivers in the area. The climate is tropical humid with average monthly temperatures between 20–30°C, and minimum and maximum temperatures between 18 and 33°C. The dry season extends from June to Sep-tember, the rainy season from October to May. Monthly rainfall is less than 30 mm in June to July and up to 330 mm in December to January (Horbe et al. 2013). Small streams and pools are present in the forest, and many of these may dry out completely in the dry season.
+Surveys were carried out in 2010 and 2011 along a 125 
+km stretch of the river between the Santo Antônio rapids (08°48’11” S, 063°57’00” W), 10 km upstream from the city of Porto Velho, and the Jirau rapids (09°19′46 ″ S, 
+064°43′54″  W) (Figure 2), as part of the environmental 
+monitoring program for the construction of the hydropower plant of Santo Antônio. This part of the river featured three other rapids: Teotônio, Morrinhos and Caldeirão do Inferno (Figure 2). Teotônio and Jirau used to be the most formidable of the upper Madeira rapids, the only ones that precluded navigation year-round (Cella-Ribeiro et al. 2013). All fieldwork was undertaken prior to the formation of the hydroelectric dam reservoir, which permanently obliterated the rapids up to Caldeirão and flooded lowland areas on the riverbanks in November 2011.
+Aquatic surveys were carried out from mid-July 
+to the end of September along a 110 km river stretch between the Santo Antônio and the Caldeirão do Inferno rapids (09°16′05″ S, 064°39′45″ W). Choice of trapping sites was arbitrary, at suitable points for chelonians in the Madeira river and its main tributar -
+ies in the area: until 50 km upstream the Jaci-paraná River (09°12′08″  S, 064°23′14 ″ W), 23 km upstream 
+Figure 2. Map of chelonian location records in the area surveyed in and along the upper Madeira River, between Porto Velho and the Jirau rapids, plotted 
+on a JERS-1 image acquired on May/June 1996 (ASF 2015). Location of the rapids (now obliterated by hydrodam reservoirs) is indicated by a blue line. Location of the Santo Antônio and Jirau dams is indicated by red lines. Location points reflect the coordinates listed for each species for the region (UM) on Table 1. Coordinates are in datum WGS84. M.raniceps = Mesoclemmys raniceps; M.gibba = Mesoclemmys gibba; P .platycephala = Platemys platycephala; C.fimbriatus = Chelus fimbriatus; C.denticulata = Chelonoidis denticulata; P .unifilis = Podocnemis unifilis; P .expansa = Podocnemis expansa; P .sextuberculata = Podocnemis sextuberculata. Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 5
+Keller et al.  |  Check list of chelonians in the Madeira RiverTable 1. List of chelonian specimens collected and/or recorded photgraphically along the BR-319 Highway (state of Amazonas, Brazil), in the Madeira-
+Purus interfluvium along the lower and middle Madeira River (east of Humaitá), and in and along the upper Madeira River (state of Rondônia, Brazil), between the city of Porto Velho and the locality of Cachoeira do Jirau. na=not available or not applicable; Column “Sex”: M=male, F=female, J=juvenile; “SCL”= straight carapace length (decimal positions are indicated according to measurement resolution); “Region”: UM=upper Madeira River, MPI=Madeira-Purus interfluvium; “Margin”: R=right, L=left; “Voucher nr”=registration code of the physical voucher in the herpetological collection of INPA; “Photo voucher nr”=code that relates the specimen to its photographs in Appendix 2; “Tissue sample code”=registration code of the tissue sample of this individual in the tissue collection of INPA.
+Species
+Sex
+SCL (mm)
+Region
+Madeira
+marginMunicipality Geographic coordinatesDate ofcapture Voucher nr
+PhotoVouchernr
+Tissue
+Samplecode
+Chelonoidis denticulata na 420.0 UM L Porto Velho 09°08’54.1’’ S, 064°29’55.8’’ W 10Mar2010 na CD-01 na
+Chelonoidis denticulata F 299.0 UM na Porto Velho 09°08’45.2’’ S, 064°31’07.9’’ W 01Aug2010 na CD-02 na
+Chelonoidis denticulata J na UM R Porto Velho 09°27’12.9’’ S, 064°23’40.3’’ W 21Oct2010 na CD-03 na
+Chelonoidis denticulata na na UM L Porto Velho 09°19’03.7’’ S, 064°43’37.2’’ W 22Jan2011 na CD-04 na
+Chelonoidis denticulata M 333.0 UM na Porto Velho 09°07’07.8’’ S, 064°19’46.3’’ W 20Aug2011 INPA-H 35446 na na
+Chelus fimbriatus M 279.0 MPI L Careiro da Várzea 03°21’03.4’’ S, 059°51’15.4’’ W 29Mar2011 na CF-01 na
+Chelus fimbriatus M 429.0 UM na Porto Velho 09°08’16.8’’ S, 064°31’55.6’’ W 08Aug2010 na CF-02 HT-6618
+Continuedto the rapids of the large blackwater Karipunas Stream 
+(09°11′ 30″ S, 064°37′ 27″ W), 3 km upstream the white-
+water Jatuarana Stream (08°49′ 54″ S, 064°02′ 56″ W) 
+and 1 km upstream the black/clearwater Latumia Stream (08°50′00.7″ S, 063°59′48.1″ W) (Figure 2). Lakes near the river margins also were surveyed. We used fyke nets, trammel nets and seine nets (Vogt 1980, 2012) for trapping turtles, choosing the most suitable method in each case according to water depth and current velocity. Fyke nets were exposed for three days at each location and checked every 24 hours. Trammel nets were usu-ally exposed for 9 hours at each location and checked every 3–4 hours. Net seining was used exclusively in the Madeira River to capture Podocnemis  spp. in deep-water 
+pool aggregations, usually in the proximity of nesting beaches. More details about the trapping devices and effort can be found in Keller et al. (2013).
+Records from terrestrial and small-scale aquatic 
+habitats (forest streams and pools) were obtained from third-party surveys along 125 km of the river margin from the Santo Antônio to the Jirau rapids (Figure 2). Sampling was carried out in standardized RAPELD modules (see Fraga et al. [2014] for a description of the terrestrial sampling infrastructure in the area) or during faunal rescue operations in areas to be flooded by the Santo Antônio dam reservoir and therefore subjected to deforestation. We had access to rescue animals brought to the wild animal screening center of the Santo Antonio hydroelectric power plant.
+Permits, animal handling and data availability
+Chelonian capture and handling was in accordance with 
+Brazilian conservation and animal welfare laws, and was 
+undertaken under capture, collection and transport licens -
+es from the Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis IBAMA/SISBIO (permits #067/2010 and #138/2011 [proc. #02001.000965/2008-83], proc. #02001.000508/2008-99, #29069-1 and #28648-1, #28648-2, #28648-3 and #28648-4).
+Species identification and scientific nomenclature 
+follows Rueda-Almonacid et al. (2007), who provide identification keys, diagnoses, descriptions, and bio-logical and distributional data for all species in this study. The identification of Mesoclemmys  specimens was 
+confirmed by Richard Vogt (INPA). Both projects were planned to base their records of chelonian species on a photographic registry and to limit physical vouchers to a representative minimum. Physical vouchers were produced via sedation and subsequent lethal overdosis of a lidocaine chlorhydrate/epinephrine anesthetic for veterinary use (Anestésico L, Eurofarma
+®). Animals 
+that died accidentally during trapping or handling were preserved as physical vouchers whenever possible. All whole bodied specimens were fixated in 10% formalin and permanently preserved in 70% ethanol. Tissue samples (interdigital membrane skin preserved in 70% ethanol) have been obtained as indicated in Table 1 and are deposited in the tissue collection of INPA (Instituto Nacional de Pesquisas da Amazônia). Physical vouchers were deposited in the Zoological Collection of INPA. 
+All data are available for free download in the data 
+repository of the Programa de Pesquisa em Biodiversidade (PPBio) and can be accessed at https://ppbiodata.inpa.gov.br/metacatui/#view/PPBioAmOc.50.30 or https://search.dataone.org/#view/PPBioAmOc.50.30.
+Literature review
+We reviewed available records and general inferred 
+distribution areas of Amazonian chelonians in Rueda-
+Almonacid et al. (2007), the updated digital distribution maps of Iverson (1992) in the World Turtle Database on EmySystem http://emys.geo.orst.edu/ (Iverson et al. 
+2000) and the species accounts from the on-line version of the Catalogue of American Amphibians and Reptiles (https://www.zenscientist.com/index.php/pdflibrary2/
+Open-Access-Journals/caar/; available species accounts  Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 6
+Keller et al.  |  Check list of chelonians in the Madeira RiverSpecies
+Sex
+SCL (mm)
+Region
+Madeira
+marginMunicipality Geographic coordinatesDate ofcapture Voucher nr
+PhotoVouchernr
+Tissue
+Samplecode
+Chelus fimbriatus M 289.0 UM R Porto Velho 09°03’19.2’’ S, 064°16’34.0’’ W 20Aug2010 INPA-H 35460 na HT-6620
+Chelus fimbriatus F 385.0 UM L Porto Velho 09°05’07.8’’ S, 064°19’48.6’’ W 29Aug2010 INPA-H 35459 na HT-6627
+Chelus fimbriatus M 320.0 UM R Porto Velho 09°26’05.5’’ S, 064°24’46.0’’ W 16Sep2010 INPA-H 35458 na HT-6628
+Chelus fimbriatus M 284.0 UM R Porto Velho 09°12’24.7’’ S, 064°22’55.8’’ W 08Aug2011 na CF-03 na
+Chelus fimbriatus M 390.0 UM R Porto Velho 09°24’09.3’’ S, 064°25’53.6’’ W 2011 INPS-H 35447 na na
+Mesoclemmys gibba F 176.3 MPI L Beruri 04°37’01.7’’ S, 061°14’24.0’’ W 21Nov2014 na MG-01 na
+Mesoclemmys gibba na na UM R Porto Velho 09°01’14.0’’ S, 064°14’41.6’’ W Nov2009 na MG-02 na
+Mesoclemmys gibba F na UM L Porto Velho 08°47’00.4’’ S, 063°56’26.3’’ W 27Jun2010 na MG-03 HT-6632
+Mesoclemmys gibba F 185.0 UM R Porto Velho 09°20’15.7’’ S, 064°43’30.4’’ W Feb2011 na MG-04 na
+Mesoclemmys gibba F 131.0 UM R Porto Velho 09°20’15.7’’ S, 064°43’30.4’’ W Feb2011 na MG-05 na
+Mesoclemmys raniceps F 255.0 MPI L Careiro da Várzea 03°21’09.7’’ S, 059°51’05.9’’ W 30Mar2011 INPA-H 28043 na na
+Mesoclemmys raniceps F 152.0 MPI L Careiro Castanho 03°41’43.2’’ S, 060°19’47.4’’ W 03Apr2011 na MR-01 na
+Mesoclemmys raniceps F 242.0 MPI L Humaitá 06°33’54.8’’ S, 062°55’41.8’’ W 18Nov2011 na MR-02 na
+Mesoclemmys raniceps na 287.0 MPI L Humaitá 06°33’50.4’’ S, 062°56’08.8’’ W 19Nov2011 na MR-03 na
+Mesoclemmys raniceps M 278.0 MPI L Tapauá 05°56’20.2’’ S, 062°30’16.4’’ W 28Nov2011 na MR-04 na
+Mesoclemmys raniceps F 277.0 MPI L Tapauá 05°57’38.0’’ S, 062°29’02.5’’ W 29Nov2011 na MR-05 na
+Mesoclemmys raniceps J 73.4 MPI L Careiro Castanho 03°40’23.5’’ S, 060°18’29.4’’ W 03Mar2013 INPA-H 33226 na na
+Mesoclemmys raniceps F 199.2 MPI L Manicoré 04°59’39.6’’ S, 061°34’24.5’’ W 01Dec2014 na MR-06 na
+Mesoclemmys raniceps F 275.9 MPI L Humaitá 07°12’27.3’’ S, 063°06’54.7’’ W 05Mar2015 na MR-07 na
+Mesoclemmys raniceps J 113.0 UM L Porto Velho 09°10’22.4’’ S, 064°36’50.2’’ W 27Jul2010 INPA-H 35451 MR-08 HT-6631
+Mesoclemmys raniceps F 277.0 UM na Porto Velho 09°06’50.0’’ S, 064°19’15.3’’ W 06Sep2011 na MR-09 HT-6633
+Mesoclemmys raniceps F 316.0 UM R Porto Velho 08°51’60.0’’ S, 064°03’06.0’’ W Dec2011 na MR-10 HT-6634
+Mesoclemmys raniceps na 225.0 UM L Porto Velho 09°02’55.4’’ S, 064°18’21.9’’ W 2011 na MR-11 HT-6636
+Mesoclemmys raniceps J 57.0 UM L Porto Velho 09°06’14.3’’ S, 064°20’48.0’’ W 2011 na MR-12 na
+Mesoclemmys raniceps M na UM L Porto Velho 09°10’36.3’’ S, 064°36’38.8’’ W 18Nov2012 na MR-13 na
+Peltocephalus dumerilianus F 392.0 MPI L Beruri 05°16’15.3’’ S, 061°55’03.7’’ W 04Jul2011 na PD-01 na
+Platemys platycephala M 166.4 MPI L Humaitá 07°12’35.2’’ S, 063°06’49.5’’ W 01Mar2012 na PP-01 na
+Platemys platycephala F 142.5 MPI L Humaitá 07°12’35.0’’ S, 063°06’49.7’’ W 01Mar2012 na PP-02 na
+Platemys platycephala M 165.3 MPI L Humaitá 07°12’46.9’’ S, 063°06’24.8’’ W 03Mar2012 na PP-04 na
+Platemys platycephala F 142.6 MPI L Careiro Castanho 03°41’06.0’’ S, 060°19’33.1’’ W 02Mar2013 na PP-03 na
+Platemys platycephala F 145.0 MPI L Careiro Castanho 03°40’59.7’’ S, 060°19’37.1’’ W 04Mar2013 INPA-H 33223 na na
+Platemys platycephala M 113.0 MPI L Careiro Castanho 03°41’06.0’’ S, 060°19’33.1’’ W 04Mar2013 INPA-H 33222 na na
+Platemys platycephala F 155.8 MPI L Humaitá 07°12’34.6’’ S, 063°06’48.0’’ W 05Mar2015 na PP-05 na
+Platemys platycephala M 164.0 MPI L Humaitá 07°12’34.6’’ S, 063°06’48.0’’ W 05Mar2015 na PP-06 na
+Platemys platycephala F 133.5 MPI L Humaitá 07°12’34.6’’ S, 063°06’48.0’’ W 05Mar2015 na PP-07 na
+Platemys platycephala na na UM L Porto Velho 09°19’15.5’’ S, 064°43’25.6’’ W 28Jan2008 na PP-08 na
+Platemys platycephala F 142.3 UM R Porto Velho 09°12’27.0’’ S, 064°42’39.0’’ W 23Feb2010 INPA-H 33224 na na
+Platemys platycephala F 137.5 UM R Porto Velho 09°01’12.4’’ S, 064°15’15.3’’ W 09Nov2010 INPA-H 33225 na na
+Platemys platycephala F 131.0 UM L Porto Velho 09°10’36.3’’ S, 064°36’38.8’’ W 05May2012 INPA-H 35444 na na
+Podocnemis expansa F 667.0 UM na Porto Velho 09°15’27.6’’ S, 064°38’22.6’’ W 26Jul2010 INPA-H 35445 na na
+Podocnemis expansa F 651.0 UM na Porto Velho 08°48’07.7’’ S, 063°57’06.9’’ W 08Sep2010 INPA-H 35462 na na
+Podocnemis expansa M 483.0 UM na Porto Velho 09°15’23.9’’S, 064°38’45.5’’W 09Aug2011 na PE-01 na
+Podocnemis expansa M 404.0 UM na Porto Velho 09°15’23.9’’S, 064°38’45.5’’W 09Aug2011 na PE-02 na
+Podocnemis expansa F 620.0 UM na Porto Velho 09°15’15.0’’S, 064°38’40.2’’W 09Aug2011 na PE-03 na
+Podocnemis expansa F 536.0 UM na Porto Velho 09°15’25.1’’S, 064°38’45.3’’W 10Aug2011 na PE-04 na
+Podocnemis sextuberculata M 184.0 UM na Porto Velho 08°48’15.0’’ S, 063°57’00.1’’ W 20Sep2011 na PS-01 HT-6637
+Podocnemis sextuberculata F 286.0 UM na Porto Velho 08°48’13.9’’ S, 063°57’01.9’’ W 22Sep2011 na PS-02 HT-6638
+Podocnemis sextuberculata F 251.0 UM na Porto Velho 08°48’05.7’’ S, 063°57’00.4’’ W 23Sep2011 na PS-03 HT-6640
+Podocnemis sextuberculata F 289.0 UM na Porto Velho 08°48’05.7’’ S, 063°57’00.4’’ W 23Sep2011 na PS-04 HT-6639
+Podocnemis unifilis J 72.0 UM L Porto Velho 08°49’52.1’’ S, 064°02’52.5’’ W 20Aug2010 na PU-01 na
+Podocnemis unifilis J 104.0 UM na Porto Velho 09°05’02.1’’ S, 064°19’44.0’’ W 27Aug2010 INPA-H 35450 na na
+Podocnemis unifilis F 410.0 UM na Porto Velho 09°05’36.5’’ S, 064°19’46.0’’ W 07Sep2010 INPA-H 35461 na na
+Podocnemis unifilis F 117.0 UM na Porto Velho 09°27’10.6’’ S, 064°25’00.7’’ W 17Sep2010 INPA-H 35449 na na
+Podocnemis unifilis F 293.0 UM na Porto Velho 09°27’17.1’’ S, 064°25’21.8’’ W 27Sep2010 INPA-H 35456 na na
+Podocnemis unifilis M 231.0 UM na Porto Velho 09°12’24.7’’ S, 064°22’55.8’’ W 08Aug2011 INPA-H 35453 na na
+Podocnemis unifilis M 217.0 UM na Porto Velho 09°15’29.5’’ S, 064°38’22.4’’ W 11Aug2011 INPA-H 35454 na na
+Podocnemis unifilis M 255.0 UM na Porto Velho 09°08’16.9’’ S, 064°21’01.3’’ W 23Aug2011 INPA-H 35457 na na
+Podocnemis unifilis M 225.0 UM na Porto Velho 08°50’40.8’’ S, 064°03’25.4’’ W 05Sep2011 INPA-H 35455 na na
+Podocnemis unifilis M 250.0 UM na Porto Velho 08°50’40.8’’ S, 064°03’25.4’’ W 05Sep2011 INPA-H 35452 na naTable 1. Continued. Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 7
+Keller et al.  |  Check list of chelonians in the Madeira Riverby Ernst 1981a, 1981b; Ernst 1987; Ernst and Leuteritz 
+1999a, 1999b; Berry and Iverson 2001; Iverson and Vogt 2002; Schneider et al. 2012). We also considered comments on habitat and distribution of species in Vogt (2008) and Vogt et al. (2007). From the evaluation of all data sources, we determined the list of chelonian species expected to occurr in or along the Madeira River.
+RESULTS
+Overall we were able to produce 66 new voucher-based 
+and georeferenced records of nine chelonian species for 
+the Madeira River basin (Appendix 1; Table 1). Forty-two are exclusively photo vouchers (Appendix 2) recorded by the authors or as occasional encounters by other field crews. Twenty-four are physical vouchers, of which nine were sacrificed to obtain collection vouchers of Chelus fimbriatus (Schneider, 1783), Mesoclemmys raniceps 
+(Gray, 1855) and Platemys platycephala. All other physical vouchers (including all Podocnemis spp) either (a) died accidentally by drowning when entangled in trammel nets or fyke nets or due to stress during handling of unhealthy individuals, (b) were found dead in abandoned fishing nets by local fishermen, or (c) were found as dried out carapaces in the field. No physical vouchers were obtained for Mesoclemmys gibba (Schweigger, 1812), Peltocephalus dumerilianus (Schweigger, 1812), 
+and Podocnemis sextuberculata Cornalia, 1849 due to 
+logistical circumstances or because they were only recorded by third parties. A brief diagnostic description of each species recorded is given in Appendix 1.
+Madeira-Purus interfluvium
+Sampling effort was of 39,400 effort-hours (1 effort 
+hour = one trap of any kind exposed in the environment 
+for 1 hour). Five chelonian species were recorded along the Madeira-Purus interfluvium (Chelus fimbriatus, Mesoclemmys gibba, Mesoclemmys raniceps, Platemys 
+platycephala and  Peltocephalus dumerilianus), resulting in 
+21 vouchers (Figure 1; Table 1; Appendix 2). One juvenile M. raniceps (INPA-H 33226, Table 1) was collected by a third party. Three species occurred mainly in small forest streams (M. raniceps, P . platycephala and  C. fimbriatus). 
+Mesoclemmys gibba were found in ponds in areas of open vegetation. One gravid female of P . dumerilianus (Appendix 2, photo voucher PD-01; Table 1) was captured opportunistically on land while it was possibly searching for a suitable nesting site. Egg-bearing status was established through inguinal palpation.
+Upper Madeira region
+The aquatic survey consisted of 751 sampling points 
+over the two years, distributed over the whole study 
+area, resulting in 12,887 effort-hours. Further details on sampling effort and capture yield can be found in Keller et al. (2013). Including third-party records, we recorded the occurrence of eight chelonian species (Chelonoidis denticulata, Chelus fimbriatus, Mesoclemmys gibba, Meso-
+clemmys raniceps, Platemys platycephala, Podocnemis expansa, Podocnemis sextuberculata and  Podocnemis 
+unifilis), resulting in 45 new voucher-based and geo-graphically referenced location points for the upper Madeira region (Table 1; Figure 2; Appendix 2). Podocne -
+mis expansa and P . unifilis occurred both downstream and upstream of the largest Teotônio rapids. Four indi-viduals of P . sextuberculata were captured immediately downstream from the first rapids (Santo Antônio). One of the C. denticulata individuals (Appendix 2, photo voucher CD-02; Table 1) was found swimming across the main channel of the Madeira River, at a point were it was approximately 700 m wide. One M. gibba had an unusually brown colloration and dorsal vermiculations on the head (Appendix 2, photo-voucher MG-05).
+Checklist and up/downstream complementarity 
+of chelonian fauna
+Based on the literature review, 12 species were expect -
+ed to occur in the Madeira River basin (Table 2), of which three (Podocnemis erythrocephala , Podocnemis sextuber -
+culata and Peltocephalus dumerilianus) were expected to occur only in the lower and middle Madeira and/or its smaller tributaries, and one (Phrynops geoffroanus [Sch -
+weigger, 1812]) was expected to occur only in the upper Madeira. All four Podocnemis  species are expected to occur 
+in the lower to middle Madeira, but the small water bod-ies sampled were not suitable for any of them because they inhabit larger rivers.
+Of the 12 expected species, we confirmed the 
+presence of five in the Madeira-Purus interfluvium, and eight in the upper Madeira region (Table 2), including an unexpected record of Podocnemis sextuberculata in the upper Madeira. Mesoclemmys raniceps was found in both study areas and had no previous voucher-based record for the Madeira River, apart from one record at the confluence of the Madeira with the Amazonas River (Iverson et al. 2000). We did not find Phrynops geoffroanus, Kinosternon scorpioides  (Linnaeus, 1766), nor 
+Podocnemis erythrocephala  in either survey areas. Apart 
+from Chelonoidis denticulata  and the already mentioned 
+non-verifiable Podocnemis spp, all species found in the 
+upper Madeira also were present in the Madeira-Purus interfluvium along the lower flow of the Madeira.
+DISCUSSION
+Our surveys confirmed the current occurrence of 
+Podocnemis expansa  and P . unifilis in the upper Madeira 
+River, both immediately downstream from the first 
+rapids and in between rapids. Quantitative surveys in the same study area confirmed the presence of both species (Keller et al. 2013), as well as the genetic homogeneity of P . expansa (Vieira 2015) between all rapids in the  Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 8
+Keller et al.  |  Check list of chelonians in the Madeira River110 km river stretch. This indicates that the rapids do 
+not act as an impermeable barrier for the species. The presence of both species was also confirmed among the rapids upstream of the Jirau hydropower dam (ESBR 2012; Vieira 2015). Both species were known to occur in huge numbers in the Madeira River and the Guaporé River, an upstream tributary, but stocks crashed due to large-scale overexploitation, especially in the late 19
+th 
+to early 20th centuries, fueled by the Amazon rubber 
+boom, the Madeira-Mamoré railway construction, and the growing demand of consumer markets in Manaus and Belém, specially for P . expansa (Vianna 1973; Smith 1979). Podocnemis expansa  nesting has been recorded 
+since 2001 in the lower flow of the Madeira (Manicoré municipality), although in very few numbers (Andrade et al. 2011). Likewise, RAP surveys near Manicoré failed to observe individuals and/or nesting signs of P . expansa, which was attributed to the historic overexploitation of chelonians in the region (Vogt et al. 2007). Podocnemis unifilis has been recorded on nesting beaches in the lower Madeira and its tributaries (Andrade et al. 2011), and as a preferred consumption item in local communities (Vogt et al. 2007; NUSEC/UFAM 2014a, 2014b).
+No locality records exist for P . sextuberculata in the 
+reviewed databases, but the species has been cited as nesting in large numbers on beaches in the lower Madeira (Andrade et al. 2011). One single individual was captured in the Aripuanã River, a tributary of the middle Madeira (Vogt et al. 2007), coinciding with the southern limit of this species’ distribution as inferred by Rueda-Almonacid et al. (2007). Thus, our record of P.  sextuberculata in the Madeira River at Porto Velho extends the known distribution of the species by approximately 730 km to the boundaries of the upper Madeira. Despite our considerable sampling effort, and having captured both P . expansa and P . unifilis in the inter-rapids sections 
+of the river, we only recorded four individuals of P.  sextuberculata below the rapids. Chelonian surveys in 2012 and 2013, after the flooding of the reservoir, also failed to capture P . sextuberculata upstream from the Santo Antônio dam (the former location of the first rapids) (Felix-Silva and Sábato 2014). It is possible that the Madeira rapids acted as a dispersion barrier for this species, although Felix-Silva and Sábato (2014) claim to have detected a single oviposition of atretic eggs of P.  sextuberculata on a beach above the former Morrinhos rapids in 2013 (see Figure 2).
+Podocnemis erythrocephala  has two records from the 
+lower Madeira region (Iverson 1992; Iverson et al. 2000) and was cited for this region as nesting in significant numbers along small blackwater tributaries of the Matupiri River in the municipality of Borba (Andrade et al. 2011). Suitable habitats for P . erythrocephala (small rivers and streams of black/clear water) were surveyed in the upper Madeira, but the species was not captured. Provided that the species occurs upstream of the lower Madeira, its dispersion may have been hindered by the rapids, as may be the case for P . sextuberculata.
+In this study, Peltocephalus dumerilianus has been 
+recorded in the Madeira-Purus interfluvium in the municipality of Manicoré (middle Madeira). Three previous voucher-based records exist for this region, but their georeferenced location has not been published so far. One carapace was found along the Mariepauá River, on the right margin of the Madeira (Vogt et al. 2007), and two individuals were captured between km 300 and km 450 of the BR-319 Highway (UFAM/DNIT 2009). The species also frequently was mentioned as a preferred consumption item by local inhabitants in the same region (NUSEC/UFAM 2014a, 2014b). Although we failed to capture P . dumerilianus in the upper Madeira, the species was described very accurately by fishermen as occurring in lakes and streams further inland from our survey area. Thus its occurrence remains possible, but still to be confirmed, in the upper Madeira region.
+The occurrence of Chelus fimbriatus was confirmed Table 2. Checklist of chelonian species expected to occur in one or both areas surveyed: Madeira-Purus interfluvium along the low and middle Madeira River 
+(east of Humaitá) and in and along the upper Madeira River (between Porto Velho and Cachoeira do Jirau). Species marked with a hyphen were expected to occur in the region, but not in the type of aquatic habitats surveyed. “other studies” refers to species records by other recent surveys that produced voucher based material in the lower Madeira region and corresponding area of the Madeira-Purus interfluvium (
+1Vogt et al. 2007; 2UFAM/DNIT 2009). 
+Family Species Upper MadeiraMadeira-Purus 
+interfluvium Other studies
+Chelidae Chelus fimbriatus P P P1
+Chelidae Mesoclemmys gibba P P P1, 2
+Chelidae Mesoclemmys raniceps P P not found
+Chelidae Phrynops geoffroanus not found not found not found
+Chelidae Platemys platycephala P P P2
+Podocnemididae Podocnemis expansa P - not found
+Podocnemididae Podocnemis erythrocephala not found - not found
+Podocnemididae Podocnemis sextuberculata P - P1
+Podocnemididae Podocnemis unifilis P - P1, 2
+Podocnemididae Peltocephalus dumerilianus not found P P1, 2
+Kinosternidae Kinosternon scorpioides not found not found not found
+Testudinidade Chelonoidis denticulata P not found P1 Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 9
+Keller et al.  |  Check list of chelonians in the Madeira Riverboth in the lower Madeira-Purus interfluvium and in 
+the upper Madeira River, indicating that the species is likely to be present in tributaries and lentic aquatic habitats along the whole Madeira River. This is further confirmed by the record of a C. fimbriatus carapace near the Aripuanã River, on the right margin of the middle Madeira (Vogt et al. 2007). Interestingly, one individual of C. fimbriatus (CF-02, Table 1) was captured by fyke 
+net on the main channel of the upper Madeira River, in a section where the bank is steep-sloped, the channel is around 30m deep (Tizuka 2013), and there is no nearby tributary. The species is usually associated with lentic and shallow water bodies (Rueda-Almonacid et al. 2007; Vogt 2008). One individual (Table 1, INPA-H 35460) was found estivating alongside other conspecific individuals that were buried in a dried floodplain lake.
+Both Mesoclemmys gibba and M. raniceps had no 
+published voucher-based records for the Madeira River, apart from one location each at the Madeira-Amazonas confluence (Ernst 1981a; Iverson et al. 2000). Mesoclemmys raniceps appeared in almost all sampling sites along the Madeira-Purus interfluvium and was captured more frequently than M. gibba (13 overall records of M. raniceps, including the nine listed in Table 1, and one M. gibba). Other voucher-based records of M. gibba exist for the same area, but their georeferenced location has not been published so far. Two individuals were captured along the BR-319 Highway between km 250 and km 535 (UFAM/DNIT 2009) and some individuals were found along the Aripuanã River (Vogt et al. 2007). The faunal rescue in areas to be flooded by the Santo Antônio dam, which lies entirely within our study area in the upper Madeira, listed 116 individuals of Mesoclemmys  on both margins of the Madeira (Keller 
+et al. 2013), including five of the ten Mesoclemmys  in 
+Table 1 (photo vouchers MG-03, MR-09,10,11 and 12 in Appendix 2). All rescued Mesoclemmys were identified 
+as M. gibba by the rescue team (Marçal et al. 2011). 
+However, four of five rescued individuals we were able to examine in the screening center were M. raniceps, not M. gibba. Both species may be easily mistaken for each other (see Appendix 1) by non-specialized researchers, as is often the case with rescue crews. Therefore, it is likely that an unknown proportion of the Mesoclemmys  
+identified as M. gibba during rescue operations actually were M. raniceps. The available data indicate that both 
+M. raniceps and M. gibba occur in sympatry along the Madeira River and in the Madeira-Purus interfluvium. In the upper Madeira basin, only records of M. raniceps exist along the Mamoré-Guaporé River (Iverson et al. 2000). It is still not clear whether both species occur syntopically. In the lower Madeira region, M. gibba has been found in ponds and temporary pools, while M. raniceps were captured in small streams. However, in the upper Madeira, two M. gibba were found in a forest stream (Appendix 2, photo vouchers MG-04 and 05), while all other Mesoclemmys  were found in igapó 
+(flooded forest) areas.
+No georeferenced record of Phrynops geoffroanus has 
+been published so far for the Madeira River, including our surveys. The species is listed for the upper Madeira in the initial environmental impact assessment report for the Santo Antônio and Jirau dams (Lima et al. 2005), and also for the upstream area of Costa Marques, on the Guaporé River, in the ecological zoning report for the state of Rondônia (Tecnoslo/DHV/EPTISA 1998). Lima et al. (2005) claim to have recorded two basking individuals of P . geoffroanus during visual surveys along a 297-km transect (380 km travel distance) in an area corresponding to the future reservoirs of both the Santo Antônio and Jirau powerplants (no voucher exists to support these records). We performed visual surveys along a 346-km transect (2,837 km travel distance) (Keller et al. 2013), but only in the area of the Santo Antonio reservoir, where we failed to record P . geoffroanus. Thus, its presence in the upper Madeira remains probable but in need of confirmation.
+Platemys platycephala generally is expected to be found 
+in rainforest ponds and pools throughout the Amazon, although georeferenced records are few in contrast with its perceived ubiquitous presence (Ernst 1987; Iverson et al. 2000). Some old records for this species exist in the Bolivian part of the Madeira basin, but only one in the lower Madeira region and two in the Madeira-Purus interfluvium (Ernst 1987; Iverson et al. 2000). Platemys platycephala was the most frequently found species in the Madeira-Purus interfluvium survey (19 records overall, including the seven voucher-based specimens in Table 1). It was also the second most common chelonian species found during fauna rescue in the area of the Santo Antônio dam reservoir (100 records listed for both margins of the Madeira) (Keller et al. 2013) and the Jirau dam reservoir (12 individuals, NATURAE 2012). The available data indicate that P . platycephala likely occurs continually on both margins along the middle and upper Madeira River.
+Two records of Kinosternon scorpioides  for the Madeira 
+basin in Iverson (1992) have been withdrawn in the updated digital version of its distribution map (Iverson et al. 2000), but one older record remains in the lower Madeira-Purus interfluvium (Berry and Iverson 2001). Egg-laying sites of the species were recorded in mangrove areas along the blackwater Matupiri River, a tributary of the lower Madeira River (Andrade et al. 2011) and scattered records were mentioned from the interior of Rondônia state (Vogt 2008). All recent voucher-based surveys along the Madeira and the Madeira-Purus interfluvium (Vogt et al. 2007; UFAM/DNIT 2009; this study) have failed to record the species. Likewise, it was not found during faunal rescue for the Santo Antônio  Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 10
+Keller et al.  |  Check list of chelonians in the Madeira Riverand Jirau dam reservoirs (Marçal et al. 2011; NATURAE 
+2012).
+The absence of Chelonoidis denticulata  in the 
+Madeira-Purus interfluvium was surprising, especially considering that 80% of the sampling modules were located in well preserved and sparcely inhabited for -
+ested areas. Informal surveys with local inhabitants confirmed the absence of this species in forests along the BR-319 Highway. Likewise, during RAP surveys along the middle flow of the Madeira between Borba and Manicoré, no tortoises were found in the wild; they were recorded only as captive individuals in one local community (Vogt et al. 2007), or mentioned as col-lected, kept as pets and consumed in questionaires to local inhabitants (NUSEC/UFAM 2014a, 2014b). This scarcity might be due to habitat unsuitability, as well as overexploitation. As expected, the species occurred in forested areas along the upper Madeira. Faunal rescue yielded 115 Chelonoidis individuals on both margins of 
+the Madeira in the area now under the Santo Antônio reservoir (Keller et al. 2013), and six individuals in the area of the Jirau dam reservoir (NATURAE 2012); these were all identified as C. denticulata (Marçal et al. 2011; 
+NATURAE 2012).
+Of the 16 or 17 species of chelonians listed for the 
+Amazon region by Vogt (2008) and Rueda-Almonacid et al. (2007), respectively, 12 have been found to occur or expected to occur in or along the Madeira River. Records in the Madeira-Purus interfluvium were in accordance with the findings of other voucher-based surveys in the area (Vogt et al. 2007; UFAM/DNIT 2009). Podocnemis expansa  and P . unifilis occur in the inter-rapids sections 
+of the upper Madeira. Podocnemis sextuberculata, which had previously been recorded only in the lower Madeira (downstream of the confluence with the Aripuanã River), is now known to occur as far as the lower limit of the rapids sections of the upper Madeira. Chelus fimbriatus, Mesoclemmys raniceps, Mesoclemmys gibba, Platemys 
+platycephala and Chelonoidis denticulata  likely occur 
+along the whole river and the adjacent Madeira-Purus interfluvium. Peltocephalus dumerilianus is confirmed 
+to occur in the middle Madeira region, with its possible presence in the upper Madeira requiring confirmation. To our knowledge, there is still no voucher-based and georeferenced published record for Phrynops geoffroanus or Kinosternon scorpioides  for the Madeira River, although 
+anecdotal information suggests these species occur at least in part of the river basin. Podocnemis erythrocephala was not confirmed either, although previous records exist for the species in the lower Madeira region (Iverson et al. 2000), including important breeding sites (Andrade et al. 2011).
+Despite the scarcity of publicly available records of 
+chelonians from the Madeira River, the diversity of species in and along the Madeira is high by Amazonian standards. Vogt et al. (2007) concluded that there is a generally low abundance of chelonians in the middle Madeira region. While this seems to be true for historically overexploited mass-breeders like Podocnemis expansa  and P . unifilis, and also for the highly appreciated 
+and easily collected Chelonoidis denticulata , it may have 
+been a misleading impression for other, more secretive species. The available data indicate that Mesoclemmys raniceps  and M. gibba, as well as Platemys platycephala, 
+may actually be frequent and relatively abundant along the Madeira. The phylogeographic relation and possible niche segregation of M. raniceps and M. gibba are among the interesting questions that follow from their distribution pattern along the Madeira.
+With the possible but unconfirmed exception of 
+Phrynops geoffroanus, the available data indicate that the chelonian species found in the areas affected by the Santo Antônio and Jirau reservoirs in the upper Madeira also are found downstream from the dams. Moreover, chelonian diversity seems to be higher in the lower Madeira region, with the additional presence of Podocnemis sextuberculata, P . erythrocephala and 
+Kinosternon scorpioides . Therefore, the impact of the 
+hydropower plants probably will not be on overall chelonian diversity in the Madeira subbasin but more importantly, will affect the connectivity of populations up- and downstream from the dams of the species that depend on main river channels for dispersal and migration, mainly Podocnemis expansa  and P . unifilis.
+ACKNOWLEDGEMENTS
+Chelonian surveys in the upper Madeira River were 
+carried out as part of the Wildlife Conservation Program from Santo Antonio Energia S.A., the concessionaire responsible for building and operating the Santo Antonio Hydroelectric Plant, in the Madeira River in southwest -
+ern Brazilian Amazonia (Rondônia state). Surveys in the Madeira-Purus interfluvium were financed by PRONEX/FAPEAM/CNPQ (edital 003/2009, project “Fatores ecológicos e históricos na evolução da biota amazônica: variação molecular e fenotípica de espé-cies e comunidades biológicas na Amazônia Ocidental”, co-ordinated by Albertina P .Lima; and edital 16/2006, project “Planejamento de levantamentos da biodivers -
+idade e monitoramento de processos ecossistémicos para inclusão científica de comunidades rurais ao longo da BR-319 no estado do Amazonas”, co-ordinated by William E. Magnusson). We thank Richard C. Vogt for help with the identification of Mesoclemmys individuals; Albertina Lima, Pedro Ivo Simões, Rafael de Fraga, Zilca Campos, Raquel Moura, Priscila Pereira, Jussara Dayrell and the CPRM survey group for the capture and/or photographic record of turtles and tortoises during their fieldwork, and the staff of the Wild Animal Screening Center (CETAS) of Santo Antonio Energia for access to turtles from the  Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 11
+Keller et al.  |  Check list of chelonians in the Madeira Riverfaunal rescue housed in the center. Caio F . Pereira da Silva, 
+Eurizângela P . Dary, José da Silva Lopes, Jõao A. de Souza and Mael offered valuable assistance during fieldwork in the Madeira-Purus interfluvium.
+LITERATURE CITED
+Andrade, P .C.M., J.A.M. Duarte, P .H.G. Oliveira, P .M. Costa, A. 
+Vicente, A. Brelaz, C.D. Almeida-Junior, W. Rodrigues, J. 
+Nascimento, H.C. Medeiros, L. Mendonça-Neto, S.H. Azevedo and J.R.S. Pinto. 2011. Áreas de reprodução de quelônios protegidas pelo RAN-IBAMA/Amazonas e UFAM; pp. 55–126, in: P .C.M. Andrade (org). Criação e manejo de quelônios no Amazonas. 2
+nd ed. Manaus: ProVárzea/IBAMA and AquaBio.
+ASF (Alaska Satellite Facility). 2015. Alaska Satellite Facility’s data 
+portal for remotely sensed imagery of the Earth. Accessed at https://vertex.daac.asf.alaska.edu/, 26 June 2016.
+Berry, J.F . and J.B. Iverson. 2001. Kinosternon scorpioides . Catalogue 
+of American Amphibians and Reptiles 725: 1–11. https://www.zenscientist.com/index.php/pdflibrary2/Open-Access-Journals/caar/Kinosternon-scorpioides/
+Cantarelli, V .H. 2006. Alometria reprodutiva da tartaruga-da-
+Amazônia (Podocnemis expansa ): bases biológicas para o manejo 
+[PhD thesis]. Piracicaba: Universidade de São Paulo (USP)/Escola Superior de Agricultura Luiz de Queiroz (ESALQ). 118 pp. Accessed at http://www.teses.usp.br/teses/disponiveis/91/91131/tde-16102006-163143/pt-br.php, 26 June 2016.
+Cella-Ribeiro, A., G. Torrente-Vilara, D.B. Hungria and M. Oliveira. 
+2013. As corredeiras do rio Madeira; pp. 56–63, in: L.J. Queiroz, G. Torrente-Vilara, W.M. Ohara, T. Pires, J. Zuanon and C.R.C. Doria (eds). Peixes do rio Madeira. São Paulo: Editora Dialeto.
+Costa, J.B.S., R. Lea Bemerguy, Y. Hasui and M. da Silva-Borges. 
+2001. Tectonics and paleogeography along the Amazon River. Journal of South American Earth Sciences 14(4): 335–347. doi: 10.1016/S0895-9811(01)00025-6
+Ernst, C.H. 1981a. Phrynops gibbus. Catalogue of American Amphibians 
+and Reptiles 279: 1–2. Accessed at https://www.zenscientist.com/index.php/pdflibrary2/Open-Access-Journals/caar/Phrynops-gibbus/, 26 June 2016.
+Ernst, C.H. 1981b. Rhinoclemmys punctularia. Catalogue of American 
+Amphibians and Reptiles 276: 1–2. Accessed at https://www.zenscientist.com/index.php/pdflibrary2/Open-Access-Journals/caar/Rhinoclemmys-punctularia/, 26 June 2016.
+Ernst, C.H. 1987. Platemys . Catalogue of American Amphibians and 
+Reptiles 405: 1–4. Accessed at https://www.zenscientist.com/index.php/pdflibrary2/Open-Access-Journals/caar/Platemys/, 26 June 2016.
+Ernst, C.H. and T.E.J. Leuteritz. 1999. Geochelone carbonaria. Catalogue 
+of American Amphibians and Reptiles 690: 1–7. Accessed at https://
+www.zenscientist.com/index.php/pdflibrary2/Open-Access-Journals/caar/Geochelone-carbonaria/, 26 June 2016.
+Ernst, C.H. and T.E.J. Leuteritz. 1999. Geochelone denticulata. Catalogue 
+of American Amphibians and Reptiles 691: 1–6. Accessed at https://www.zenscientist.com/index.php/pdflibrary2/Open-Access-Journals/caar/Geochelone-denticulata/, 26 June 2016.
+ESBR (Energia Sustentável do Brasil). 2012. Relatório final de 
+atendimento às condicionantes da Licença de Instalação (LI) n° 621/2009 da AHE Jirau. Energia Sustentável do Brasil S.A. Final technical report of the pre-flooding monitoring program for the Jirau hydropower plant. 590 pp. Accessed at http://licenciamento.ibama.gov.br/Hidreletricas/Jirau/Relatorio Semestral/Pos LI/, [from this link access: relatorio final_anexos >AHE Jirau-Relatorio Final.pdf], 26 June 2016.
+Félix-Silva, D. and E. Sábato. 2014. Relatório consolidado da fase 
+de pós-enchimento do Sub-programa de Monitoramento de Herpetofauna de Rios – Quelônios da UHE Santo Antônio. Final technical report for SETE Soluções e Tecnologia Ambiental/
+Santo Antônio Energia S.A. Final technical report of the first stage of post-flooding monitoring program of chelonians for the Santo Antônio hydropower plant. 148 pp. Accessed at http://licenciamento.ibama.gov.br/Hidreletricas/Santo Antonio (Rio Madeira)/Relatorios/POS LO , [from this link access: 
+Relatorios consolidados – monitoramento de fauna > Relatorio consolidado_Monitoramento Quelonios.pdf], 26 June 2016.
+Fraga, R.de, A.J. Stow, W.E. Magnusson and A.P . Lima. 2014. The 
+costs of evaluating species densities and composition of snakes to assess development impacts in Amazonia. PLoS ONE 9(8): e105453. doi: 10.1371/journal.pone.0105453
+Gravena, W., I.P . Farias, M.N. da Silva, V .M.F . da Silva and T. Hrbek. 2014. 
+Looking to the past and the future: were the Madeira River rapids a geographical barrier to the boto (Cetacea: Iniidae)? Conservation Genetics 15(3): 619–629. doi: 10.1007/s10592-014-0565-4
+Horbe, A.M.C., M.M.A. Queiroz, C.A.V . Moura and M.A.G. Toro. 
+2013. Geoquímica das águas do médio e baixo Rio Madeira e seus principais tributários – Amazonas – Brasil. Acta Amazonica 43(4): 489–504. doi: 10.1590/S0044-59672013000400011
+Hrbek, T., W.R. Vasconcelos, G. Rebelo and I.P . Farias. 2008. 
+Phylogenetic relationships of South American alligatorids and the caiman of the Madeira River. Journal of Experimental Zoology, Part A: Ecological Genetics and Physiology 309A(10): 588–599. doi: 10.1002/jez.430
+IBGE (Instituto Brasileiro de Geografia e Estatística). 1997. Recursos 
+naturais e meio ambiente: uma visão do Brasil. 2
+nd ed. Rio de 
+Janeiro: Instituto Brasileiro de Geografia e Estatística. 205 pp.
+Iverson, J.B. 1992. A revised checklist with distribution maps of the 
+turtles of the world. Richmond: printed privately. 363 pp.
+Iverson, J.B., A.J. Kimerling, A.R. Kiester, L.E. Hughes and J. 
+Nicolello. 2000. World turtle database at the EMYSystem. Accessed at http://emys.geo.orst.edu/, 26 June 2016.
+Iverson, J.B. and R.C. Vogt. 2002. Peltocephalus  and P . dumerilianus. 
+Catalogue of American Amphibians and Reptiles 744: 1–4. Ac-  
+cessed at https://www.zenscientist.com/index.php/pdflibrary2  
+/Open-Access-Journals/caar/Peltocephalus-and-P .-dumerilianus/,  26 June 2016.
+Keller, C., R. Bernhard, D. Félix-Silva, F . Villamarín and A.L. 
+Bermúdez-Romero. 2013. Relatório final da fase de pré-enchimento do Programa de Monitoramento de Herpetofauna da UHE Santo Antônio – RO, Sub-Programa Herpetofauna de Rios, Parte 2 – Quelônios. INPA/Santo Antônio Energia S.A. - SAE. Final technical report of the pre-flooding monitoring program of chelonians for the Santo Antônio hydropower plant. 57 pp. Accessed at http://licenciamento.ibama.gov.br/Hidreletricas/
+Santo Antonio (Rio Madeira)/Relatorios/POS LI, [from this link access: Relatorio Final > Relatorios finais fauna > Rel pre-ench QUELONIOS 2013-05-20.pdf], 26 June 2016.
+Lima, A.P ., C. Keller and G.H. Rebêlo. 2005. Estudos ambientais 
+no Rio Madeira no trecho Cachoeira Santo Antônio – Abunã (EIA-RIMA UHE Santo Antônio e UHE Jirau). Relatório final do grupo de herpetofauna. INPA/Furnas Centrais Hidrelétricas S.A. Unpublished environmental impact assessment report for Furnas S.A. 64 pp.
+Magnusson, W.E., A.P . Lima, R. Luizão, F . Luizão, F .R.C. Costa, C.V . 
+de Castilho and V .P . Kinupp. 2005. RAPELD: a modification of the Gentry method for biodiversity surveys in long-term eco-logical research sites. Biota Neotropica 5(2): 01005022005. doi: 10.1590/S1676-06032005000300002
+Marçal, A.S., I.B.S.R. Gomes and J.T. Coragem (org.). 2011. UHE Santo 
+Antônio: Guia das Espécies de Fauna Resgatadas. Porto Velho: Santo Antônio Energia S.A./Scriba Comunicação Corporativa. 328 pp. Accessed at http://www.santoantonioenergia.com.
+br/wp-content/uploads/2014/10/guia_fauna_UHE_santo_antonio.pdf , 26 June 2016. Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 12
+Keller et al.  |  Check list of chelonians in the Madeira RiverNATURAE (Naturae Consultoria Ambiental). 2012. Programa de 
+Acompanhamento do Desmatamento e Resgate da Fauna Sil-
+vestre – PADRFS do AHE Jirau. Naturae Consultoria Ambiental/Energia Sustentável do Brasil S.A. – ESBR. Terceiro relatório téc -
+nico semestral. Technical report on fauna rescue in deforestation areas for the Jirau hydropower plant. 88 pp. Accessed at http://
+licenciamento.ibama.gov.br/Hidreletricas/Jirau/Relatorio Semestral/Pos LI/, [from this link access: relatorio final_anexos > 4 Programas > 4.16 – PADRFS > Anexo 4.16.1 > Relatorio Semes -
+tral 3–PADRFS–AHE Jirau.pdf], 26 June 2016.
+NUSEC/UFAM (Núcleo de Socioeconomia/Universidade Federal do 
+Amazonas). 2014a. Plano de gestão da Reserva de Desenvolvi-mento Sustentável do Rio Madeira. Vol. 1 – Diagnóstico. Série Técnica de Planos de Gestão # 22. Manaus: Centro Estadual de Unidades de Conservação (CEUC)/Secretaria de Estado do Meio Amdiente e Desenvolvimento Sustentável (SDS). 292 pp.
+NUSEC/UFAM (Núcleo de Socioeconomia/Universidade Federal do 
+Amazonas). 2014b. Plano de gestão da Reserva de Desenvolvim-ento Sustentável Igapó-Açu. Vol. 1 – Diagnóstico. Série Técnica de Planos de Gestão # 17. Manaus: Centro Estadual de Unidades de Conservação (CEUC)/Secretaria de Estado do Meio Amdiente e Desenvolvimento Sustentável (SDS). 312 pp.
+Queiroz, L.J., G. Torrente-Vilara, W.M. Ohara, T.H.S. Pires, J. 
+Zuanon and C.R.C. Doria. (org.) 2013. Peixes do Rio Madeira. São Paulo: Editora Dialeto/Porto Velho: Santo Antonio Energia S.A. 1169 pp. Accessed at http://www.santoantonioenergia.com.br/peixesdoriomadeira/ , 26 June 2016.
+RADAMBRASIL (Projeto Radambrasil). 1978. Mineral, D. N. P . Folha 
+SB. 20 Purus: geologia, geomorfologia, pedologia, vegetação e uso potencial da terra. Rio de Janeiro: Instituto Brasileiro de Geografia e Estatística (IBGE). 566 pp.
+Rossetti, D.F ., P . Mann de Toledo and A.M. Góes. 2005. New geological 
+framework for Western Amazonia (Brazil) and implications for biogeography and evolution. Quaternary Research 63(1): 78–89. doi: 10.1016/j.yqres.2004.10.001
+Rueda-Almonacid, J.V ., J.L. Carr, R.A. Mittermeier, J.V . Rodrí-
+guez-Mahecha, R.B. Mast, R.C. Vogt, A.G.J. Rhodin, J. de la Ossa-Velásquez, J.N. Rueda and C.G. Mittermeier. 2007. Las tortugas y los cocodrilianos de los países andinos del Trópico. Serie Guías Tropicales de Campo n° 6. Bogotá: Conservation International/Editorial Panamericana. 538 pp. Accessed at http://www.iucn-tftsg.org/wp-content/uploads/file/Articles/Rueda-Almonacid_etal_2007.pdf , 26 June 2016.
+Schneider, L., J.B. Iverson and R.C. Vogt. 2012. Podocnemis unifilis. Cata-
+logue of American Amphibians and Reptiles 890: 1–33. Accessed at https://www.zenscientist.com/index.php/pdflibrary2/Open-
+Access-Journals/caar/Podocnemis-unifilis/, 26 June 2016.
+SEDAM (Secretaria de Estado do Meio Ambiente). 1998. Diagnóstico 
+sócio-econômico-ecológico do Estado de Rondônia e assistência técnica para formulação da segunda aproximação do zoneamento sócio-econômico-ecológico. Relatório técnico para o Governo de Rondônia. Unpublished technical report on the assessment of the socio-economic and ecological zoning for the state of Rondônia, Brazil. Porto Velho: Secretaria de Estado do Meio Ambiente. 56 pp.
+Simões, P .I., A.P . Lima and I.P . Farias. 2012. Restricted natural 
+hybridization between two species of litter frogs on a threatened landscape in southwestern Brazilian Amazonia. Conservation Genetics 13(4): 1145–1159. doi: 10.1007/s10592-012-0362-x
+Smith, N.J.H. 1979. Aquatic turtles of Amazonia: An endangered 
+resource. Biological Conservation 16(3): 165–176. doi: 10.1016/0006-3207(79)90019-3
+Soares, F .G.S. 2000. Distribuição, mortalidade e caça de Podocne -
+mis (Testudinata, Pelomedusidae) no Rio Guaporé, Rondônia, Brasil [MSc thesis]. Manaus: Instituto Nacional de Pesquisas da Amazônia (INPA). 61 pp.Soares-Filho, B.S., D.C. Nepstad, L.M. Curran, G.C. Cerqueira, R.A. 
+Garcia, C.A. Ramos, E. Voll, A. McDonald, P . Lefebvre and P . Schlesinger. 2006. Modelling conservation in the Amazon basin. Nature 440: 520–523. doi: 10.1038/nature04389 
+Tizuka, M.M. 2013. Geoarqueologia e paleohidrologia da planície 
+aluvial holocênica do alto rio Madeira entre Porto Velho e Abunã-RO [MSc thesis]. Rio Claro: Universidade Estadual Paulista (UNESP). 170 pp. Accessed at http://repositorio.unesp.br/bitstream/handle/11449/92805/tizuka_mm_me_rcla.pdf?sequence=1, 21 July 2016.
+UFAM/DNIT (Universidade Federal do Amazonas/Departamento 
+Nacional de Infraestrutura e Transporte). 2009. Estudo de impacto ambiental EIA-RIMA – BR-319 (km 250,0–655,7). Vol. III – Meio Biótico. Universidade Federal do Amazonas (UFAM)/Departamento Nacional de Infra-Estrutura de Transportes (DNIT). Final report on the environmental impact assessment for the repavement of the BR-319 Highway. 415 pp. Accessed at http://licenciamento.ibama.gov.br/Rodovias/ [from this link access: BR 319 AM segmento 
+entre os km 250 e km 655 > EIARIMA > Vol.
+ 3 Meio Biótico > Vol. 
+3 Meio Biótico.pdf], 26 June 2016.
+Vianna, C.M. 1973. A tartaruga no contexto histórico; pp 66–95, in: 
+IICA (Instituto Interamericano de Ciencias Agrícolas). Proceed-ings of the Simpósio Internacional sobre Fauna Silvestre e Pesca Fluvial e Lacustre Amazônica. Manaus. Vol. II. San José: Instituto Interamericano de Ciencias Agricolas – IICA Trópicos/Brasília: Instituto Brasileiro de Desenvolvimento Florestal (IBDF)/Super -
+intendência do Desenvolvimento da Pesca (SUDEPE).
+Vieira, C. 2015. Estrutura genética de Podocnemis expansa (Testudines, 
+Podocnemididae) no alto Rio Madeira e sua implicação na avaliação do impacto das hidrelétricas de Jirau e Santo Antônio (Rondônia, Brasil) [MSc thesis]. Manaus: Instituto Nacional de Pesquisas da Amazônia (INPA). 74 pp. Accessed at http://bdtd.inpa.gov.br/handle/tede/1884, 26 June 2016.
+Vieira, I.C.G., P .M. Toledo, J.M.C. Silva and H. Higuchi. 2008. 
+Deforestation and threats to biodiversity of Amazonia. Brazilian Journal of Biology 68(4): 949–956. doi: 10.1590/S1519-
+69842008000500004
+Vogt, R.C. 1980. New methods for trapping aquatic turtles. Copeia 
+1980(2): 368–371. doi: 10.2307/1444023 
+Vogt, R.C. 2008. Tartarugas da Amazônia. Manaus: Instituto Nacional 
+de Pesquisas da Amazônia (INPA)/Amazon Conservation Association; Lima: Gráfica Biblos. 104 pp.
+Vogt, R.C. 2012. Detecting and capturing turtles in freshwater 
+habitats; pp. 335–337, in: R.W. McDiarmid, M.S. Foster, C. Guyer, J.W. Gibbons and N. Chernoff (orgs.). Reptile Biodiversity: Standard Methods for Inventory and Monitoring. Berkeley: University of California Press. 
+Vogt, R.C., C.R. Ferrara, R. Bernhard, V .T. de Carvalho, D.C. 
+Balensiefer, L. Bonora and S.M.H. Novelle. 2007. Herpetofauna; pp. 127–143, in: L. Rapp Py-Daniel; C. P . de Deus; A.L. Henriques; D.M. Pimpão and O.M. Ribeiro (orgs.). Biodiversidade do médio Madeira: bases científicas para propostas de conservação. Vol. 29. Manaus: Ministério do Meio Ambiente (MMA). 
+Author contributions: CK, FV , RB and DFS collected the data, CK reviewd distribution data and wrote the manuscript, FV prepared the maps, CK and FV prepared the photo vouchers.
+Received: 25 November 2015
+Accepted: 3 July 2016Academic editor: Julie Ray Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 13
+Keller et al.  |  Check list of chelonians in the Madeira RiverAPPENDICES
+APPENDI x 1
+Species diagnosis of the chelonians recorded along the BR-319 
+Highway (state of Amazonas, Brazil), in the Madeira-Purus interfluvium along the lower and middle Madeira River (east of Humaitá), and in and along the upper Madeira River (state of Rondônia, Brazil), between Porto Velho and Cachoeira do Jirau. Unless otherwise stated, diagnostic characteristics are based on the species descriptions in Rueda-Almonacid et al. (2007) and Vogt (2008), highlighting those aspects that were more useful in field identification. Some attributes are referred to photo vouchers in Appendix 2. SCL = straight carapace length (maximum straight-line measurement). Common names in English [E] and Portuguese [P] are provided.
+Suborder Pleurodira
+Family Chelidae
+ 
+Chelus fimbriatus (Schneider, 1738) (Matamata Turtle [E], mata-
+matá [P]) 
+ The species is easily identified by its large, flattened and 
+triangular head (due to supra-tympanical dermal outgrowths and a long and fine cylindrical snout); the neck is long and thick, as broad as the head, and covered with tubercules; the carapace is marginally serrated with conspicuous dorsal and costal protuberances (see Appendix 2, photo-vouchers CF-01,02 and 03). It reaches about 50 mm SCL. 
+Mesoclemmys raniceps  (Gray, 1855) (Black-lined Toadhead Turtle 
+[E], lalá [P]) 
+ Adults of this species are up to 330 mm SCL. The most striking 
+attribute is its massive head (about 25% of SCL), with conspicuously 
+large masseter muscles, dark on the dorsal side, and yellowish-rimmed jaws on the lateral and ventral side. The plastron is dark or interspersed with yellowish areas (Appendix 2, photo-vouchers MR-01 to 07, 09 to 11 and 13). Juveniles have dark vermiculations or spots on the head and/or neck (MR-08 and 12). 
+Mesoclemmys gibba (Schweigger, 1812) (Keel-back Sideneck Turtle 
+[E], cágado-de-poças-de-floresta [P])
+ M. g ibba is smaller than M. raniceps (adults < 230 mm SCL). In 
+comparison with M. raniceps, it has a narrower, pointed and uni-formly dark-colored head (dorsal and ventral sides), carapace and plastron (Appendix 2, photo-vouchers MG-01 to 04). A subtle keel runs along the central dorsal carapace (best seen in MG-03). The individual of photo voucher MG-05 had unusually light brown pig-mentation. 
+Platemys platycephala (Schneider, 1792) (Twistneck Turtle [E], 
+jabuti-machado [P]) 
+ This sm all chelid (adults < 180 mm SCL) is found only in shallow 
+forest pools and swamps. The narrow head is streamlined with the neck and is variably bright orange-yellow on the dorsal side; this pigment extends along the neck. Two conspicuous dorsal parallel keels run along the carapace, which also has broad black stripes on brown background (Appendix 2, photo-vouchers PP-01 to 08).
+Family Podocnemididae
+ Podocnemis  spp. have a characteristic interorbital groove, well developed interdigital membranes, and inhabit large to medium-
+sized rivers. 
+Podocnemis expansa (Schweigger, 1812) (South American Giant 
+River Turtle [E], tartaruga-da-Amazônia [P]) 
+ This s pecies has the most hydrodynamic morphology among 
+Podocnemis , with a flat, posteriorly broadened carapce (Appendix 2, 
+photo vouchers PE-01 to 04), strong limbs with stoutly developed interdigital membranes (see PE-01, bottom left) and eyes in dorsal position (best seen in PE-01 and 04). Adults can be distinguished by size alone (up to 900 mm SCL). In our samples, SCL were > 400 mm for males and > 500 mm for females (Keller et al. 2013). Carapace and limbs tend to be uniformly gray; the plastron is cream-colored or intermingled with black. Juveniles have large whitish spots on the head, which survive in adults as two post-orbital whitish spots with two black ocelae (best seen in PE-01 and 04). 
+Podocnemis unifilis Troschel, 1848 (Yellow-spotted River Turtle 
+[E], tracajá [P]) 
+ This species has a more oval, domed gray-brown-olive carapace in 
+comparison with P . expansa. Adult males vary from 200–370 mm and females from 300–470 mm SCL. Juveniles have bright yellow spots on the head (Appendix 2, photo-voucher PU-01) that persist in adult males, while adult females have a brownish head. The interorbital groove is rather subtle. 
+Podocnemis sextuberculata Cornalia, 1849 (Six-tubercled Amazon 
+River Turtle [E], iaça, pitiú [P]) 
+ This is th e smallest of the three Podocnemis  recorded, with adults 
+less than 350 mm SCL. The six plastral tubercules, on which the English name is based, are present only in juveniles. The interorbital groove is well marked and black colored; the head is brownish-gray with diffuse black pigmentation, and the general coloration is grayish-white, similar to P . expansa (Appendix 2, photo-vouchers PS-01 to 04). 
+Peltocephalus dumerilianus (Schweigger, 1812) (Big-headed 
+Amazon River Turtle [E], cabeçudo [P]) 
+ This species is predominantly known from blackwater medium-
+sized lakes and rivers. It is stout and large-bodied (adults up to 400–500 mm SCL) with a highly domed carapace. No interorbital groove is present and the head is massive and barrel-shaped, with a pronounced snout and hooked jaws (Appendix 2, photo-voucher PD-01). The carapace is uniformly olive-brown to black or gray, and the plastron yellow to cream. 
+Suborder Criptodira
+Family Testudinidae
+Chelonoidis denticulata  (Linnaeus, 1766) (Yellow-footed Tortoise 
+[E], jabuti amarelo [P])
+ This terrestrial species inhabits forested landscapes. Adults may 
+reach 800 mm SCL, but nowadays are seldom found larger than 
+400 mm. The carapace is medium brown with large diffuse yellow-cream spots that radiate from the center of the vertebral, coastal and marginal scutes; head and forelimb scales are covered with yellow to light orange spots on brown background (Appendix 2, photo-vouchers CD-01 to 04). The frontal and prefrontal scales are divided (best seen on CD-02). Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 14
+Keller et al.  |  Check list of chelonians in the Madeira RiverCD-02. Chelonoidis denticulata (photos: Rafael Bernard).
+CD-03. Chelonoidis denticulata (photos: Priscila Pereira).
+CD-04. Chelonoidis denticulata (photos: Albertina Lima).AP PENDI x 2
+Photo vouchers of chelonian specimens recorded along the BR-319 Highway (state of Amazonas, Brazil), in the Madeira-Purus interfluvium 
+along the low and middle Madeira River (east of Humaitá), and in and along the upper Madeira River (state of Rondônia, Brazil), between 
+Porto Velho and Cachoeira do Jirau. Codes on each voucher relate to the specimens on Table 1. Location points are plotted on Figures 1 and 2.
+CD-01. Chelonoidis denticulata (photos: Albertina Lima). Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 15
+Keller et al.  |  Check list of chelonians in the Madeira River
+CF-01. Chelus fimbriatus (photos Francisco Villamarín).
+CD-02. Chelus fimbriatus (photo: Rafael Bernard). Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 16
+Keller et al.  |  Check list of chelonians in the Madeira RiverCF-03. Chelus fimbriatus (photos: Claudia Keller).
+MG-01. Mesoclemmys gibba (photos: Francisco Villamarín).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 17
+Keller et al.  |  Check list of chelonians in the Madeira River
+MG-02. Mesoclemmys gibba (photos: Raquel Moura).
+MG-03. Mesoclemmys gibba (photos: Claudia Keller).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 18
+Keller et al.  |  Check list of chelonians in the Madeira River
+MG-04. Mesoclemmys gibba (photos: Zilca Campos).
+MG-05. Mesoclemmys gibba (photos: Zilca Campos).
+MR-01. Mesoclemmys raniceps (photos: Francisco Villamarín).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 19
+Keller et al.  |  Check list of chelonians in the Madeira RiverMR-02. Mesoclemmys raniceps (photos: Francisco Villamarín).
+MR-03. Mesoclemmys raniceps (photos: Francisco Villamarín).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 20
+Keller et al.  |  Check list of chelonians in the Madeira RiverMR-04. Mesoclemmys raniceps (photos: Francisco Villamarín).
+MR-05. Mesoclemmys raniceps (photos: Francisco Villamarín).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 21
+Keller et al.  |  Check list of chelonians in the Madeira RiverMR-07. Mesoclemmys raniceps (photos: Francisco Villamarín).
+MR-06. Mesoclemmys raniceps (photos: Francisco Villamarín).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 22
+Keller et al.  |  Check list of chelonians in the Madeira RiverMR-08. Mesoclemmys raniceps (photos: Claudia Keller).
+MR-09. Mesoclemmys raniceps (photos: Claudia Keller).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 23
+Keller et al.  |  Check list of chelonians in the Madeira RiverMR-10. Mesoclemmys raniceps (photos: Cleiton Souza).
+MR-11. Mesoclemmys raniceps (photos: Claudia Keller).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 24
+Keller et al.  |  Check list of chelonians in the Madeira RiverMR-12. Mesoclemmys raniceps (photos: Claudia Keller).
+MR-13. Mesoclemmys raniceps (photos: Jussara Dayrell).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 25
+Keller et al.  |  Check list of chelonians in the Madeira River
+PP-01. Platemys platycephala (photos: Francisco Villamarín).PD-01. Peltocephalus  dumerilianus (photos: Francisco Villamarín).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 26
+Keller et al.  |  Check list of chelonians in the Madeira RiverPP-04. Platemys platycephala (photos: Francisco Villamarín).PP-02. Platemys platycephala (photos: Francisco Villamarín).
+PP-03. Platemys platycephala (photos: Francisco Villamarín).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 27
+Keller et al.  |  Check list of chelonians in the Madeira River
+PP-05, PP-06, PP-07. Platemys platycephala (photo: Francisco Villamarín).PP-05 PP-06 PP-07
+PP-08. Platemys platycephala (photos: Pedro Ivo Simões).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 28
+Keller et al.  |  Check list of chelonians in the Madeira RiverPE-01. Podocnemis expansa, individual with carapace scute malformations (photos: Claudia Keller).
+PE-02. Podocnemis expansa (photos: Claudia Keller).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 29
+Keller et al.  |  Check list of chelonians in the Madeira RiverPE-03. Podocnemis expansa (photos: Claudia Keller).
+PE-04. Podocnemis expansa (photos: Claudia Keller).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 30
+Keller et al.  |  Check list of chelonians in the Madeira RiverPS-02. Podocnemis sextuberculata (photos: Claudia Keller).PS-01. Podocnemis sextuberculata (photos: Claudia Keller).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 31
+Keller et al.  |  Check list of chelonians in the Madeira River
+PS-03. Podocnemis sextuberculata (photos: Daniely Félix da Silva).
+PS-04. Podocnemis sextuberculata (photos: Claudia Keller).
+ Che ck List  |  www.biotaxa.org/cl Volume 12 | Number 4 | Article 1937 32
+Keller et al.  |  Check list of chelonians in the Madeira RiverPU-01. Podocnemis unifilis (photos: Rafael Bernhard).
