@@ -1,3 +1,3 @@
 # EcoHack-Babassu-bots
 
-this is a test
+Tropical medicinal plants database coming soon...
