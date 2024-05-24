@@ -1,0 +1,989 @@
+1
+Morcegos 
+da BR-319Na escuridão da 
+Floresta Amazônica, 
+lá estão os...
+Daniela Bôlla
+Sergio Santorelli Junior
+Rodrigo Marciente
+Luana da Silva Biz
+William E. Magnusson
+Paulo Estefano D. Bobrowiec2Organizadores:
+Sergio Santorelli Junior e Daniela Bôlla
+Projeto gráfico e diagramação:
+Yurie Yaginuma
+Fotos:
+Irineu Cunha: Figuras 2, 3, 4, 8, 16, 17, 21 e páginas 19 (A. obscurus), 20 (esquerda), 21 (inferior direita e superior esquerda), 22 
+(esquerda), 23, 24, 25, 26, 28 (V. brocki), 29 (M. microtis), 30, 310 32, 33, 34, 35 (esquerda), 36, 37, 40, 42 (direita) e 45. Daniela 
+Bôlla: Figuras 1, 5, 6, 7, 13, 14, 19, 20 e páginas 4, 10 (superior esquerda), 41 (esquerda), 42 (esquerda) e 44 (superior e inferior 
+esquerda). Patrício Adriano da Rocha: Figuras 9, 10, 15, 18 e páginas 22 (esquerda), 28 (V. bidens), 39 (Saccopteryx) e 44 (direita). 
+Fábio Falcão: Páginas 19 (C. minor), 20 (esquerda), 21 (inferior esquerda), 27 e 35 (direita). Brock e Sherri Fenton: Capa, página 6, 12 
+e 41 (direita). Carlos Henrique Russi: Página 29 (M. megalotis). Miguel E. Rodríguez Posada: Página 38. Matheus Mickael Mota Soares  
+e Júlia Melissa da Rocha Albuquerque: Página 39 (Emballonuridae).
+Foto da capa:
+Brock e Sherri Fenton (Carollia perspicillata)
+Autores:
+Daniela Bôlla, Sergio Santorelli Junior, Rodrigo Marciente, Luana da Silva Biz, William E. Magnusson, Paulo Estefano D. Bobrowiec
+Apoio e Financiamento:
+Projeto: Identificação dos impactos ambientais da rodovia BR-319 sobre a fauna na região sudoeste do Amazonas: uma abordagem 
+integrativa para compreender padrões multi-taxa, cedido a Sergio Santorelli Junior e financiado pela Fundação de Amparo à Pesquisa 
+do Estado do Amazonas (Edital PROFIX-RH - 009/2021 - 01.02.016301.00407/2022-94)
+Projeto: Programa de Pesquisas Ecológicas de Longa Duração no Sudoeste do Amazonas, cedido a William Magnusson; financiado 
+pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq/MCTI/CONFAP-FAPs/PELD - 21/2020 - 441366/2020-
+1) e Fundação de Amparo à Pesquisa do Estado do Amazonas (Chamada pública N 021/2020 – PELD Sudoeste do Amazonas | Termo 
+de outorga: 247/2022)
+Na escuridão da Floresta Amazônica, lá estão os-- : morcegos da BR-319 / Daniela Bôlla... [et al.] ; 
+organizadores Sergio Santorelli Junior, Daniela Bôlla. -- Humaitá, AM : Ed. dos Autores, 2023.
+Outros autores: Sergio Santorelli Junior, Rodrigo Marciente, Luana da Silva Biz, William E. 
+Magnusson, Paulo Estefano D. Bobrowiec.
+ISBN 978-65-00-79362-8
+1. Biodiversidade - Amazônia 2. Mamíferos - Espécies 3. Morcegos 4. Morcegos hematófagos 5. 
+Zoologia - Brasil I. Bôlla, Daniela. II. Santorelli Junior, Sergio. III. Marciente, Rodrigo. IV. Biz, Luana da 
+Silva. V. Magnusson, William E. VI. Bobrowiec, Paulo Estefano D.Dados Internacionais de Catalogação na Publicação (CIP)
+(Câmara Brasileira do Livro, SP, Brasil)
+Índices para catálogo sistemático:
+1. Morcegos : Mamíferos : Zoologia 599.4
+Tábata Alves da Silva - Bibliotecária - CRB-8/925323-170611 CDD-599.43Morcegos da BR-319Na escuridão da Floresta Amazônica, lá estão os...4
+O principal objetivo desse livro é 
+desmistificar as crenças mais comuns sobre 
+os morcegos e mostrar sua diversidade de 
+espécies, formas e cores. De maneira didática 
+e com linguagem simplificada, os leitores 
+poderão conhecer as espécies de morcegos 
+que ocorrem ao longo da BR-319, entender 
+do que elas se alimentam, sua importância 
+para o meio ambiente, os serviços ecológicos 
+que desempenham e, o principal, que as 
+ameaças que os morcegos representam 
+para a população local existem mais no 
+inconsciente coletivo do que na própria 
+realidade. Esperamos que gostem do livro e 
+compartilhem as informações contidas nele.
+Desejamos a todos uma ótima leitura!5Em silêncio e na escuridão,  enquanto 
+dormimos, eles voam alto sobre nossas cabeças.  
+Só voltam para casa quando nos deitamos, ao 
+amanhecer do dia. Quem são eles? 
+Se você respondeu, “os morcegos” , sua respos-
+ta está correta! Se você não conseguiu respon-
+der, não tem problema! Os morcegos estão en-
+tre os animais com quem menos temos contato 
+e muitos detalhes sobre eles são desconhecidos 
+para a maioria das pessoas.
+Os morcegos são mamíferos, assim como cães, 
+botos e você que está lendo este livro. Mamíferos 
+são aqueles animais que dependem do leite de 
+suas mães quando nascem até conseguirem se 
+alimentar sozinhos e se tornarem independentes. 
+Mas uma coisa separa os morcegos de nós e 
+dos outros mamíferos: a habilidade de voar!De todos os bichos que mamam, somente 
+os morcegos conseguem bater asas e sair 
+voando por aí. Apesar de muitas vezes serem 
+confundidos com pássaros, os seres que mais 
+vemos nos céus e na floresta, os morcegos são 
+mais parecidos com as antas do que com araras, 
+japiins ou tucanos. Curioso, não?!6
+Morcego é um animal geralmente 
+pequeno, sendo mais ativo entre o cair da 
+noite e o amanhecer, motivo pelo qual os 
+pesquisadores classificam os hábitos desses 
+animais como crepusculares-noturnos. Existem 
+aproximadamente 1400 espécies de morcegos 
+ao redor do mundo e até agora no Brasil já foram 
+registradas 182 espécies. Eles vivem em quase 
+todos os lugares, exceto nas regiões mais frias 
+do planeta, os Polos Norte e Sul, e em algumas 
+ilhas muito distantes dos continentes. A maioria 
+das espécies alimenta-se principalmente de 
+frutas, do néctar das flores, de insetos, peixes, 
+pequenos sapos e ratos, e existem até espécies 
+que vivem de sangue. 
+Mas fique tranquilo, o sangue dos seres 
+humanos não faz parte do cardápio principal 
+dessas espécies, já que elas preferem Afinal, o que é um morcego?
+FIGURA 1 . Morcego 
+voando no 
+interior de uma 
+caverna.
+FIGURA 2 . 
+Morcegos 
+carnívoros 
+Chrotopterus 
+auritus em abrigo.
+67
+sangue de aves e de outros mamíferos que são 
+encontrados no interior da floresta. Eles possuem 
+cores variadas de pelo, asa e pele. São animais 
+sociais e passam a maior parte de suas vidas 
+simplesmente sozinhos (FIGURA 1) , em grupos 
+pequenos ou até mesmo em grupos com milhares 
+de morcegos, dependendo da espécie (FIGURA 2) .
+Durante o dia, os morcegos ficam em locais que 
+podem ser construídos ou apenas ocupados 
+sem precisar de muitas modificações. Os abri-
+gos construídos por eles podem ser feitos de fo-
+lhas de palmeiras e de caetés (FIGURA 3) , que ser-
+vem como um excelente esconderijo de outros 
+animais que possam caçá-los. Para a construção, 
+os morcegos mordem a nervura das folhas para 
+que elas se dobrem como uma cabana, local 
+onde dificilmente vão ser vistos por predadores.
+Existem também aqueles que escavam ninhos 
+de cupins abandonados nas árvores, criando 
+um pequeno buraco para abrigar sua pequena 
+família. Outras se abrigam em galhos na copa 
+das árvores, sem mudar nada neles (FIGURA 4) . 
+Assim, cada espécie tem sua própria maneira 
+de morar.
+FIGURA 3 . Fêmea grávida do morcego-da-cara-listrada 
+Artibeus lituratus em abrigo.
+FIGURA 4 . O morcego Micronycteris microtis em abrigo na copa das árvores.
+Curiosidade: Você sabia que a estrutura da asa 
+dos morcegos é muito parecida com a das nossas 
+mãos? Possuem cinco dedos (incluindo um dedão!) 
+e todos os ossinhos e articulações (FIGURA 5) . Por isso 
+os cientistas chamam os morcegos de quirópteros, 
+palavra que vem de Chiroptera; nome do seu grupo 
+dentro da classificação dos mamíferos. “Chiro” quer 
+dizer mão e “ptera” quer dizer asa. Já imaginou se a 
+gente pudesse bater as mãos e voar?
+FIGURA 5 . Semelhança 
+entre o braço de um 
+humano e a asa de um 
+morcego. Cada cor 
+corresponde a ossos 
+homólogos (de mesma 
+origem embrionária).
+Note que nossos 
+membros superiores 
+são homólogos às 
+asas dos morcegos: 
+possuem mesma 
+origem, porém com 
+funções diferentes.8
+Que morcegos voam à noite nós 
+já sabemos. Mas, como eles se 
+comunicam e se localizam na 
+escuridão?  
+Ainda não sabemos tudo sobre os morcegos e 
+temos muitas perguntas para responder a fim de 
+melhor compreendê-los. Mas já descobrimos 
+algumas coisas interessantes. Morcegos 
+“enxergam” o ambiente na escuridão emitindo 
+um som muito baixo que chamamos de ultrassom. 
+Além de emitirem esse som, os morcegos podem 
+detectar seu eco, que é quando o som bate em 
+algum objeto e volta para o morcego que o emitiu 
+(FIGURA 6) . Através do eco, é possível detectar a 
+posição e a distância dos objetos ao seu redor, 
+feito que podemos chamar de ecolocalização.
+Incrivelmente, os morcegos fazem tudo isso 
+de cabeça, e assim eles se “ecolocalizam” no 
+ambiente. Voando e “gritando” eles sabemonde estão através do eco que os seus gritos 
+produzem no tronco das árvores, nas folhas, 
+na superfície da água, nas suas presas, 
+conseguindo voar e “ver” na escuridão e ainda 
+encontrar alimento, sem bater em nada! Mas não 
+se engane: os morcegos não são cegos. Alguns 
+enxergam muito bem! Eles também usam o seu 
+nariz para sentir cheiros e encontrar os melhores 
+jantares da floresta! (FIGURA 7) .
+Curiosidade:  Nós conseguimos ouvir em 
+uma frequência entre 2 e 20 kHz, enquanto os 
+morcegos podem emitir sons pelas narinas ou pela 
+boca e ouvir nas frequências entre 20 e 215 kHz, 
+dependendo da espécie. Por isso, quase não os 
+escutamos! Imagina como seria se escutássemos os 
+gritos de centenas de morcegos voando sobre as 
+nossas cabeças todas as noites?FIGURA 7 . Indivíduo de Pygoderma bilabiatum, evidenciando que morcegos 
+variam muito suas características morfológicas, como cores, formato dos 
+olhos e tamanho da folha nasal.
+FIGURA 6 . Os morcegos emitem ondas 
+sonoras e ouvem seu eco quando 
+encontram algum objeto, como uma 
+mariposa pronta para ser predada!9
+No Brasil, existem pelo menos 182 
+morcegos diferentes que comem 
+uma variedade imensa de itens.  Já no 
+trecho da BR-319 entre Manaus e Humaitá, os 
+pesquisadores que os estudaram registraram 
+31 espécies até o momento, e a maioria delas 
+são bem diferentes dos vampiros. Em vez de 
+sangue, comem carapanãs, piuns, mariposas 
+e outros insetos que nos incomodam muito 
+na floresta. Sem a presença dos morcegos, 
+esse incômodo poderia ser ainda maior. Esses 
+morcegos são chamados de insetívoros aéreos, 
+pois capturam os insetos no ar (FIGURA 8) .
+Mas lembre-se que os grilos, as esperanças, as 
+aranhas e outros invertebrados também fazem 
+parte da alimentação de alguns morcegos. 
+Esses animais são encontrados pelos morcegos 
+quando estão pousados em cima das plantas, 
+na sua folhagem ou troncos. Por serem 
+especialistas em catar esses bichinhos, essas 
+espécies de morcegos são conhecidas como 
+insetívoros-catadores.Outros morcegos simplesmente não se adap-
+taram a jantar insetos e preferem coisas mais 
+suculentas e doces como as frutas; morcegos 
+conhecidos como frugívoros. Bananas e os fru-
+tos de angelins e copaíba são alguns dos mui-
+tos alimentos dessas espécies (FIGURAS 9 , 10). FIGURA 9 . 
+Morcego-da-
+cara-listrada 
+Artibeus lituratus 
+alimentando-se 
+de uma manga em 
+um quintal.
+FIGURA 8 . Myotis 
+riparius, um 
+morcego insetívoro 
+aéreo, ou seja, 
+um morcego que 
+captura insetos 
+no ar para se 
+alimentar.
+FIGURA 10 . 
+Platyrrhinus 
+lineatus comendo 
+um fruto de 
+embaúba.
+10Mas tem aqueles que acham que as frutas po-
+dem ser azedas e resolveram ficar apenas com a 
+parte mais doce da floresta: o néctar. Esses são 
+os morcegos nectarívoros (FIGURA 11) , pois bebem 
+o néctar das flores e podem comer o seu pólen, 
+assim como um beija-flor, só que noturno.
+Além dos morcegos que se alimentam de insetos 
+e plantas, existem aqueles que comem carne: os 
+morcegos carnívoros! Ratos, pequenos sapos e até mesmo outros morcegos estão no cardápio 
+dessas espécies. Mas há um morcego ruivo que 
+pode ter observado os beiradeiros e deduzido 
+que peixe era saboroso. Essa espécie resolveu 
+fazer de pequenos peixes o prato principal do 
+seu cardápio! O morcego-pescador (FIGURA 12)  
+costuma viver perto de grandes igarapés, rios 
+e lagos próximos de onde você mora.FIGURA 11 . Morcegos 
+nectarívoros possuem rostro 
+alongado e língua comprida 
+para conseguir alcançar o 
+néctar dentro das flores.
+FIGURA 12 . Noctilio leporinus, o 
+morcego-pescador, também 
+é conhecido como morcego-
+buldogue pelas suas grandes 
+bochechas - local onde armazena 
+o peixe que mastiga para comer 
+depois!
+11Além destes, há aqueles que fazem a 
+fama de todas as outras espécies: os 
+morcegos-vampiros ! Esses adoram 
+se alimentar de sangue e são chamados 
+de hematófagos . No mundo inteiro, 
+somente três espécies possuem esse 
+hábito, sendo que duas delas, Diphylla 
+ecaudata (FIGURA 14)  e Diaemus youngii 
+(FIGURA 15) , preferem o sangue das aves 
+e a outra, Desmodus rotundus (FIGURA 13) , 
+consome o sangue de queixadas, antas 
+e veados. 
+Às vezes, quando esses grandes animais 
+faltam na floresta, os morcegos encontram 
+no quintal das pessoas uma oportunidade 
+para se alimentar do sangue de galinhas, 
+porcos, bois, cavalos e do dedão do 
+pé dos humanos desavisados. Mas isso 
+ocorre raramente.
+Com estes diferentes hábitos alimentares, 
+é evidente a importância dessas espécies 
+para o ambiente: elas podem controlar 
+a quantidade de insetos, semear plantas 
+depois de comer os frutos e ainda 
+polinizar as flores que usaram para beber 
+o néctar. Já imaginou como seria uma 
+floresta se eliminássemos os morcegos 
+que vivem nela?FIGURA 13 . Morcego-
+vampiro Desmodus 
+rotundus, o mais 
+comum de todos, 
+alimenta-se de 
+sangue de mamíferos.
+FIGURA 14 . Morcego-
+vampiro Diphylla 
+ecaudata, alimenta-
+se de sangue de aves.
+FIGURA 15 . 
+Morcego-vampiro 
+Diaemus youingii, 
+alimenta-
+se de sangue 
+principalmente de 
+aves.
+1112
+Mas a vida dessas espécies não se 
+resume em comer.  De uma maneira muito 
+curiosa e de um jeito único, os morcegos se 
+reproduzem e criam seus filhotes. Mas antes 
+disso acontecer, as fêmeas e os machos 
+precisam ficar adultos, o que acontece 
+geralmente aos 2 anos de idade. As mamães 
+morcego podem ter até 2 gestações por 
+ano, que duram aproximadamente 3 meses, 
+com um ou 2 filhotes por ano (mas a maioria 
+das espécies tem somente um bebê por 
+vez, como a da FIGURA 16 ). Os nascimentos 
+e a amamentação geralmente ocorrem nas 
+épocas com maior quantidade de alimento 
+(final da estação seca e metade do período 
+chuvoso), já que as mamães precisam de 
+bastante energia e disposição para criar 
+os filhotes (FIGURA 18) . E depois que nascem, 
+como que essas mamães cuidam dos bebês?
+FIGURA 16 . Fêmea de Rhinophylla fischerae grávida.
+FIGURA 17 . Fêmea de Carollia 
+no abrigo com seu filhote e 
+um jovem próximo.13
+FIGURA 18 . Fêmea de Micronycteris microtis com seu filhote agarrado 
+junto ao mamilo. Ali o filhote fica mesmo durante o voo da mãe.
+13No período de reprodução, as fêmeas de al-
+gumas espécies criam colônias-maternidade, 
+onde várias fêmeas se juntam para criar seus 
+filhotes em um único abrigo. Nessas colô-
+nias, elas se ajudam: algumas fêmeas po-
+dem ficar cuidando dos bebês enquanto as 
+outras mães saem à procura de alimento. As 
+fêmeas que saíram do abrigo, quando vol-
+tam, trazem consigo alimentos para as que 
+permaneceram no abrigo. Apesar disso,  
+na maioria das espécies que vivem na floresta, as fêmeas carregam seus filhotes junto de si 
+quando saem para buscar alimento. Eles ficam 
+agarrados embaixo das asas de suas mães, 
+nos mamilos (FIGURA 17) . Os dentes de leite des-
+ses filhotes em forma de pequenos ganchos 
+os ajudam a ficar bem presos a elas para não 
+despencarem enquanto suas mães voam. Esse 
+comportamento acontece até que os morcegos 
+jovens consigam voar e se alimentar sozinhos.14FIGURA 19 . Morcego-vampiro Desmodus 
+rotundus. Note o tamanho do dedo dessa 
+espécie comparada às demais.
+Importante! Em caso de acidente, suspeita 
+de contato com algum animal infectado ou se 
+notar mordeduras pelo corpo, principalmente 
+em crianças e nos dedões dos pés, procure 
+atendimento na Unidade Básica de Saúde mais 
+próxima da sua casa. É possível tomar as doses 
+da vacina antirrábica após entrar em contato 
+com algum animal possivelmente raivoso. A 
+vacina contra o vírus da raiva é essencial para 
+prevenir a doença e salvar vidas. A raiva é uma 
+doença sem cura. Não arrisque sua vida.Os morcegos podem transmitir doenças? 
+A questão do vírus da raiva 
+Mas, o que é a raiva, afinal? A raiva é uma 
+zoonose, ou seja, uma doença que passa de 
+animais infectados para humanos. A raiva não 
+tem cura e é causada por um vírus que pode 
+ser transmitido apenas entre os mamíferos. 
+É importante enfatizar que o vírus da raiva 
+não é transmitido apenas por morcegos! 
+O número de casos dessa doença tem 
+aumentado com o aumento do desmatamento 
+e, consequentemente, da população humana, 
+mostrando-nos a importância de manter as 
+nossas florestas em pé. Quando estão doentes 
+pelo vírus da Raiva, os morcegos podem morrer 
+e apresentam sintomas como falta de direção no 
+voo, perda de peso, medo da luz e até mesmo 
+incapacidade de voar!
+Apesar de ser considerado o principal vilão, 
+o morcego que se alimenta de sangue de ou-
+tros mamíferos, Desmodus rotundus (FIGURA 19) , 
+não é o que apresenta mais casos de infecção. 
+Mas, devido ao seu hábito alimentar, pode 
+transmitir o vírus para outros mamíferos mais 
+facilmente. Esse morcego leva entre 9 e 30 dias para morrer quando desenvolve a doença 
+e, na maioria das vezes, não apresenta com-
+portamento raivoso.
+A transmissão do vírus se dá pelo contato 
+da saliva do animal infectado com o local da 
+mordedura, quando o morcego se alimenta 
+do sangue de outros animais. Apesar de não 
+terem sido capturadas na BR-319, é provável 
+que as três espécies de morcegos-vampiros 
+ocorram nas áreas próximas à rodovia, mas 
+lembre-se que apenas três espécies 
+dentre 1400 podem se alimentar de 
+sangue de humanos , e elas não costumam 
+morar em casas humanas. Então é possível que 
+a maioria dos morcegos que você viu ou vai 
+ver na sua vida seja insetívoro ou frugívoro, os 
+mais comuns na Amazônia, como você verá a 
+seguir.15
+Os biólogos que estudaram os morcegos na 
+BR-319 identificaram diversas espécies de 
+morcegos. Para isso, eles precisaram capturá-los 
+para ver algumas características morfológicas e 
+tirar algumas medidas do corpo dos morcegos, 
+como a do comprimento do antebraço. 
+No Brasil, as espécies de morcegos não 
+costumam ter nomes populares, pois esses 
+animais são difíceis de serem vistos de perto 
+e estão sempre em movimento durante a 
+noite. Dessa forma fica difícil para as pessoas 
+observá-los por um longo tempo e apelidá-los com base em suas características ou 
+comportamento. Parecem todos iguais! Mas, 
+para evitar confusão, os cientistas utilizam 
+nomes científicos (em latim) para cada um 
+deles e esses serão os nomes empregados 
+neste guia. Sinta-se à vontade para criar seus 
+próprios nomes para memorizar as espécies 
+e expressar alguma característica importante 
+delas. Assim você consegue aprender e 
+transmitir o conhecimento a outras pessoas!
+Mas antes, veja o nome de algumas partes do 
+corpo dos morcegos na FIGURA 20 :As espécies de morcegos da BR-319
+FIGURA 20 . Anatomia básica de 
+um morcego. Algumas estruturas 
+alares podem estar ausentes em 
+outras espécies, tais como o 
+uropatágio e cauda.
+1516Agora que você aprendeu um pouco sobre como são 
+os morcegos e o que fazem, descubra mais sobre 
+a biologia de cada uma das espécies que vivem 
+em silêncio e na escuridão da BR-319, em um dos 
+ambientes com a maior diversidade de animais e 
+plantas do planeta: a Floresta Amazônica! 
+Este guia não é definitivo e, por isso, há mais 
+espécies na região do que conseguiremos descrever 
+aqui. Mas se você encontrar alguma delas, pode 
+conferir nesse guia e tentar identificá-la! Note a 
+diversidade de folhas nasais, dentição e hábitos 
+alimentares dessas espécies.
+Aqui começa sua aventura noturna! 
+Divirta-se!17Note as particularidades 
+da dentição de cada 
+espécie! Este é um 
+Hsunycteris thomasi.
+18
+* Espécies do gênero Carollia
+Descrição: Os morcegos desse gênero são 
+pequenos (10 – 23 g), geralmente acinzentados 
+ou marrons, com folha nasal e orelhas de tamanho 
+mediano. São muito difíceis de serem identificadas 
+até o nível de espécie, pois muitas vezes a única 
+diferença entre elas é o formato do crânio!
+Alimentação: Frugívoros. Alimentam-se de pequenos 
+frutos macios do bosque da floresta, como pimentas 
+e jaborandis, além de pólen e néctar. Dispersam 
+sementes para que a floresta regenere e polinizam 
+flores para produzirem frutos.Essa é a família com o maior número de espécies 
+no Brasil (93) e maior diversidade de características 
+ecológicas, morfológicas e comportamentais.
+A maioria das espécies dessa família possuem folha 
+nasal, que é uma extensão da pele do nariz. Essa 
+folha serve para que o som emitido pelos morcegos 
+seja direcionado para diferentes locais no ambiente.Família Phyllostomidae
+Carollia perspicillata 
+Carollia benkeithi 19
+19* Rhinophylla pumilio
+Descrição: Morcego pequeno (7 – 13 g) que faz tendas para se abrigar 
+geralmente em haréns – quando há um macho e duas ou três fêmeas juntos. 
+Prefere florestas sempre verdes e evita áreas abertas como pastos. Assemelha-
+se aos Carollia, porém é menor, possui rostro mais “achatado” e suas vibrissas 
+arredondadas (almofadinhas que parecem verrugas) possuem configuração 
+diferente.
+Alimentação: Frugívoro. Alimenta-se de pequenos frutos macios do bosque 
+da floresta, além de pólen e néctar. Dispersa sementes para que a floresta 
+regenere e polinizam flores para produzirem frutos.20
+* Rhinophylla fischerae
+Descrição: Morcego pequeno (7 – 13 g) 
+que faz tendas para se abrigar geralmente 
+em haréns – quando há um macho e duas 
+ou três fêmeas juntos. Prefere florestas 
+sempre verdes e evita áreas abertas como 
+pastos. Assemelha-se à Rhinophylla pumilio, 
+porém seus dentes incisivos são levemente 
+diferentes.
+Alimentação: Frugívoro. Alimenta-se de 
+pequenos frutos macios do bosque da 
+floresta, além de pólen e néctar. Dispersa 
+sementes para que a floresta regenere e 
+polinizam flores para produzirem frutos.
+* Hsunycteris thomasi
+Descrição: Morcego de tamanho pequeno 
+(8 g) com focinho alongado adaptado 
+para se alimentar do néctar das flores. A 
+língua  possui papilas alongadas parecidas 
+com pelos para captar o néctar de dentro 
+das flores, como se fosse uma esponja. 
+Desempenham importante papel de 
+polinização nas florestas.
+Alimentação: Nectarívoro. Alimenta-se 
+principalmente de néctar e pólen, polinizando 
+flores para produzirem frutos. Pode também 
+comer pequenas frutas e insetos.
+2021
+* Choeroniscus minor
+Descrição: Morcego pequeno (peso médio 
+de 10 g) com pelagem amarronzada, 
+língua muito longa que se projeta pelo 
+meio dos dentes inferiores. A língua 
+papilas alongadas parecidas com pelos 
+para captar o néctar de dentro das flores, 
+como se fosse uma esponja. Abriga-se em 
+grupos de aproximadamente oito indivíduos 
+em ocos de árvores e prefere áreas bem 
+conservadas.
+Alimentação: Nectarívoro. Alimenta-se 
+principalmente de néctar e pólen, mas 
+também pode comer insetos. Ajuda a 
+polinizar as flores.
+* Artibeus obscurus
+Descrição: Morcego de tamanho médio 
+(29 – 35 g) cujo nome se dá pela coloração 
+mais escura do pelo entre todos os Artibeus. 
+Prefere florestas úmidas e densas, mas pode 
+ser encontrado em ambientes modificados 
+como jardins e plantações.
+Alimentação: Frugívoro. Alimenta-se de 
+frutos, mesmo aqueles muito duros, pois 
+possui uma mordida potente! Gosta muito 
+de figos. Dispersa as sementes que come e 
+ajuda a regenerar a floresta.
+2122* Artibeus planirostris
+Descrição: Morcego grande (40 – 60 g) com listras faciais 
+pouco proeminentes e folha nasal com bordas não ligadas 
+à base. Possui alguns pelos mais longos que os demais em 
+todo o corpo e cabeça. Abriga-se sob folhagem ou folhas de 
+palmeiras, e pode conviver com outras espécies de morcegos 
+no mesmo local.
+Alimentação: Frugívoro. Alimenta-se principalmente de frutas, 
+mas também pode comer insetos. Ajuda a dispersar sementes.
+23
+* Artibeus lituratus
+Descrição: Morcego grande (53 – 88 
+g) facilmente distinguível pelas listras 
+brancas bem marcadas na parte superior 
+da cabeça até o focinho. É o maior dos 
+Artibeus, conseguindo comer frutos 
+grandes e duros. Habita desde ambientes 
+conservados até centros urbanos.
+Alimentação: Frugívoro. Alimenta-se 
+de frutos e pode comer folhas. Come 
+até frutos muito duros, pois é o maior 
+dos Artibeus, com uma mordida muito 
+potente! Gosta muito de figos. Dispersa as 
+sementes que comem e ajuda a regenerar 
+a floresta.
+24* Artibeus concolor
+Descrição: Morcego de tamanho médio (18 – 20 g) sem 
+listras faciais, com pelagem marrom clara, folha nasal e 
+orelhas mais claras que os demais Artibeus. Base da folha 
+nasal solta, não unida ao lábio superior.
+Alimentação: Frugívoro. Alimenta-se principalmente de 
+frutas, mas também pode comer pólen, néctar, partes florais e 
+insetos. Ajuda a polinizar flores e dispersar sementes.
+25* Artibeus cinereus 
+Descrição: Morcego pequeno (10 – 13 g) geralmente 
+apresentando pontas das orelhas amareladas ou amarelas. Constrói 
+diferentes abrigos no formato de tendas em folhas de palmeiras 
+e caetés (Heliconia spp.). Prefere florestas bem conservadas, mas 
+tolera certo grau de modificação em seu habitat.
+Alimentação: Frugívoro. Alimenta-se principalmente de frutos, 
+mas também pode comer insetos. Ajuda a dispersar sementes.
+26
+* Artibeus gnomus
+Descrição: Morcego pequeno (9 – 11 g), 
+com folha nasal e orelhas grandes, largas, 
+pontudas e amareladas. Possui listras 
+faciais brancas bem marcadas. As vibrissas 
+(almofadinhas que parecem verrugas) 
+no lábio inferior também costumam ser 
+amareladas.
+Alimentação: Frugívoro. Alimenta-se 
+principalmente de frutos, mas também pode 
+ingerir néctar e pólen, ajudando a polinizar 
+flores e dispersar sementes.27* Mesophylla macconnelli
+Descrição: Morcego pequeno (5 – 9 g) com coloração pálida 
+próxima ao branco e orelhas e folha nasal amarelas. Ocorre em 
+florestas bem conservadas, onde se abriga com até oito indivíduos 
+em tendas construídas em folhas de palmeiras.
+Alimentação: Frugívoro. Alimenta-se principalmente de frutas, mas 
+também pode comer insetos. Dispersa sementes. 
+28
+* Sturnira tildae
+Descrição: Morcego de tamanho médio (18 – 28 g) conhecido 
+pelas glândulas de feromônios em cada um dos ombros nos 
+machos, as quais criam manchas de coloração amarronzada no 
+local, além de produzirem um cheiro doce peculiar.
+Alimentação: Frugívoro. Alimenta-se principalmente de frutos, 
+mas também pode se alimentar de pólen e néctar. Ajuda a 
+dispersar sementes.29
+* Uroderma bilobatum
+Descrição: Morcego de tamanho 
+médio (13 – 20 g) que constrói tendas 
+mordendo a nervura das folhas. Os 
+grupos podem variar de menos de 10 
+até mais de 50 indivíduos. É o morcego 
+arquiteto, cujos hábitos são os mais bem 
+conhecidos. Possui listras 
+faciais bem-marcadas.
+Alimentação: Frugívoro. 
+Alimenta-se principalmente 
+de frutas, mas também 
+pode ingerir pólen, néctar 
+e insetos. Ajuda a dispersar 
+sementes e polinizar flores.30
+* Vampyriscus brocki
+Descrição: Morcego pequeno (11 – 13 
+g) com pelagem do dorso marrom claro 
+e linha dorsal branca pouco marcada. 
+Pode habitar florestas bem conservadas e 
+bosques mais abertos. Apesar do nome 
+remeter à vampiro, essa não é uma espécie 
+que se alimenta de sangue.
+Alimentação: Frugívoro. Alimenta-se 
+principalmente frutos, mas também pode 
+comer néctar e pequenos insetos.* Vampyriscus bidens
+Descrição: Morcego pequeno (11 – 13 
+g) com coloração amarelada nas orelhas 
+e listras faciais largas, brancas e bem 
+definidas. Também possui uma linha 
+dorsal que varia de bem-marcada a tênue. 
+É raramente encontrado. Ocorre em 
+áreas úmidas, florestas sempre verdes e 
+próximos à água. Apesar do nome remeter 
+à vampiro, essa não é uma espécie que se 
+alimenta de sangue.
+Alimentação: Frugívoro. Alimenta-se 
+principalmente de frutos, mas também 
+pode se alimentar de pólen e néctar. Ajuda 
+a dispersar sementes.31
+* Micronycteris megalotis
+Descrição: Morcego pequeno (4 – 9 
+g) com longas e arredondadas orelhas, 
+folha nasal pouco longa e pontuda. Ocupa 
+diversas áreas: desde florestas alagáveis 
+até áreas mais secas, onde se abriga em 
+ocos de árvores, troncos caídos, pequenas 
+cavidades em rocha e até em habitações 
+humanas em colônias de 3 a 25 indivíduos. 
+Alimentação: Insetívoro. Alimenta-se de 
+insetos que encontra sobre a folhagem.* Micronycteris microtis
+Descrição: Morcego pequeno (7 – 9 
+g), com pelagem relativamente longa, 
+amarronzada. Possui grandes orelhas e 
+folha nasal pequena. Pode se abrigar em 
+cavernas e outros abrigos rochosos, ocos 
+de árvores e estruturas construídas por 
+humanos. 
+Alimentação: Insetívoro. Alimenta-se 
+de insetos, mas apresenta registros de 
+predação de vertebrados (pequenos 
+lagartos).32
+* Lophostoma silvicola 
+Descrição: Morcego de tamanho médio (15 – 23 g) com orelhas largas e longas, pelo 
+comprido e membranas escuras. Habitam florestas, mas também podem visitar áreas 
+cultivadas. Utilizam ocos de cupinzeiros para se abrigar, onde fazem um grande buraco 
+na sua base por onde entram e saem. 
+Alimentação: Insetívoro. Alimenta-se de insetos que encontra sobre a folhagem.33
+* Lophostoma brasiliense
+Descrição: Morcego pequeno (7 – 13 g) com orelhas largas e longas, pelo comprido 
+e membranas escuras. Habitam florestas, mas também podem visitar áreas cultivadas. 
+Utilizam cupinzeiros para se abrigar, onde fazem um grande buraco na sua base, 
+mastigando-o, por onde entram e saem. Comportamento similar a espécie Lophostoma 
+silvicola.
+Alimentação: Insetívoro. Alimenta-se de insetos que encontra sobre a folhagem.34
+* Trachops cirrhosus
+Descrição: Morcego de tamanho médio 
+(peso médio de 32 g) cujos lábios e queixo 
+apresentam diversas vibrissas pontudas 
+(almofadinhas que parecem verrugas). 
+Abrigam-se em pequenos grupos em ocos de 
+árvores, cavidades rochosas e construções 
+abandonadas. Podem ser encontrados em 
+grandes colônias maternidade.
+Alimentação: Carnívoro. É um especialista 
+em se alimentar de pequenos sapos, rãs e 
+pererecas. Caça principalmente os machos, 
+porque são facilmente encontrados quando 
+estão vocalizando para atrair as fêmeas. 
+Também pode comer lagartos e insetos 
+pousados sobre a folhagem.
+* Gardnerycteris crenulatum 
+Descrição: Morcego de tamanho médio 
+(20 – 27 g) com grandes e pontudas 
+orelhas e pelo longo e claro. Possui uma 
+grande folha nasal cuja borda é recortada 
+e irregular. Abriga-se em pequenos grupos 
+em cavidades rochosas e ocos de árvores, 
+por vezes convivendo com outras espécies.
+Alimentação: Insetívoro. Alimenta-se de 
+insetos que encontra sobre a folhagem.35
+* Tonatia maresi
+Descrição: Morcego de tamanho médio 
+(21 – 33 g) com orelhas pontudas e 
+pregueadas. A folha nasal é pequena e 
+larga, e o queixo é marcado por vibrissas 
+achatadas (almofadinhas que parecem 
+verrugas). Ocorre em florestas, mas 
+pode usar pastagens e outros ambientes 
+modificados para se alimentar.
+Alimentação: Insetívoro. Alimenta-se de 
+insetos que encontra sobre a folhagem.
+* Phyllostomus elongatus
+Descrição: Morcego de tamanho médio (30 
+– 44 g) com orelhas e folha nasal pontudas e 
+grandes. Geralmente a ponta da asa é branca. 
+Abriga-se em ocos de árvores em pequenos 
+haréns, mas pode usar cavernas como abrigo 
+quando em grandes grupos.
+Alimentação: Insetívoro. Alimenta-se de insetos 
+que encontra sobre a folhagem.36
+* Phylloderma stenops
+Descrição: Morcego grande (51 – 64 g) 
+com orelhas triangulares, cara pelada e 
+olhos grandes. Prefere florestas preservadas, 
+porém tolera certo grau de alteração 
+ambiental. Alimenta-se próximo de áreas 
+mais úmidas, como banhados e áreas 
+alagáveis.
+Alimentação: Onívoro. Alimenta-se de 
+frutas e insetos, quase na mesma proporção. 
+Dispersa sementes.
+* Trinycteris nicefori
+Descrição: Morcego pequeno (7 – 11 g) com 
+coloração alaranjada e uma máscara mais 
+escura ao redor dos olhos.
+Alimentação: Insetívoro. Alimenta-se de 
+insetos que encontra sobre a folhagem.37* Chrotopterus auritus
+Descrição: Segundo maior morcego encontrado na América Central e do Sul (79 – 
+100 g), apresenta pelagem densa e comprida, longas orelhas e cara pelada. Ocorre 
+em diversos habitats, incluindo áreas destinadas ao plantio comercial de árvores 
+(silvicultura). Costuma voar próximo do solo, local onde caça suas presas. Depende da 
+disponibilidade de abrigo, geralmente aqueles mais estáveis, incluindo ocos de árvores, 
+fendas, cavernas e estruturas urbanas abandonadas. Possui cheiro muito característico 
+resultante da produção de feromônios.
+Alimentação: Carnívoro. Alimenta-se de pequenos animais como roedores, aves, sapos, 
+rãs, pererecas, outros morcegos, mas também pode comer frutos.
+38Conhecida por ter espécies com disco adesivos nas mãos e pés capazes de se 
+pendurar em superfícies lisas das folhas, como se fossem ventosas. Ao contrário da 
+maioria das espécies, esses morcegos não costumam ficar de cabeça para baixo! 
+A família conta com apenas cinco espécies, sendo que todas elas se abrigam 
+em folhas, como de Heliconias que ainda não abriram por completo e ficam em 
+formato de trombeta. Assim que as folhas se abrem, os morcegos trocam de abrigo.Família Thyropteridae
+* Thyroptera tricolor
+Descrição: Morcego pequeno 
+(4 – 5 g) cuja principal 
+característica são os discos 
+que funcionam como ventosas 
+próximos ao dedão das mãos 
+e dos tornozelos. A pelagem 
+é branca/esbranquiçada 
+ventralmente a partir do 
+pescoço, o dorso e a cabeça 
+possuem pelagem marrom e 
+as asas são cinza escuro – 
+justificando o “tricolor” do seu 
+nome.
+Alimentação: Insetívoro. 
+Alimenta-se de pequenos 
+insetos capturados no ar 
+enquanto voam.39Note os discos adesivos 
+que servem como 
+ventosas nos pés e nos 
+dedos dessa espécie!
+40
+* Thyroptera discifera
+Descrição: Morcego pequeno (4 – 5 g) 
+cuja principal característica são os discos 
+que funcionam como ventosas próximos 
+aos dedões e tornozelos. Diferentemente 
+do T. tricolor, sua pelagem é 
+amarronzada e uniforme.
+Alimentação: Insetívoro. Alimenta-se 
+de pequenos insetos capturados no ar 
+enquanto voam.41Com 17 espécies no Brasil, Emballonuridae é conhecida pelas espécies com “sacos” 
+nas asas, que são dobras da membrana alar. Esses “sacos” são mais desenvolvidos 
+nos machos que utilizam para cortejar as fêmeas. Eles voam perto delas e assim 
+dispersam seu cheiro. Podem ser vistos enfileirados em troncos de árvores perto de 
+igarapés durante o dia, como na imagem abaixo, quando frequentemente voam ou 
+se assustam ao verem alguém se aproximar. Uma das principais características para 
+identificá-los de longe é o comportamento descrito acima e as listras dorsais em 
+zigue-zague em algumas das espécies. Até o momento, apenas uma espécie dessa 
+família foi registrada ao longo da BR-319. No entanto, morcegos dessa família são 
+dificilmente capturados com redes de neblina, método que usamos nas amostragens 
+ao longo da BR-319. A gravação dos sons desses morcegos é a técnica mais eficaz 
+para registrar as espécies da família.Família Emballonuridae
+Sacos alares de 
+Saccopteryx.Morcegos da família Emballonuridae 
+enfileirados em tronco de árvore.
+42
+* Saccopteryx bilineata
+Descrição: Morcego pequeno (8 – 9 g) com duas listras em zigue-zague no dorso. 
+Geralmente se abriga próximo à igarapés na floresta. Também se abriga na entrada de 
+cavidades rochosas, embaixo de pontes e em ocos de árvores. É comumente encontrado 
+camuflado sobre o tronco de árvores, em fileiras. Possui uma dobra em cada asa, que 
+funciona como um saco (por isso o nome do gênero) para armazenar secreções de 
+várias regiões do corpo, como saliva e urina.
+Alimentação: Insetívoro. Alimenta-se de pequenos insetos capturados no ar enquanto voam.43Família Vespertilionidae
+Vespertilionidae é a família com o maior número de 
+espécies do mundo. No Brasil já foram registradas 26 
+espécies. Possui espécies que vivem na Amazônia e 
+outras que vivem em regiões frias da Europa! São muito 
+diversos, possuem tamanhos e cores variados.
+Myotis lavali
+Myotis ruber44Diferentes espécies de 
+Myotis que ocorrem no 
+Brasil.
+* Espécies do gênero Myotis
+Descrição: Os Myotis que habitam a região da BR-319 são pequenos 
+e muitas vezes podem ser confundidos com mariposas, pois seu voo 
+lento parece não ter um destino bem definido. Voam nos bosques 
+das matas, mas também em locais abertos, até mesmo ao redor de 
+postes de luz. São muito difíceis de serem identificados até o nível de 
+espécie, pois muitas vezes a única diferença entre elas é o formato do 
+crânio!
+Alimentação: Insetívoro. Alimentam-se de pequenos insetos 
+capturados no ar enquanto voam.
+Myotis riparius Myotis albescens45Molossidae é uma família de morcegos insetívoros de cauda livre e tamanho 
+pequeno, geralmente menor que a palma da mão. Possuem hábito gregário, ou 
+seja, muitos indivíduos se abrigam juntos, no mesmo local. Esse local pode ser 
+o forro das nossas casas e, por isso, é comum encontrar morcegos dessa família 
+caídos no chão de residências ou machucados após ataques de cachorros e 
+gatos.
+Quando encontrados, os adultos podem ser confundidos com indivíduos 
+doentes ou filhotes, pois se locomovem mal no chão e são incapazes de alçar 
+voo de pequenas alturas. Caso você encontre um morcego caído, verifique se 
+ele apresenta cauda solta e tamanho pequeno. O ideal é que o indivíduo seja 
+conduzido sem manuseio até um local onde ele consiga escalar (uma árvore ou 
+um muro alto). Assim, ele conseguirá subir e alçar voo. 
+Tome cuidado com os sintomas de cães e gatos após capturar morcegos e, se 
+notar alguma alteração no comportamento do seu animal, leve-o ao veterinário 
+ou ao centro de zoonoses da sua cidade.Família MolossidaeAinda há uma família que não foi capturada na BR-319, mas 
+é possível que ocorra na região e bem perto de você! Abaixo você terá uma 
+informação bônus, sobre a família Molossidae. 
+Os encontros de molossídeos com humanos são muito frequentes, pois suas 
+espécies mais comuns costumam fazer colônias em casas e outras estruturas 
+artificiais.46
+Molossídeos possuem 
+características similares entre si, 
+como a cauda solta. Os mais comuns 
+podem ser do gênero Molossus, nas 
+primeiras duas fotos. Note que são 
+espécies de tamanho pequeno.Nyctinomops macrotisMolossus rufus
+Molossus molossus
+47
+Se você chegou até aqui é 
+provável que, nessa hora, já 
+seja um expert em morcegos! 
+Esperamos que você tenha 
+gostado do livro e aprendido 
+muitas coisas novas. Nós somos 
+apaixonados por morcegos e 
+contamos com a sua ajuda para 
+espalhar informações corretas 
+a respeito deles. Conte para sua 
+família e amigos sobre o que 
+aprendeu. Morcegos são seres 
+incríveis e fazem parte da nossa 
+rica biodiversidade, auxiliando 
+a regeneração das florestas 
+e, consequentemente, nós 
+humanos.48Quem somos?
+Somos uma pequena parcela dos pesquisadores 
+que tem realizado estudos ao longo da BR-319 
+no interflúvio Purus-Madeira. Em comum, temos 
+o interesse de compreender os mecanismos 
+que sustentam a maior biodiversidade do 
+planeta. 
+As informações contidas nesse livro são partes 
+dos resultados das dezenas de pesquisas que 
+foram realizadas no passado por vários cientis-
+tas e estudantes de pós-graduação, e apoiadas 
+por diferentes projetos, incluindo os seguintes:
+ 
+• Programa de Pesquisa em Biodiversidade na 
+Amazônia ocidental (PPBio-AmOc);
+• INCT Centro de Estudos Integrados da Biodi-
+versidade Amazônica (INCT – CENBAM);
+• Planejamento de levantamento da biodiversi-
+dade e monitoramento de processos ecossistê-
+micos para inclusão científica de comunidades 
+rurais ao longo da BR-319 no Estado do Ama-
+zonas (PRONEX/FAPEAM/CNPq  - 16/2006, 
+cedido a William Magnusson); 
+• Fatores ecológicos e históricos na evolução 
+da biota Amazônica: variação molecular e fe-
+notípica de espécies e comunidades biológi-
+cas na Amazônia ocidental (FAPEAM/CNPq  - 
+003/2009, cedido a Albertina P. Lima).Atualmente, os estudos realizados ao longo da 
+BR-319 e no interflúvio Purus-Madeira tem sido 
+apoiado pelos seguintes projetos: 
+• Projeto: Identificação dos impactos am-
+bientais da rodovia BR-319 sobre a fauna na 
+região sudoeste do Amazonas: uma aborda-
+gem integrativa para compreender padrões 
+multi-taxa (FAPEAM/PROFIX-RH - 009/2021 - 
+01.02.016301.00407/2022-94, cedido a Ser-
+gio Santorelli Junior)
+O principal objetivo desse projeto é identificar 
+se diferentes grupos biológicos interagem en-
+tre si e com o ambiente, e como isso acontece. 
+Integrar essas informações permitirá identificar 
+variáveis críticas, gerar hipóteses que ante-
+riormente não eram conhecidas, e estimar os 
+possíveis impactos negativos da estrada BR-319 
+na fauna da região. Preencher esse lacuna de 
+conhecimento numa escala local poderá pro-
+videnciar subsídios para políticas públicas na-
+cionais, como já tem acontecido com outros 
+estudos de ecologia de ecossistemas.
+• Projeto: Programa de Pesquisas Ecológicas 
+de Longa Duração no Sudoeste do Amazo-
+nas, cedido a William Magnusson; financiado 
+pelo Conselho Nacional de Desenvolvimento 
+Científico e Tecnológico (CNPq/MCTI/CON-
+FAP-FAPs/PELD - 21/2020 - 441366/2020-1) 
+e Fundação de Amparo à Pesquisa do Estado 
+do Amazonas   Chamada pública N 021/2020 49– PELD Sudoeste do Amazonas | Termo de ou-
+torga: 247/2022)
+Um dos principais objetivos do PELD-PSAM é 
+entender os processos ecossistêmicos, intera-
+ções biológicas, e impactos humanos sobre 
+a biodiversidade na região do sudoeste do 
+Amazonas. Porém, para realizar esse objetivo, 
+o PELD-PSAM precisou consolidar e recuperar 
+infraestrutura de campo (parcelas e trilhas de 
+amostragem usados no sistema RAPELD) ini-
+cialmente instaladas em 2006. Com isso, os 
+estudos na região foram reiniciados e diversos 
+grupos biológicos que foram amostrados nos 
+últimos 10 anos estão sendo re-amostrados, o 
+que permitirá no futuro avaliar o efeito da rodo-
+via BR-319 nas espécies que ali vivem. 
+ 
+A realização deste livro também não seria 
+possível sem o apoio do Programa de Pós-
+-graduação em Ecologia do Instituto Nacional 
+de Pesquisas da Amazônia (INPA), Conselho 
+Nacional de Desenvolvimento Científico e Tec-
+nológico (CNPq), Coordenação de Aperfeiçoa-
+mento de Pessoal de Nível Superior (CAPES), 
+Fundação de Amparo à Pesquisa do Amazonas 
+(FAPEAM), Fundação Amazônica de Defesa da 
+Biosfera (FDB), aos servidores do Instituto Chi-
+co Mendes de Conservação da Biodiversidade 
+(ICMBio) de Humaitá (AM), a Bat Conservation 
+International, ao Centro de Estudos Integrados 
+da Biodiversidade Amazônica (INCT-CENBAM) 
+e a todos os auxiliares de campo e trabalhado-
+res que contribuíram de alguma forma para as 
+amostragens da quiropterofauna na BR-319. Os 
+dados utilizados para a confecção deste livro foram coletados em campo pelo pesquisador 
+Rodrigo Marciente Teixeira da Silva, com au-
+xílio dos pesquisadores Paulo Estefano Dineli 
+Bobrowiec e William Ernest Magnusson, e es-
+tão depositados no Repositório de Dados de 
+Estudos Ecológicos do Programa de Pesquisa 
+em Biodiversidade (PPBio). Esses e mais outros 
+dados podem ser acessados online e de forma 
+gratuita por qualquer pessoa.

@@ -1,0 +1,1399 @@
+Guia Ilustrado e Manual de Arquitetura Foliar para
+EspéciEs  MadEirEiras  da aMazônia  OcidEntalGuia Ilustrado e Manual de Arquitetura Foliar para
+EspéciEs  MadEirEiras  da aMazônia  OcidEntal
+Flávio A. Obermüller; Douglas C. Daly; Edilson C. Oliveira; Heloisa F . T. P . Souza; Herison M. de Oliveira;  Livia S. Souza & Marcos Silveira
+©  OBERMÜLLER, F . A.  et al. 2011.Realização
+Universidade Federal do Acre – UFAC 
+New York Botanical Garden – NYBG
+Apoio e Agradecimentos 
+Fundo Mundial para a Natureza – WWF-Brasil
+JRS Biodiversity Foundation 
+Overbrook Foundation 
+Beneficia Foundation 
+Projeto de Assentamento Agroextrativista de Porto Dias Projeto de Assentamento Agroextrativista do Cachoeira 
+Dra. Alejandra Vasco – NYBG 
+Dra. Marcela Thadeo - NYBG
+Projeto gráfico e diagramação
+gknoronha.com.br
+APOIO REALIZAÇÃOOBERMÜLLER, Flávio A.
+Guia ilustrado e manual de arquitetura foliar para espécies madeireiras da 
+Amazônia Ocidental / Flávio A. Obermüller... [et. al.]
+G. K. Noronha: Rio Branco, 2011.
+101p. : il. col.
+Inclui referências bibliográficas e glossário.ISBN: 978-85-62913-07-5
+1. Manejo florestal. 2. Espécies madeireiras. 3. Identificação botânica. I. 
+Título. II. OBERMÜLLER, Flávio A.
+CDD - 581.9811Dados Internacionais de Catalogação-na-Publicação (CIP)
+Maria do Socorro de O. Cordeiro. – CRB-11/667
+Sumário
+Diversidade e manejo florestal: Identificação botânica, 
+um dos passos para a sustentabilidade     6
+Manejo Florestal e Instituições de Pesquisa    8
+Como foi feito este guia    10Como utilizar este guia    12
+Pranchas (guias) para espécies madeireiras  
+da Amazônia Ocidental    13
+Apuleia leiocarpa    15
+Aspidosperma parvifolium    17Astronium lecointei    19Batocarpus amazonicus    21
+Brosimum guianense    23
+Caryocar pallidum    25
+Cedrela odorata    27
+Clarisia biflora    29Clarisia racemosa    31
+Cordia alliodora    33
+Cordia sellowiana    35Dalbergia miscolobium    37
+Dialium guianense    39
+Diploön cuspidatum    41Dipteryx ferrea    43 
+Enterolobium schomburgkii    45
+Eriotheca globosa    47Eschweilera grandiflora    49
+Eschweilera truncata    51
+Handroanthus serratifolius (Tabebuia serratifolia)    53Hymenaea parvifolia    55
+Jacaranda copaia    57
+Mezilaurus itauba    59Minquartia guianensis    61
+Myroxylon balsamum    63
+Nectandra cuspidata    65Nectandra longifolia    67 
+Parkia nitida    69
+Parkia pendula    71Pouteria trilocularis    73
+Protium rhynchophyllum    75
+Pseudopiptadenia psilostachya    77Qualea grandiflora    79Schefflera morototoni    81
+Schizolobium amazonicum    83
+Swartzia jorori    85
+Stryphnodendron duckeana    87 
+Terminalia oblonga    89 Tetragastris altissima    91
+Padrões de arquitetura foliar para espécies comumente 
+chamadas pelo mesmo nome popular
+Abiurana    93
+Amarelão    96Cumaru ferro    97
+Faveira    98
+Glossário   101
+Referências bibliográficas   105 
+Índice de Família por espécie   1076A Floresta Amazônica, um dos biomas mais diversos do mundo, se 
+destaca por suas dimensões continentais, englobando aproximadamente 
+5.000.000 km2, pela diversidade de habitats e pela alta diversidade biológica (AB’SABER 2002, 2006), sendo a maior do planeta (VIEIRA et al. 2005). 
+Um exemplo da alta diversidade biológica é a riqueza florística, 
+estimada em 40.000 espécies vasculares, das quais 30.000 são endê-micas (MITTERMEIER et al. 2003). Esse número representa cerca de 90% de toda diversidade florística brasileira, estimada entre 45.300-49.500 espécies descritas (PEIXOTO & AMORIM 2003, FORZZA et al. 2010). 
+Incentivado pelos programas de crescimento do governo, o processo 
+de ocupação da Amazônia vem, ao longo das últimas década se dividin-do em diferentes escalas, provocando impactos negativos sobre essa a alta diversidade biológica. Rocha (2001) divide a ocupação da Amazô-nia em duas categorias de uso da terra: (1) a de baixos custos ambien-tais, essa bem representada pelo modelo extrativista, geralmente pratica-do por populações tradicionais da Amazônia formadas por indígenas, seringueiros e ribeirinhos, que possuem um valioso conhecimento sobre os recursos naturais e seus usos e (2) a de altos custos ambientais, que seria a utilização dos recursos naturais a partir da destruição de importantes ecossistemas, como a pecuária, os cultivos de soja e de cana de açucar, além da exploração madeireira predatória.
+Buscando uma melhor forma de usar os recursos florestais e diminuir 
+os impactos negativos sobre os mesmos, o artigo 15 do Código Florestal Brasileiro de 1965, determinou a utilização das florestas Amazônicas apenas através de planos de manejo (MANEJO FLORESTAL 2007), tornando-se indispensáveis e obrigatórios para o manejo florestal sustentá-vel (IBAMA 2007).
+“Entende-se por manejo florestal sustentável a administração da 
+floresta para a obtenção de benefícios econômicos, sociais e ambientais, respeitando-se os mecanismos de sustentação do ecossistema objeto do manejo, e considerando-se, cumulativa ou alternativamente, a utilização de múltiplas espécies madeireiras, de múltiplos produtos e subprodutos não madeireiros, bem como a utilização de outros bens e serviços de natureza florestal.” (IBAMA 2007).
+A partir desta nova visão, a atividade florestal passa a ter destaque 
+no cenário Amazônico, sendo o aumento do número de planos de manejo comunitário e de pequena escala, um reflexo do crescimento da ativida-de. Em 2007 na Amazônia foram desenvolvidos 176 planos de manejo comunitários e 1.389 planos de manejo de pequena escala, totalizando uma área de 851.103 ha de florestas manejadas (IIEB 2007). 
+No Estado do Acre, a tendência para o manejo florestal é ainda 
+mais visível, uma vez que essa atividade é apoiada incondicionalmente pela política de desenvolvimento estadual, o que tornou o manejo florestal um dos expoentes da economia acreana (ZEE 2006). Entre 2000-2005 o número de planos de manejo comunitários e de pequena escala no estado apresentou um aumento da ordem de 2.000%, passando de dois planos em 2000, para quase 40 planos em 2005 (IIEB 2007). 
+Com o crescimento da atividade florestal, o aperfeiçoamento das téc-
+nicas que garantam a redução dos impactos causados pela exploração dos recursos florestais (manejo de cipós, implementação de parcelas permanen-tes, queda direcionada das árvores, entre outras) e a recuperação fisionômi-ca das áreas exploradas (ASNER et al. 2004), se tornou um grande desafio para os atores envolvidos no processo e um dos quesitos fundamentais para que empresas e associações comunitárias envolvidas recebam o certificado internacional do Conselho de Manejo Florestal (FSC 2007). 
+A certificação é um instrumento de política florestal relativamente 
+novo, que visa fomentar o manejo responsável dos recursos por meio da rotulagem de produtos de consumo. A premissa é de que os consumido-res procurarão e apoiarão produtos com a reputação de certificados por provirem de fontes bem manejadas. Embora o foco da certificação do manejo florestal esteja predominantemente sobre os produtos madeireiros, atualmente os Produtos Florestais Não Madeireiros (PFNMs) também vêm se tornando alvo de atenção (SHANLEY et al. 2002).
+O aperfeiçoamento das técnicas e do processo de certificação 
+embutido no manejo florestal é uma realidade, porém, tal atividade ainda 
+Diversidade e Manejo Florestal
+Identificação botânica um passo para a sustentabilidade7carece de informações científicas básicas que permitam o conhecimento e 
+o monitoramente dos reais impactos por ela gerados, em especial, sobre a composição das espécies e a paisagem, a curto, médio e longo prazo. 
+Atualmente a qualidade das identificações botânicas em áreas de 
+manejo é um dos principais gargalos da atividade (DALY 2007), já que, uma cascata de problemas como a inconsistência dos mateiros em cam-po, “empilhamento” de nomes vulgares para diversas espécies, variação regional nos nomes vulgares, e talvez o mais grave a tradução automática dos nomes vulgares por nome cientifico, sem o mínimo critério cientifico ao longo do processo gera um erro que acumulado pode ultrapassar aos 70% (DALY E OBERMÜLLER, Comunicação Pessoal). Assim uma identifica-ção rigorosa baseada em nomes científicos e não em nomes populares como é feita hoje é um desafio. 
+Com os erros de identificação, além das possíveis conseqüências 
+ambientais, como a extinção local de algumas espécies, a subestimação da biodiversidade e as mudanças na composição das espécies e na estrutura das floresta (DALY 2007), vem também os problemas de ordem operacional que afetam diretamente a produtividade e a geração de renda pelas empresas envolvidas no Manejo, conforme nos exemplos que se seguem:   
+•	No Pará, tauari corresponde a seis espécies de Lecythidaceae. 
+Uma delas apresenta alta taxa de sílica que danifica a corrente das moto serras, e outra é tão rara que poderia facilmente ser extinta localmente. 
+•	No Estado do Acre, o plano de manejo de 2008 da Fazenda São Jorge I de propriedade da Empresa Laminados Triunfo Ltda, uma das árvores mais comuns no inventário foi identificada como paineira (Ceiba lupuna), espécie considerada não com-erciavel para o manejo realizado pela Empresa.  Na verdade, paineira tratava-se da samaúma (Ceiba pentandra) uma espé-cie bem conhecida e valorizada pelo mercado.  Visando melhorar este cenário, diversas medidas que sejam eficien-
+tes e econômicas podem ser tomadas senão para resolver, mas para 
+diminuir esse problema como, por exemplo, adotar medidas pré e pós aos inventários.
+Exemplos de medidas Pré e Pós:
+Pré: 
+•	Utilização de mateiros regionais;
+•	Recrutamento de mateiros capacitados “padronizados” e regu-
+lamentados quanto profissionais;
+•	Elaboração de cartilhas para as espécies arbóreas que tratem características morfológicas e ecológicas;
+•	Desenvolvimento e uso de guias de campo regionais e locais.
+Pós: 
+•	 Utilização de índices regionais para comparação e tradução 
+dos nomes populares - checklist das floras regionais;
+•	 Adoção de métodos de sub amostragem, envolvendo coletas 
+botânicas de uma porcentagem das árvores dos inventários e confirmação da identificação. 
+Diante dos desafios para uma boa identificação botânica, um 
+conjunto de iniciativas e atividades tem que ser pensadas e desenvol-
+vidas com os atores envolvidos no manejo florestal madeireiro, já que, uma identificação botânica rigorosa busca atingir não apenas o aspecto ambiental e conservacionista, mas também a otimização da produtivi-dade das empresas e, conseqüentemente, a diminuição das pressões e impactos negativos sobre os recursos naturais, contribuindo assim para a manutenção de florestas saudáveis e produtivas.
+Com relação à diversidade arbórea, o manejo florestal como está 
+sendo praticado na Amazônia é inválido e inaceitável, trazendo resul-tados negativos tanto econômicos como ambientais.  Existem soluções -- estratégias, critérios e protocolos -- que são práticos e bastante eficientes 8cientificamente e economicamente, porque aproveitam a existência de 
+uma comunidade dinâmica de cientistas e ONGs no Brasil. Implementar soluções envolverá investimentos modestos por parte das empresas e do go-verno, compromissos para apoiar a pesquisa e coordenação (aproximação) entre os projetos florestais, o governo e as instituições de pesquisa.
+Manejo Florestal e Instituições de Pesquisa – Uma Parceria Essencial
+O objetivo central do manejo sustentável é garantir que as florestas 
+continuem sendo fontes de produtos úteis para a sociedade, e ao mesmo 
+tempo, refúgios para a imensa e pouco conhecida biodiversidade que elas abrigam.  A certificação, até certo ponto, busca filtrar e fiscalizar os projetos com um grau de vontade e habilidade para implementar as práti-cas exigidas.  Porém, se notarmos o seu enorme potencial, as lições e as descobertas oriundas da certificação servirão como guia para o manejo em todas as escalas e todos os setores.
+A ausência de modelos que garantam o sucesso do manejo florestal é 
+uma realidade, e na Amazônia, esta busca tem como foco o Acre e, mais específicamente, a empresa Triunfo e a Floresta Estadual Antimary. Porém, por enquanto ignora-se exatamente o formato desses modelos e se eles realmente terão sucessos.  
+Milhões de hectares de florestas Amazônicas estão sendo abertos 
+para concessões, e milhões de reais estão sendo investidos, mas antes de responder a certas perguntas, e de tapar certas lacunas, o manejo como está, promete resultados ruins.  Existem evidências concretas das conse-qüências negativas tanto para a biodiversidade como para as concessões, mesmo no curto prazo (e.g., PROCóPIO 2008).  A longo prazo isso é mais preocupante ainda, visto que a Lei Florestal de 2006 abriu mão da exigência do monitoramento ambiental em áreas manejadas.  
+A revisão de 126 planos de manejo aprovados pelo Instituto de 
+Meio Ambiente do Acre, executada por uma colaboração estabelecida entre a Universidade Federal do Acre, o Centro de Pesquisas Agroflores-tais do Acre e o Fundo Mundial para a Natureza revelou que nenhum de-les incluiu entre as etapas, o monitoramento, deixando o futuro em branco.  Quer dizer que os planos de manejo têm que ser muito bons, antecipando possíveis impactos negativos, tendo em vista, que o conserto dos erros – quando possível – custa bem mais caro que iniciativas para evitá-los.
+Os inventários constituem a base para tudo que segue no mane-
+jo – seleção de espécies a serem comercializadas, seleção de árvores “porta-sementes”, localização dos pátios, estimativas de produtividade, es-timativas de renda – e a identificação confiável e consistente das árvores constitui a base para os inventários.  A triste realidade é que há práticas que são quase universais no setor florestal, mas que são cientificamente fatais, enquanto outras práticas essenciais são universalmente ignoradas.
+O papel das instituições de pesquisa nesta situação consiste em 
+demonstrar que os inventários podem ser realizados corretamente, tanto com eficiência científica como econômica, e que parecerias com o setor de manejo podem beneficiar a ambos – enfim, o cenário ideal não está longe do possível.  Na prática, o seu papel não é substituir as equipes que executam os inventários e os prosseguimentos, mas sim capacitá-las e providenciar subsídios e ferramentas para os planos de manejo.
+As “Raízes” do Problema
+Possivelmente sem exceção, os inventários dos planos de manejo 
+florestal na Amazônia são executados assim:  (1) os florestais registram os 
+nomes populares providenciados por mateiros; (2) eles pegam os nomes científicos de algum índice e botam como equivalentes nos inventários.  Muitas vezes o índice utilizado é o de Camargos et al. (2001), que inclui nome do Brasil inteiro mas também os nomes podem vir de alguma lista não publicada ou de um outro inventário reciclado.
+ No final das contas, infelizmente, quase todas as centenas de 
+inventários florestais executadas para os planos de manejo na Amazônia são análogos aos RIMAs que são fabricados na região:  bonitos, baratos (para a empresa) e – do ponto de vista da diversidade arbórea -- totalmen-te inválidos.
+Uma outra raíz do problema consiste na natureza das florestas tropi-
+cais e especialmente as florestas da Amazônia, onde muitos gêneros têm 9duas ou mais espécies que se parecem muito. Estes gêneros incluem mui-
+tos que são essências madeireiras, o que complica o manejo; exemplos são amarelão (Aspidosperma spp.), abiorana (Pouteria), angelim (várias Fabaceae-Mimosoideae), tauari (Cariniana e Couratari), e angico/faveira (várias Fabaceae-Faboideae), o que torna o processo de reconhecimento e identificação das espécies ainda mais minusioso.
+A Solução
+Melhorar os planos de manejo para a biodiversidade não é nem 
+complicado nem caro; requer investimento modesto de recursos e tempo, 
+participação de instituições de pesquisa, e coordenação de esforços.  O objetivo não é eliminar as empresas que fazem os inventários, nem exigir que se colete amostras de cada árvore, nem de gerar mais trabalho para as instituições de pesquisa, que já têm bastante para fazer.  Enfrentando os defeitos discutidos aqui, propõe-se
+•	Capacitar os mateiros e florestais das empresas;
+•	Executar protocolos de sub-amostragem para  
+detectar problemas;
+•	Caracterizar a ecologia e o status de conservação das espé-cies alvo;
+•	Em um site de livre acesso, guardar estes dados e juntar ferramentas para identificar/diferenciar as espécies madeireiras;
+•	Tomar medidas para evitar prejuízos.10Universidade Federal do Acre e do New York Botanical Garden e por 
+especialista. 
+Para todas as espécies foram tomadas imagens do tronco, base do 
+tronco, casca externa e casca interna, onde ao mesmo tempo eram carac-terizadas as formas, texturas e cores, onde foram observadas e caracte-rizadas com ajuda de uma prancha elaborada através de informações disponíveis em Ribeiro et al. (1999).
+Em paralelo a atividade de campo e de herbário foi desenvolvida ativi-
+dades laboratoriais onde todas as espécies tiverm suas folhas diafanizadas. A confecção deste guia deu-se diante a eminente demanda do setor 
+florestal ligado ao manejo madeireiro quanto a uma identificação rigorosa e confiável das árvores manejadas na Amazônia. O ponta pé inicial para a construção deste guia foi a realização de uma analise da lista de espé-cies fornecida no Documento de Origem Florestal (DOF) para as espécies exploradas no Acre. 
+Para responder essas questões todas às espécies listadas no DOF 
+foram cruzadas ao Check List da Flora do Acre (DALY & SILVEIRA 2008), além dessa ter sido analisada por botânicos com mais de 20 anos de ex-periência na Flora regional. Diante das comparações diversos foram erros e problemas (Tabela 1) apresentados pelo DOF, alertando para a neces-sidade de se buscar ferramentas que minimizem os erros de identificação botânica em áreas de manejo florestal. 
+Tabela 1: Resultados da comparação realizada para os nomes vulgares apresentados no DOF (Acre)
+ e o Primeiro Catálogo da Flora do Acre.
+Total de nomes vulgares 390 (100%)
+Nome Vulgar não consta no Catálogo 200 (79%)
+Nome Vulgar existe em ambos 190 (21%)
+Nome Vulgar corresponde à mesma espécie 38
+Nome Vulgar  está sendo usado para mais de uma espécie 92
+Nome Vulgar corresponde ao mesmo gênero mais a espécie diferente 64
+Nome Vulgar corresponde à mesma família mas a gêneros diferentes 54
+Nome Vulgar corresponde à família diferente 31
+No processo de reconhecimento das caracterísitcas básicas e chaves 
+das espécies apresentadas neste guia, foram desenvolvidas atividades de campo para coleta de material botânico e tomada das características morfologicas das espécies manejadas.
+  Depois de processado o material botânico coletado foi identificado 
+através de comparação com as amostras depositadas nos herbários da Como foi feito este Guia
+Coleta de material botânico para posterior identificação.11
+Processamento das amostras coletadas para posterior identificação.
+A diafanização é uma técnica que consiste em tratar amostras bioló-
+gicas de modo a torná-las semitransparentes, é muito utilizada no estudo 
+da venação, epidermes, estruturas reprodutoras, e também por diversos autores na separação e diferenciação de espécies. Como por exemplo, Dede (1962) que estudou  80 gêneros de Rutaceae, apresentando sete tipos de venação básicos baseados na relação espacial existente entre o padrão de venação e as cavidades secretoras. 
+Neste trabalho, a diafanização foi realizada conforme orienta-
+ção de Ellis et al. (2009) tornando possível a construção de manual de arquitetura foliar para as espécies apresentadas no guia, visando a partir de padrões de nervação das espécies, identificar e separar confiável e rigorosamente espécies madeireiras comumente confundidas através de nomes populares. 
+Completando as informações presentes no guia, buscas bibliográfi-
+cas foram realizadas para determinar a distribuição geográfica
+1, caracte-
+rísticas ecológicas como habitat; densidade da madeira; tipo de poliniza-ção e dispersão.
+1 Todas as espécies apresentadas neste guia foram coletadas em áreas de manejo 
+florestal no Estado do Acre.
+Trabalho laboratorial de diafanização foliar das espécies coletadas para o guia.12
+Como utilizar este guia
+Dendrologia
+As características dendrológicas de uma espécie é uma valiosa 
+ferramenta para sua identificação, desde que sejam observados detalhes 
+que possam diferenciá-las de outras espécies. Para utilizar o conteúdo de dendrologia deste guia, as forma do fuste e base do tronco diferencia muitas espécies, ficando atentos ao aspecto do tronco que pode ser cilín-drico, acanalado, fenestrado, cristado, nodoso, tortuoso e torcido, e para a base do tronco a ausência ou presença de sapopemas. 
+Quando ausentes observamos se ela é reta, dilatada, digitada, 
+acanalada ou se apresentam raízes escoras, na presença ficamos aten-tos as características como simetria, ramificações, e como suas cristas estão disposta (côncava, convexa ou reta). Outra característica a ser observada é a casca externa, onde podemos observar os aspectos do ritdoma, podendo ser liso, rugoso, escamoso, fissurado, sujo e áspero, reticulado, lenticelado, e ás vezes em lâminas coriáceas ou papiráceas, com desprendimento de placas, estrias e depressões. Essas características são mais difíceis de definir, pois podem variar muito entre indivíduos de uma mesma espécie, principalmente quando comparados entre adultos e jovens, ou até mesmo entre os ambientes que eles estejam ocupando. 
+No entanto, todas essas características externas da planta, ao se 
+unirem com as características da casca interna, demonstram uma ferramenta eficaz na identificação de famílias, gêneros, mas principalmente espécies, pois caracteres mais finos são observados, como espessura, textura, cor, odor, presença de exsudatos e/ou padrões existentes.    
+Arquitetura foliar
+O primeiro passo para descrever o padrão de venação em uma 
+folha é reconhecer as ordens das veias, que têm calibres e direções 
+visualmente diferentes. A maioria das folhas de angiospermas tem entre quatro a sete ordens de venação, que são numerados em sequência, por Nervura secundáriaNervura primária
+Nervura terciária
+FEVsNervura  quartenáriaNervura intersecundária
+13exemplo temos a primaria para a nervura principal.
+Em geral, as veias primárias e secundárias são as estruturas prin-
+cipais da folha, e as veias terciárias em diante são as veias de calibre 
+menor, que formam um tipo de malha ou retículo. A nervura primária tem o maior calibre e geralmente se estende ao longo da folha, começando a partir da base ou próxima a base da folha e indo em direção à margem ou o ápice.
+ As nervuras secundárias são o próximo conjunto a se medir após as 
+primárias, elas também costumam ter um longo curso, e que geralmente são executados a partir da base da folha ou de uma veia primária em direção à margem ou seguindo em arcos em direção ao ápice. As veias terciárias e veias de ordens menores são menos visíveis e mantem um calibre similar ao longo de seus cursos quase sempre formando retículos.
+As nervuras terciárias geralmente tem um calibre mais estreito do 
+que o conjunto das veias secundárias e muitas vezes se conectam com as veias primárias e secundárias por toda a folha. Geralmente, é bastante fá-cil diferenciar primárias de terciárias, mas as secundárias, são constituídas por vários subgrupos com diferentes calibres e cursos. No entanto, todos os subconjuntos das veias entre as primárias e terciárias são consideradas secundárias.
+Após as veias terciárias forem demarcadas, as quaternárias até as 
+septenárias presentes na folha podem ser identificadas. Cada uma dessas ordens de veias podem ser altamente variável entre as espécies e isso pode ser verdade mesmo dentro de uma única folha. 
+Algumas veias podem ter o calibre típico de uma ordem de veia, 
+como por exemplo as terciárias, mas terem o curso diferente. Por outro lado, reconhecendo as ordens baseada unicamente no seu calibre ou apenas no seu curso, conduz a situações um pouco indefinidas onde as veias que pa-recem ter rumos diferentes da sua origem e desenvolvimento são atribuídos à mesma ordem, por exemplo, uma veia pode ser intermediária no calibre entre a veia primária e secundária. 
+A regularidade dos sistemas de veias varia muito, mas pode ser des-
+crito semi-quantitativamente em termos de classificação de folhas (HICKEY 1977). Os sistemas de veia são pouco organizados e também tendem a ter diferentes ordens de veias. Até secundárias e terciárias pode ser difícil distinguir nas folhas mas alguns padrões são bem visíveis na arquitetura das folhas e esses padrões estão expressos a partir das nervuras primárias e secundárias.
+14
+Pranchas para identificação de espécies madeireiras da Amazônia Ocidental15
+Apuleia leiocarpa (Vogel) J.F . Macbr.
+Cumaru cetim, Miratoá (AC), Pau-cetim, Cumaru-cetim, Garapeira, Garapa (SP , MT, PR) 
+TROnCO cilíndrico; casca 
+externa com placas irregulares, depressões, lenticelas dispersas. 
+BASE do tronco dilatada com sapopema simples, assimétrica, côncava.Distribuição geográfica: Florestas ombrófilas e estacionais, da Amazônia, Nordeste ao Sul-sudeste do Brasil; Paraguai, Bolívia, Peru, Equador, Colômbia e Venezuela. 
+Características Ecológicas: 
+Espécie caducifólia e secundária tardia na sucessão ecológica.
+Densidade da madeira: 0,80 g/cm
+3
+Polinização: animal (zoofilia)
+Dispersão: vento (anemocórica)
+Alimento para caça: nãoCASCA interna creme, com anéis vermelho rosados e exsudato aquoso transparente.
+16
+nERvAÇÃO terciaria intercostal 
+irregularmente reticulada.FOLHAS alternas imparipinadas. Folíolos alternos elípticos com 
+pulvinulos na base do peciólulo e margem inteira.
+Arquitetura foliar
+Apuleia leiocarpa 
+ÁPICE convexo arredondado.
+Característica terminal do ápice: 
+Mucronado (apiculado.)
+BASE simétrica e arredondada, nervura 
+primária pinada.nERvAÇÃO secundária-
+Broquidódroma simples, espaçamento regular.
+nERvuRAS intersecundárias 
+paralelas á nervura secundária.
+17
+Aspidosperma parvifolium A. DC. 
+Amarelão, Amarelão pitiá (AC) 
+TROnCO cilíndrico, casca 
+externa estriada e lenticelas em linhas verticais.
+BASE do tronco reta. Distribuição geográfica: Espécies ocorrem na Amazônia, Caatinga, cerrado e  Mata atlântica, Norte, Nordeste, Centro-oeste, Sudeste e Sul do Brasil; Bolívia, Colômbia, Guiana, Peru, Suriname e Venezuela. 
+Características  Ecológicas: 
+Espécie de florestas primárias e florestas secundária, é semidecídua, heliófita, especialista de pequenas clareiras.
+Densidade da madeira: 0,87 g/cm
+3
+Polinização: animal (zoofilia) 
+Dispersão: vento (anemocórica) 
+Alimento para caça: não CASCA interna amarela, marcas de chama branca, látex branco escasso, pouco pegajoso. 
+18
+FEVs muito ramificados, sendo 
+essas dendrítica = desigual. FOLHAS simples, alternas espiraladas, congestas no ápice, elípticas, margens sempre singular, inteira e medianamente simétricas.
+Arquitetura foliar
+Aspidosperma parvifolium
+ÁPICE arredondado. 
+BASE decorrente com ângulo agudo, nervura primária pinada e inserção basal assimétrica da lamina no pecíolo.nERvAÇÃO secundária 
+broquidódroma formando arcos  proeminentes.
+19
+Astronium lecointei Ducke
+Aroeira, Aroeiro, Aroeira preta (AC), Muiracatiara, Aroeira (AM) 
+       
+TROnCO cilíndrico, casca externa 
+lisa e lenticelas dispersas.
+BASE do tronco digitadaDistribuição geográfica:A espécie ocorre na Amazônia, Norte e Nordeste do Brasil; Bolívia, Suriname e Venezuela.
+Características Ecológicas: 
+Espécie de estágio final de sucessão, crescendo rapidamente com aberturas de clareiras.
+Densidade básica da madeira: 0,75 g/cm
+3³
+Polinização: animal (zoofilia) 
+Dispersão: vento (anemocoria)Alimento para caça: não CASCA interna siliciosa, com anéis brancos e fibras quebradiças.
+20
+FEVs com ramificação múltiple.FOLHAS compostas, alternas, imparipinadas, folíolos subopostos, 
+ovados, com margem inteira.
+Arquitetura foliar
+Astronium lecointei 
+ÁPICE acuminado com ângulo agudo. 
+BASE do folíolulo côncavo-convexa, assimetria medial, inserção basal assimétrica com um lado troncado e um agudo.nERvAÇÃO ssecundária 
+craspedódroma, terminando na margem do folíolo, segundo espaçamento irregular, angulo aumentando para o ápice e a base.
+nERvAÇÃO terciária 
+irregularmente reticulada.
+21
+Batocarpus amazonicus (Ducke) Fosberg  
+Guariúba branca, guariúba rocha, mururé (AC), Mururé (MA) 
+TROnCO cilíndrico com casca 
+externa lisa e lenticelas dispersas.
+BASE do tronco com sapopema côncava, assimétrica e ramificada. Distribuição geográfica: Espécie ocorre na Amazônia, Norte, Nordeste e Centro-oeste do Brasil; Bolívia, Equador, Guiana Francesa, Peru e Venezuela. 
+Características Ecológicas: 
+Planta típica de florestas sazonalmente inundadas e de terra firme, sendo de estágios finais na sucessão ecológica. 
+Densidade da madeira: 0,53 g/cm
+3³ 
+Polinização: animal (zoofilia)
+Dispersão: animal {zoocoria) 
+Alimento para caça: sim CASCA interna amarelo queimado, marcas de chamas brancas, látex branco espesso e pegajoso. 
+22
+nERvAÇÃO terciária reticulada 
+formando polígonos irregulares. FOLHAS simples, alternas, com estípulas livres e caducas, obovada a 
+elíptica, margem inteira, sinuosa e medianamente simétricas 
+Arquitetura foliar
+Batocarpus amazonicus 
+ÁPICE abruptamente acuminado com acumem curto.
+BASE cuneada com ângulo obtuso de um lado e agudo do outro, nervação primária pinada.nERvAÇÃO secundária 
+broquidódroma simples, formando anéis.
+23
+Brosimum guianense (Aubl.) Huber 
+Inharé, inharé mole 
+TROnCO cilíndrico, casca externa 
+escamosa a lisa, com estrias.
+BASE do tronco digitada. Distribuição geográfica:Espécie ocorre na Amazônia, Caatinga, Cerrado e Mata Atlântica, Norte, Nordeste, Centro-oeste e Sudeste do Brasil; Bolívia, Colômbia, Equador, Guiana Francesa, Guiana, Peru, Suriname e Venezuela. 
+Características Ecológicas: 
+Planta de floresta primária e secundária não inundada, a 1000m, algumas vezes em habitats mais secos ou molhados. 
+Densidade da madeira: 0,84 g/cm
+3 
+Polinização: animal (zoofilia) 
+Dispersão: animal (zoocoria) 
+Alimento para caça: simCASCA interna amarela, marcas de chamas brancas, fibras rígidas, com látex creme, abundante e pouco pegajoso.
+24
+nERvuRAS terciárias intercostais, 
+formando retículos irregulares. FOLHAS simples, alternas, elípticas com margem inteira, estípulas no 
+ápice do ramo e medianamente simétricas.
+Arquitetura foliar
+Brosimum guianense 
+ÁPICE acuminado. 
+BASE assimétrica com um lado truncado e o outro cuneado.nERvAÇÃO secundária  festooned-
+broquidódroma formando arcos anastomosados.
+25
+Caryocar pallidum A.C. Sm. 
+Pequí, pequí amarelo, piquiarana, piquirana (AC) 
+TROnCO cilíndrico a tortuoso, 
+casca externa fissurada e ritidomas com sulcos profundos. 
+BASE do tronco digitada. Distribuição geográfica: Espécie que ocorre na Amazônia no Norte do Brasil; Bolívia, Guiana e Venezuela.
+Características Ecológicas: 
+Freqüente na mata de terra firme, solo argiloso florescendo de outubro-dezembro e frutifica de janeiro-março, sendo de estágios finais na sucessão ecológica. 
+Densidade básica da madeira: 1.0 g/cm
+3³ 
+Polinização: animal (zoofilia) 
+Dispersão: animal (zoocoria) 
+Alimento para caça: sim CASCA interna com anéis marrons e brancos, fibras rígidas, alburno creme, resina incolor escassa. 
+26
+FOLHAS opostas, trifolioladas, folíolos elípticos, estípulas lanceoladas, 
+estipelas persistentes e margem serreada.
+Arquitetura foliar
+Caryocar pallidum 
+ÁPICE acuminado com ângulo agudo. 
+BASE levemente cordada com nervura primária pinada.nERvAÇÃO secundárias 
+semicraspedódromas, espaçamento regular. 
+nERvAÇÃO terciária intercostais 
+perpendiculares as secundárias. Nervação secundária com espaçamento regular com o ângulo aumentando para a base.
+27
+Cedrela odorata L. 
+Cedro, cedro branco, cedro rosa, cedro vermelho 
+TROnCO cilíndrico; casca externa 
+fissurada com sulcos profundos.
+BASE do tronco sapopema grande, côncava, ramificada assimétrica. Distribuição geográfica: Espécie ocorre na Amazônia, Caatinga, Cerrado e Mata Atântica, Norte, Nordeste, Centro-Oeste e Sudeste do Brasil; Argentina, Bolívia, Colômbia, Equador, Guiana Francesa, Guiana, Paraguai, Peru, Suriname e Venezuela. 
+Características Ecológicas: 
+Espécie decídua, heliófila ou de luz difusa, característica das matas primárias altas de terra firme especialista de pequenas clareiras. 
+Densidade da madeira: 0,66 g/cm
+3³ 
+Polinização: animal (zoofilia) 
+Dispersão: vento (anemocoria) 
+Alimento para caça: não CASCA interna vermelha, marcas de chamas brancas, anéis amarelos pertos do alburno, resina incolor escassa.
+28
+nERvuRAS terciárias reticuladas irregulares. FOLHAS alternas, composta-paripinadas, folíolos subopostos, elípticos, 
+medianamente simétrico, margem inteira.
+Arquitetura foliar
+Cedrela odorata  
+ÁPICE acuminado. 
+BASE convexa com ângulo obtuso, nervura principal do tipo pinada. nERvAÇÃO secundária mista (perto 
+da base eucamptódroma e para cima broquidódroma). Inserção da nervura secundária abruptamente decorrente e espaçamento regular.
+29
+Clarisia biflora Ruiz & Pav. 
+Guariúba branca, Guambo (AC) 
+TROnCO cilíndrico a acanalado, 
+casca externa escamoso. 
+BASE do tronco digitada. Distribuição geográfica: Espécie ocorre na Amazônia no Norte do Brasil; Bolívia, Colômbia, Equador, Peru e Venezuela. 
+Características Ecológicas: 
+Planta ocorre em florestas úmidas não inundadas, típica de final da sucessão ecológica.
+Densidade da madeira: 0,47 g/cm
+3³ 
+Dispersão: por animal (zoocoria) 
+Alimento para caça: simCASCA interna amarelo, marcas de chamas brancas, látex café com leite abundante fluído e pegajoso. 
+30
+nERvAÇÃO terciária reticulada irregular. 
+FEvS muito pouco ramificados.FOLHAS composta, alterna, imparipinada. Folíolo elíptico, possuindo 
+simetria medial, margem da folha simples. 
+Arquitetura foliar
+Clarisia biflora 
+ÁPICE acuminado. 
+BASE truncada.nERvAÇÃO secundária 
+broquidódroma simples. 
+31
+Clarisia racemosa Ruiz & Pav. 
+Guariúba, guariúba amarela, guariúba branca 
+TROnCO cilíndrico e 
+tortuosa, casca externa lisa e suja, lenticelas dispersas e horizontais, cortiça vermelha.
+BASE do tronco digitada.Distribuição geográfica:      Ocorre na Amazônia e Mata Atlântica, no Norte, Nordeste, Centro-oeste e sudeste do Brasil; Bolívia, Colômbia, Equador, Peru, Suriname e Venezuela. 
+Características Ecológicas: 
+Espécie esciófita, encontrada nos estágios finais da sucessão, em solos férteis e bem drenados. 
+Densidade da madeira: 0,59 g/cm
+3³ 
+Polinização: animal (zoofilia) 
+Dispersão: animal (zoocoria) 
+Alimento para caça: sim CASCA externa amarela, com marcas de chamas amarelas, siliciosa, látex branco abundante, muito pegajoso.
+32
+nERvAÇÃO terciária admedianamente ramificadas.FOLHAS composta, alterna, imparipinada. Folíolo elíptico, possuindo 
+simetria medial, margem da folha simples.
+Arquitetura foliar
+Clarisia racemosa 
+ÁPICE acuminado. 
+BASE simétrica, obtusa convexa, nervura primaria pinada. nERvAÇÃO secundária 
+festooned com espaçamento regulares. Nervuras intersecundárias paralelas. 
+33
+Cordia alliodora (Ruiz & Pav.) Cham. 
+Freijó, freijó preto (AC), louro-freijó (AM) 
+TROnCO cilíndrico, casca externa 
+lisa a escamosa, lenticelas dispersas, estriado as fissurado.
+BASE do tronco digitada.Distribuição geográfica: Espécie ocorre na Amazônia e Cerrado, Norte, Nordeste e Centro-oeste do Brasil; Argentina, Bolívia, Equador e Peru.
+Características Ecológicas: 
+Planta heliófila, característica de florestas secundárias e tardias, de solos bem drenados com nível de textura e acidez variada. 
+Densidade da madeira: 0,52 g/cm
+3³ 
+Polinização: animal (zoofilia) 
+Dispersão: vento (anemocoria) CASCA interna  amarela, com 
+anéis brancos , alburno creme, fibras quebradiças, resina escassa, oxida. 
+34
+nERvuRAS terciária oposta-alterna 
+percorrente com epimediais 
+perpendiculares a nervura principal.FOLHAS simples, alternas, pecioladas, margens inteiras e medianamente simétricas. 
+Arquitetura foliar
+Cordia alliodora 
+ÁPICE levemente e largamente acuminado e retuso.
+BASE arredondada, nervura principal pinada.nERvAÇÃO secundária mista 
+(eucamptódroma na base broquidódroma perto do ápice), arqueadas, espaçamento reduzido para o ápice e para a base.  
+35
+Cordia sellowiana Cham.
+Freijó branco (AC), Catuteiro-branco, Capitão do campo, Louro-mole
+TROnCO cilíndrico, casca externa lisa a 
+áspera, lenticelas dispersas.
+BASE do tronco cilíndrica. Distribuição geográfica: Espécie ocorre na Amazônia, Caatinga e cerrado, Norte, Nordeste, Centro-oeste, Sudeste e Sul do Brasil; Bolívia.
+Características Ecológicas: 
+Semidecídua, heliófila, prefere terrenos enxutos e profundos, em florestas secundárias ou no interior de mata primária densa. 
+Polinização: animal (zoofilia) 
+Dispersão: animal/vento (zoocoria/anemocoria) 
+Alimento para caça: sim 
+CASCA  interna amarela, marcas de chamas brancas, com aneis amarelos, alburno amarelo e oxida.
+36
+nERvAÇÃO terciária oposta-
+alterna percorrente e nervação 
+quartenária irregular reticulada.FOLHAS simples, alternas, pecioladas, simetria medial, formato oblongo e margem inteira. 
+Arquitetura foliar
+Cordia sellowiana
+ÁPICE acuminado. 
+BASE convexa com ângulo obtuso e quatro nervuras basais. nERvAÇÃO secundária de 
+dois tipos (brochidodroma e eucamptódroma), ambas com espaços regulares entre si. 
+37
+Dalbergia miscolobium Benth. 
+Macacaúba (AC) Sapuvussu, Cavúna-do-cerrado, Jacarandá (MG, SP) 
+TROnCO tortuoso, casca externa fissurada com 
+placas alongadas, desprendendo da base para cima.
+BASE do tronco acanalada e digitada. Distribuição geográfica: Espécie ocorre na Amazônia, Caatinga e Cerrado, Norte Nordeste, Centro-oeste, Sudeste e Sul do Brasil; Bolívia. 
+Características Ecológicas: 
+Planta semidecídua, heliófita, frenquente em florestas secundárias, típica dos estágios iniciais da sucessão ecológica. 
+CASCA interna vermelho claro, anéis brancos, fibras rígidas, alburno branco, oxida, com resina vermelha escassa.
+38
+nERvAÇÃO terciária reticulada irregular.  
+FEvS pouco ramificados.FOLHAS alternas, compostas e imparipinadas. Foliólulos alternos, 
+peciolados, medianamente simétricos e oblongas.
+Arquitetura foliar
+Dalbergia miscolobium 
+ÁPICE arredondado. 
+BASE arredondada. Apenas uma nervura primária do tipo pinada. nERvAÇÃO secundária do tipo 
+festooned-broquidódroma com espaços irregulares.
+nERvuRA intersecundária 
+paralela e com comprimento <50% da secundária maior. Apresentam frequência de 01 por área. 
+39
+Dialium guianense (Aubl.) Sandwith  
+Jutaí, jutaí pororoca, pororoca, tamarina, tamarindo 
+TROnCO cilíndrico, casca externa 
+lisa, lenticelas dispersas.
+BASE do tronco sapopema, assimétrica, côncava ramificada e pequena. Distribuição geográfica: Espécie ocorre na Amazônia, Caatinga, Cerrado e Mata Atlântica, Norte, Nordeste, Centro-oeste e Sudeste do Brasil; Equador, Guiana Francesa, Guiana, Peru, Suriname e Venezuela. 
+Características Ecológicas: 
+Planta caducifólia, de ambientes de pouca sazonalidade e se adapta melhor a solos profundos. 
+Densidade da madeira: 0,89 g/cm
+3³ 
+Polinização: animal (Zoofilia)
+Dispersão: animal (zoocoria) CASCA interna com anéis vermelhos, marcas de chama vermelhas, alburno branco. 
+40
+nERvAÇÃO terciária 
+reticulada irregular.  
+FEvS altamente ramificados.FOLHAS compostas, alternas, imparipenadas, folíolos alternos, peciolados, ovado, medianamente simétricos, margens inteiras com ondulações. 
+Arquitetura foliar
+Dialium guianense 
+ÁPICE agudo. 
+BASE truncada, inserção assimétrica e nervura principal pinada.nERvAÇÃO secundária 
+festooned-broquidódroma com espaços irregulares. 
+41
+Diploön cuspidatum (Hoehne) Cronq.  
+Abiurana casca fina 
+TROnCO acanalado, casca externa 
+escamosa, com pequenas fissuras. 
+BASE do tronco sapopema pequena, assimétrica, côncava. Distribuição geográfica: Espécie ocorre na Amazônia e Mata Atlântica no Norte, Nordeste, Sudeste e Sul do Brasil; Bolívia, Equador, Guiana, Guiana Francesa, Peru e Venezuela. 
+Características Ecológicas: 
+Planta de dossel, 
+Densidade da madeira: 0,85g/cm
+3³ 
+CASCA interna, Rosa, com 
+marcas de chama branca, siliciosa e látex branco pegajoso. 
+42
+nERvAÇÃO terciária reticulada irregular. FOLHAS simples, alternas, elípticas a oblonga elíptica, margem inteira e 
+lisa, medianamente simétrica. 
+Arquitetura foliar
+Diploön cuspidatum 
+ÁPICE acuminado longo e estreito.
+BASE simétrica, obtusa, cuneada, nervura primária pinada. nERvAÇÃO secundária 
+brochidodroma simples formando a nervação intramarginal. 
+nERvuRAS intersecundárias 
+paralelas as secundárias costais. 
+43
+Dipteryx ferrea (Ducke) Ducke 
+Cumarú ferro 
+TROnCO tortuoso a cilíndrico, 
+casca externa soltando pequenas placas, com lenticelas dispersas.
+BASE do tronco sapopema grande, assimétrica, côncava e ramificada. Distribuição geográfica: Espécie ocorre na Amazônia, no Norte do Brasil; Venezuela. 
+Características Ecológicas: 
+Planta ocorre em florestas primárias e em finais de florestas secundárias, especialista de pequenas clareiras, de estágios finais da sucessão ecológica.
+Densidade da madeira: 0,84 g/cm
+3
+Polinização: zoofilia 
+Dispersão: por animal (zoocoria) Alimento para caça: sim CASCA interna amarela, pontuações laranjadas, quase formando aneis, alburno creme, resina incolor escassa pouco pegajosa.
+44
+FEVs com ramificação única e pontuações. FOLHAS alternas, compostas-pinadas. Folíolo suboposto, oblongo, 
+medianamente assimétrico e com margem inteira e ondulada e com com peciólulo canaliculado. 
+Arquitetura foliar
+Dipteryx ferrea 
+ÁPICE acuminado com ângulo agudo. 
+BASE assimétrica, um lado arredondado e o outro cuneado.nERvuRAS secundárias do tipo 
+Eucamptódromas, asas não alcançam a margem e perdem calibre. 
+45
+Enterolobium schomburgkii Mart. ex Benth.  
+Orelinha, Faveira, Fava orelhinha 
+TROnCO cilíndrico, casca 
+externa, sujo e áspero.
+BASE do tronco digitada. Distribuição geográfica: A espécie ocorre na Amazônia e Cerrado, no Norte, Nordeste e Centro-oeste do Brasil; Bolívia, Guiana Francesa, Guiana, Peru, Suriname e Venezuela. 
+Características Ecológicas: 
+Árvore de 10 a 50 m, heliófila, classificada como oportunista e de clímax, recomendada para reflorestamento. 
+Densidade básica da madeira: 0,87 g/cm
+3 
+Polinização:  animal (zoofilia) 
+Dispersão: vento (anemocoria) 
+Alimento para caça: nãoCASCA interna marrom, marcas de chamas amarelas, alburno amarelo com resina incolor escassa. 
+46
+FOLHAS compostas-bipinadas, opostas, foliólulos opostos, lineares, com 
+margem inteira, e glândulas nos pecíolos.
+Arquitetura foliar
+Enterolobium schomburgkii 
+ÁPICE convexo arredondado.
+BASE concavo-convexo com ângulo reflexo e extensão basal do folíolulo assimétrica com seis nervuras basais.nERvAÇÃO secundária 
+broquidódroma simples, com arcos que se anastomosam. 
+FOLIóLuLOS com margem ciliada. 
+47
+Eriotheca globosa (Aubl.) A. Robyns 
+Samaúma da terra firme 
+TROnCO cilíndrico, casca externa 
+com fissuras rasas, cristas planas e lenticelas dispersas. 
+BASE do tronco sapopema assimétrica, reta, ramificada. Distribuição geográfica: Espécie ocorre na Amazônia e Cerrado no Norte, Nordeste e Centro-oeste do Brasil; Bolívia, Equador, Guiana Francesa, Guiana, Peru, Suriname e Venezuela.
+Características Ecológicas: 
+Planta característica de florestas primária e secundária, típica de estágios finais da sucessão ecológica.
+Polinização: por animal (zoofilia)
+Dispersão: por vento (anemocoria) Alimento para caça: não
+CASCA interna vermelha, com marcas de chama brancas, alburno amarelo e ausência de exsudato.
+48
+nERvAÇÃO terciária 
+admedianamente ramificadas.FOLHA alterna, composta palmada, margem inteira, medianamente 
+simétrica, com estípula. 
+Arquitetura foliar
+Eriotheca globosa 
+ÁPICE arredondado. 
+BASE marcadamente decorrente.nERvAÇÃO secundária 
+Broquidódroma simples. 
+nERvuRAS intersecundárias 
+presentes sendo mais de 50% do tamanho das secundárias maiores. 
+49
+Eschweilera grandiflora (Aubl.) Sandwith   
+Mata mata 
+TROnCO cilíndrico, casca 
+externa escamosa, com fissuras pequenas e rasas. 
+BASE do tronco digitada. Distribuição geográfica: Características Ecológicas: Densidade da madeira: 0,76 g/cm
+3³ 
+Polinização:  por animal (zoofilia)Dispersão:  por animal (zoocoria)Alimento para caça: sim
+CASCA interna amarela clara, anéis amarelos, marcas de chama finas brancas e fibras rígidas. 50
+nERvAÇÃO terciária reticulada e irregular. FOLHAS simples, alternas espiraladas, oblonga a elíptico-oblonga, 
+margem inteira e medianamente simétricas. Pecíolo com pulvino. Arquitetura foliar
+Eschweilera grandiflora
+ÁPICE cuspidado. 
+BASE decorrente aguda.nERvAÇÃO secundária 
+broquidódroma simples com espaços regulares.
+nERvuRAS intersecundárias 
+paralelas, tendo mais de 50% do tamanho das secundárias maiores e ocorrendo mais de uma entre as secundárias maiores. 51
+Eschweilera truncata A.C.Sm. 
+Mata-matá preto, Mata-mata (AC) 
+TROnCO acanalado, casca 
+externa escamosa. 
+BASE do tronco sapopema reta, assimétrica longa.Distribuição geográfica: Espécie endêmica da Amazônia, Norte do Brasil 
+Características Ecológicas: 
+Planta semidecídua, ciófita até heliófita, típica de florestas primárias de terra firme ou periodicamente inundada, de estágios finais da sucessão ecológica. 
+Densidade da madeira: 0,4-0,7 g/cm
+3³ 
+Polinização: por animal (zoofilia)
+Dispersão: por animal (zoocoria) CASCA interna amarela clara, anéis em diferentes tons de amarelo, fibras rígidas e alburno branco. 
+52
+nERvAÇÃO terciária reticulada irregular. FOLHAS simples, alternas e dispostas em espiral. Tem forma oblonga, 
+são medianamente simétricos e margem inteira. 
+Arquitetura foliar
+Eschweilera truncata 
+ÁPICE acuminado. 
+BASE aguda.Apenas uma nervura primária. nERvuRA secundária 
+eucamptódroma com espaços e ângulos irregulares entre si. 
+53
+Handroanthus serratifolius   (A.H. Gentry) S. Grose [Tabebuia serratifolia (Vahl) G. Nicholson]
+Ipê amarelo, Pau d’ arco (AC) Pau d’arco amarelo (PA) Piúva-amarela, Ipê-ovo-de-macuco (ES) 
+TROnCO cilíndrico, casca externa 
+escamosa soltando pequenas placas. 
+BASE - Sapopema côncava, baixa e assimétrica.Distribuição geográfica: Espécie ocorre no Brasil desde a Amazônia e Nordeste até São Paulo; Bolívia, Colômbia, Equador,  Guiana Francesa, Guiana, Peru, Suriname e Venezuela. 
+Características Ecológicas: 
+Planta decídua, helíofita, típica de floresta pluvial densa, tanto na mata como em capoeiras, de estágios iniciais da sucessão ecológica. 
+Densidade da madeira: 0,92 g/cm
+3³ 
+Polinização: por animal (zoofilia) 
+Dispersão: por vento (anemocoria) 
+Alimento para caça: nãoCASCA interna amarela, marcas de chamas e anéis amarelo claro, compacta com resina incolor e escasso.
+54
+nERvAÇÃO terciária reticulada irregular. FOLHAS compostas digitadas, opostas, com folíolos peciolados, elípticos, 
+medianamente simétricos e margem erosa.
+Arquitetura foliar
+Handroanthus serratifolius (Tabebuia serratifolia) 
+ÁPICE acuminado. 
+BASE convexa com ângulo agudo. Apenas uma nervura primária.nERvuRAS secundárias 
+eucamptódromas com espaços e ângulos irregulares.
+55
+Hymenaea parvifolia Huber 
+Jutaí 
+TROnCO cilíndrico.
+CASCA externa estriada com 
+lenticelas dispersas.
+BASE do tronco digitada. Distribuição geográfica: Espécie ocorre na Amazônia, Norte, Nordeste e Centro-oeste do Brasil; Bolívia, Colômbia, Peru e Venezuela.
+Características Ecológicas: 
+Planta de floresta primária e secundária tolerante a sombra, típica de estágios finais da sucessão ecológica.
+Densidade da madeira: 0,88 g/cm
+3³ 
+Polinização: por animal (zoofilia)
+Dispersão: por animal (zoocoria) 
+Alimento para caça: simCASCA interna comm arcas de chamas brancas, fibras quebradiças, alburno amarelo, resina incolor escassa pouco pegajosa. 
+56
+nERvAÇÃO terciária reticulada 
+irregular. Apresentando FEVs 
+com apenas uma ramificação.FOLHAS compostas, imparipenadas. Foliólulos alternos, oblongos de margem inteira.
+Arquitetura foliar
+Hymenaea parvifolia
+ÁPICE acuminado com ângulo agudo.
+BASE assimétrica.Apenas uma nervura primária.nERvAÇÃO secundária 
+eucamptódroma com espaços e ângulos irregulares entre si
+57
+Jacaranda copaia (Aubl.) D. Don  
+Marupá, murupá 
+TROnCO cilíndrico, casca 
+externa escamosa a fissurada com cristas planas.
+BASE do tronco cilíndrica.Distribuição geográfica:A espécie ocorre na Amazônia, no Norte, Nordeste e Centro-oeste do Brasil; Bolívia, Equador, Guina Francesa, Guiana, Peru, Suriname e Venezuela.
+Características Ecológicas: 
+Planta semidecídua, heliófila. É encontrada no interior da floresta densa. Apresenta característica de pioneira, pelo crescimento extremamente rápido em ambientes abertos. 
+Densidade básica da madeira: 0,31 g/cm
+3³ 
+Polinização:  animal (zoofilia) 
+Dispersão: vento (anemocoria) 
+Alimento para caça: não CASCA interna com marcas de chama laranja, siliciosa, alburno creme, resina incolor não pegajosa escassa. 
+58
+nERvuRA intersecundária paralela, 
+com comprimento menor que 50% 
+da secundária maior e com frequência aprox. de uma por área. FOLHAS compostas, opostas, bipinadas com pecíolo canaliculado.  Folíolos subopostos, elípticos, peciolados, medianamente simétricos, margem inteira. 
+Arquitetura foliar
+Jacaranda copaia 
+ÁPICE acuminado. 
+BASE convexa com ângulo obtuso, nervura principal pinada. nERvAÇÃO secundária mista 
+(eucamptódroma na base broquidódroma perto do ápice), com espaços irregulares.
+59
+Mezilaurus itauba (Meisn.) Taub. ex Mez
+Itauba 
+TROnCO cilíndrico com casca 
+externa escamosa, com fendas e lenticelas dispersas. 
+BASE do tronco dilatada. Distribuição geográfica:Amazônia, Norte e Centro-oeste do Brasil; Bolívia, Equador, Guiana Francesa, Peru, Suriname e Venezuela. 
+Características Ecológicas: 
+Planta semidecídua, heliófita, de estágio final de sucessão ecológica, típica de floresta primária e secundária com dispersão descontínua e irregular. 
+Densidade da madeira: 0,74 g/cm
+3³ 
+Polinização: animal (zoofilia) 
+Dispersão: animal (zoocórica) CASCA interna branca, siliosa, 
+com marcas de chama amarelas, alburno branco, oxidação e resina incolor escassa pouco pegajosa.
+60
+FEvS com ramificações desiguais.FOLHAS simples, alternas, pecioladas, elípticas, com margens inteiras e 
+medianamente simétricas.
+Arquitetura foliar
+Mezilaurus itauba 
+ÁPICE retuso.
+BASE simétrica decorrente. Nervura principal pinada.nERvAÇÃO secundária eucamptódroma, 
+com espaço e ângulo irregular (espaçamento aumentando para o ápice e ângulo aumentando perto do ápice).
+nERvuRAS terciárias percorrentes mistas. 
+61
+Minquartia guianensis Aubl. 
+Acariquara, Aquariquara, Aquaricara-roxa (AC) 
+TROnCO tortuoso com casca 
+externa escamosa e fissuras com crista côncava.
+BASE do tronco digitada.Distribuição geográfica: Amazônia e Cerrado, Norte, Nordeste e Centro-oeste  do Brasil; Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Suriname e Venezuela.
+Características Ecológicas: 
+Ocorre em floretas primárias e secundárias, em terra firme ou periodicamente inundada, sobre solos arenosos ou argilosos, e depende de locais sombreados para o estabelecimento. 
+Densidade básica da madeira: 0,8-0,9 g/cm³ 
+Polinização: animal (zoofilia) 
+Dispersão: animal (zoocoria) Alimento para caça:  sim 
+CASCA  interna creme, com pontuações pretas, fibras quebradiças, alburno amarelo e oxidação. 
+62
+FEv’S com ramificação desigual 
+dendrítica e pontuações.FOLHAS simples, alternas, oblongas, com margem inteira, medianamente simétricas, com pulvínulo e presença de látex branco e aquoso exclusivamente nas folhas e nos pecíolos.
+Arquitetura foliar
+Minquartia guianensis
+APICE acuminado.
+BASE convexa com três nervuras basais.nERvAÇÃO secundária 
+eucamptódroma que não formam laços marginais.
+63
+Myroxylon balsamum (L.) Harms 
+Bálsamo 
+TROnCO levemente acanalado, 
+casca externa escamosa a estriada com placas lenhosas pequenas.
+BASE do tronco dilatada. Distribuição geográfica: Amazônia, Norte do Brasil; Bolívia, Colômbia, Equador, Guiana, Peru, Suriname e Venezuela.
+Características Ecológicas: 
+Árvore decídua, especialista de pequenas clareiras, com altura entre 10 -20m e diâmetro entre 60-80cm. 
+Densidade da madeira: 0.95g.cm
+3³ 
+Polinização: animal (zoocórica) 
+Dispersão: vento (anemocórica) CASCA interna siliciosa, com marcas de chama amarelas, alburno branco e resina incolor escassa e pouco pegajosa. 
+64
+FOLHAS compostas pinadas imparipinadas, alternas e folíolos alternos, 
+peciolados, oblongo-elípticos, com margem lisa e medianamente simétricas. 
+Arquitetura foliar
+Myroxylon balsamum 
+ÁPICE acuminado. 
+BASE aguda e uma nervura principal pinada.nERvAÇÃO secundária festooned-
+broquidódroma, com espaços extremamente irregulares e o ângulo diminui para a base e aumenta para o ápice.
+LIMBO repleto de pontoações.nERvuRAS terciárias reticuladas e irregulares.
+65
+Nectandra cuspidata Nees 
+Louro preto, Louro pimenta (AC) Canelão, Louro-bosta, Canela-bosta, (AM) Canelão seboso (Sudeste) 
+TROnCO cilíndrico, casca 
+externa liso sem ritidomas. 
+BASE do tronco dilatada. Distribuição geográfica: Espécie ocorre na Amazônia, Caatinga e Cerrado no Norte, Nordeste, Centro-oeste, Sudeste e Sul  do Brasil; Bolívia, Colômbia, Equador, Guiana, Peru, Suriname e Venezuela.
+Características Ecológicas: 
+Planta freqüente em florestas ombrófilas densas aluviais e na savana florestada, de estágios finais na sucessão ecológica. 
+Densidade da madeira: 0,52 g/cm
+3³ 
+Polinização: por animal (zoofilia)
+Dispersão: zoocoria CASCA interna amarelo claro, com marcas de chamas laranja, siliciosa e alburno creme.  
+66
+nERvAÇÃO terciária reticulada 
+irregular. Pontuações.FOLHAS simples, alternas, margem inteira e levemente ondulada. 
+Presença de pulvino. 
+Arquitetura foliar
+Nectandra cuspidata 
+ÁPICE cuspidato. 
+BASE aguda e decorrente.nERvAÇÃO secundária 
+broquidódroma simples com espaçamento extremamente irregular, ângulo muito agudo para a base e tornando-se quase perpendicular para o ápice. 
+67
+Nectandra longifolia (Ruiz & Pavon)Nees  
+Louro
+TROnCO cilíndrico a tortuoso, casca 
+externa escamosa com lenticelas dispersas e estrias na horizontal.
+BASE do tronco sapopema assimétrica, convexa. Distribuição geográfica: Espécie ocorre na Amazônia, na região Norte do Brasil; Bolívia, Equador e Peru.
+Características Ecológicas: 
+Planta ocorre nos estágios finais de florestas secundárias, em florestas primárias, e ambientes com uma estação seca. 
+Densidade da madeira: 0,4 a 0,8 g/cm
+3³ 
+Polinização: por animal (zoofilia)
+Dispersão: por animal (zoocoria)CASCA interna rosa, marcas de chamas vermelhas e amarelas, siliciosa, alburno branco e oxida.
+68
+nERvAÇÃO terciária mista 
+(alterna-percorrente).FOLHA simples, pinada, alterna, obovada, pecíolo canaliculado, 
+medianamente simétrico, margem inteira.
+Arquitetura foliar
+Nectandra longifolia 
+ÁPICE arredondado.
+BASE aguda e decorrente.Apenas uma nervura primária.nERvAÇÃO secundária 
+eucamptódroma com espaçamento irregular com tendência de diminuir para o ápice , o ângulo diminui gradualmente para a base e aumenta gradualmente para o Ápice.
+69
+Parkia nitida Miq.
+Angico, Fava-pé-de-arara (AC) 
+TROnCO digitado com casca 
+externa lisa a escamosa e lenticelas dispersas.
+BASE do tronco com sapopemas assimétricas, retas e ramificadas.Distribuição geográfica: Florestas ombrófilas e estacionais, da Amazônia, Norte e Nordeste do Brasil; Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Suriname e Venezuela. 
+Características Ecológicas: 
+Ocorre em florestas primárias ou florestas secundárias de estágios iniciais da sucessão ecológica. 
+Densidade da madeira: 0,4 g/cm
+3³ 
+Polinização: animal (zoofilia) 
+Dispersão: animal (zoocoria) e por si mesma (autocoria) 
+Alimento para caça: nãoCASCA interna vermelha, marcas de chama amarelas, anéis amarelos, alburno branco, resina amarela escassa e pouco pegajosa. 
+70
+nERvAÇÃO terciária com 
+ramificação admedial 
+e FEvS dendriticos 
+altamente ramificados.FOLHAS compostas bipinadas, alternas espiraladas e congestas no ápice, com foliólulos oblongos, opostos/subopostos, sésseis e com margem inteira. 
+Arquitetura foliar
+Parkia nitida
+ÁPICE arredondado.
+BASE do foliólulo medianamente assimétrica, com várias nervuras basais.                                                                                                              nERvAÇÃO  secundária festooned-
+broquidódroma com mais de um conjunto de arcos anastomosados. 
+71
+Parkia pendula (Willd.) Benth. ex Walp. 
+Angico vermelho, Angelim saia, Fava bolota (AC), Andirá, Jueirana-vermelha (ES) 
+TROnCO cilíndrico e casca externa com 
+depressões e lenticelas dispersas.
+BASE do tronco digitada. Distribuição geográfica: Florestas ombrófilas e estacionais, da Amazônia e Mata Atlântica, Norte, Nordeste e Centro-oeste do Brasil; Bolívia, Colômbia, Guiana, Guiana Francesa, Peru, Suriname e Venezuela.
+Características Ecológicas: 
+Espécie de grande porte com copa larga, aplainada, perenifólia, mesófila ou heliófila. 
+Densidade da madeira: 0,88 g/cm
+3³ 
+Polinização: animal (zoofilia) 
+Dispersão:  por si mesma (autocoria) 
+Alimento para caça: sim CASCA interna creme, com anéis vermelhos e resina vermelha escassa.
+72
+FOLHAS compostas bipinadas, alternas espiraladas, congestas no ápice, 
+foliólulos lineares, opostos ou subopostos, sésseis e com margem inteira. 
+BASE côncavo-convexa com ângulo obtuso e extensão basal assimétrica e nervura primária palmada. FOLIóLuLO com margem ciliada. nERvuRA terciária intercostal 
+interceptando a nervura secundária. 
+Arquitetura foliar
+Parkia pendula 
+ÁPICE obtuso.
+nERvAÇÃO secundária 
+livre admedial ramificada, ângulo obliquo, espaçamento aumentando para a base e diminuindo para o ápice.
+73
+Pouteria trilocularis  Cronq.  
+Abiurana, abiurana da casca grossa (AC) 
+TROnCO cilíndrico, casca 
+externa com fissuras pequenas, lenticelas verticais e estrias horizontais.
+BASE do tronco dilatada. Distribuição geográfica: Espécie ocorre na Amazônia, Norte e Centro-oeste do Brasil; Bolívia, Colômbia, Equador, Peru e Venezuela.
+Características Ecológicas: 
+Planta típica de florestas primárias, raramente em florestas secundárias, de estágios finais da sucessão ecológica. 
+Densidade da madeira: 0,67 g/cm
+3³ 
+Polinização: por animal (zoofilia)
+Dispersão: por anima (zoocoria) 
+Alimento para caça: sim CASCA interna amarelo-claro, com anéis amarelos, látex branco pouco pegajoso.
+74
+nERvAÇÃO terciária mista, 
+percorrente oposta e alternada.FOLHAS simples, alternas espiraladas, pecioladas, obovadas, 
+medianamente simétricas e com margem inteira.
+Arquitetura foliar
+Pouteria trilocularis 
+ÁPICE acuminado com ângulo agudo. 
+BASE cuneada com ângulo agudo. Apenas uma nervura primária.nERvAÇÃO secundária 
+eucamptódroma com espaçamento e ângulo diminuindo, respectivamente, leve e gradualmente para o ápice.
+75
+Protium rhynchophyllum (Rusby) Daly
+Breu, Breu manga, Breu maxixe, Breu mescla (AC) 
+TROnCO cilíndrico, escamoso e 
+com lenticelas dispersas.
+BASE do tronco digitada. Distribuição geográfica: Espécie ocorre na Amazônia, região Norte no estado do Acre, Brasil.
+Características Ecológicas: 
+Planta perenifólia, heliófila, ocorrendo tanto em florestas secundárias como em matas primárias, de estágios finais da sucessão ecológica.
+Densidade da madeira: 0,5 a 0,7 g/cm
+3
+Polinização: por animal (zoofilia)
+Dispersão: por ela mesma (autocoria) 
+Alimento para caça: nãoCASCA interna amarelo queimado, anéis brancos, alburno branco e oxida. 
+76
+nERvAÇÃO terciária irregular e 
+FEvS altamente ramificados.FOLHAS compostas imparipinadas, alternas, folíolos opostos, 
+elípticos, medianamente simétricos, com margem inteira e pulvínulos nos peciólulos. 
+Arquitetura foliar
+Protium rhynchophyllum
+ÁPICE acuminado afilando de forma estreita e comprida.
+BASE cuneada assimétrica.nERvAÇÃO secundária 
+broquidódroma simples, afinando gradualmente em uma ponta afiada.
+77
+Pseudoptadenia psilostachya (DC.) G. P . Lewis & M.P . de Lima 
+Faveira 
+TROnCO cilíndrico a acanalado, 
+casca externa lisa e estriada. 
+BASE do tronco sapopema, assimétrica côncava ramificada, pequena.Distribuição geográfica: Espécie ocorre na Amazônia em todos os estados da região Norte do Brasil, com exceção de Tocantins; Guiana, Guiana Francesa e Suriname. 
+Características Ecológicas:
+Planta ocorre em florestas primárias e secundárias, típica de estágios finais da sucessão ecológica. 
+CASCA interna vermelha, marcas de chamas brancas com anéis amarelos, resina escassa amarela.
+78
+nERvuRAS terciárias percorrentes oposto-retas. FOLHAS compostas alternas, com foliólulos sésseis, opostos, 
+medianamente assimétricos e margem inteira.
+Arquitetura foliar
+Pseudoptadenia psilostachya 
+ÁPICE agudo e oblique. 
+BASE convexa-truncada, assimétrica e com duas nervuras.nERvuRA secundária 
+broquidródroma simples.
+79
+Qualea grandiflora  Mart. 
+Catuaba roxa (AC), Pau-terra, Pau-terra-do-campo, Ariáuá (PA) 
+TROnCO cilíndrico com 
+casca externa escamosa. 
+BASE do tronco dilatada.Distribuição geográfica:Amazônia, Caatinga,  Cerrado e Mata Altântica, Norte, Nordeste, Centro-oeste, Sudeste e Sul do Brasil; Bolívia, Paraguai e Suriname.
+Características Ecológicas: 
+Decídua, heliófila, com ocorrência em florestas primárias e secundárias, em terrenos altos e bem drenados. 
+Polinização: animal (zoofilia) 
+Dispersão: vento (anemocoria)Alimento para caça: não 
+CASCA interna marrom, compacta, quebradiça e com resina incolor e escassa.
+80
+nERvuRAS terciárias percorrentes mistas. FOLHAS simples opostas, oblongo-elípticas, medianamente simétricas, 
+com margem inteira e estípulas glandulares.
+Arquitetura foliar
+Qualea grandiflora 
+ÁPICE agudo ou obtuso-acuminado. 
+BASE arredondada, com ângulo obtuso e nervura principal pinada. nERvuRA secundárias 
+broquidódromas regularmente espaçadas, formando uma volta próximo da margem; ângulo aumenta para a base.
+nERvuRAS intersecundárias 
+paralelas 50% mais compridas que a secundária maior.
+81
+Schefflera morototoni (Aubl.) Maguire, Steyerm. & Frodin 
+Morototó (AC) 
+TROnCO cilíndrico, casca externa 
+lisa a áspera, com marcas de olho e lenticelas longitudinais.
+BASE do tronco dilatada.Distribuição geográfica: Amazônia, Cerrado, Caatinga, Mata Atlântica e Pantanal, Norte, Nordeste, Centro-oeste, Sudeste e Sul do Brasil; Argentina, Bolívia, Colômbia, Equador, Guiana Francesa, Guiana, Paraguai, Peru, Suriname e Venezuela.
+Características Ecológicas: 
+Espécie adaptada a diferentes tipologias florestais, desenvolvendo-se facilmente em florestas abertas.
+Densidade da madeira: 0,35-0,60 g/cm
+3³ 
+Polinização: animal (zoofilia) 
+Dispersão: animal (zoocória) 
+Alimento para caça: não CASCA interna siliciosa, alaranjada, com marcas de chama amarelas e oxidação rápida para marrom escuro.
+82
+nERvAÇÃO terciária mista e 
+FEvS com ramificação desigual. FOLHAS compostas palmadas, alternas espiraladas, com folíolos 
+oblongos, medianamente simétricos e margem inteira.
+Arquitetura foliar
+Schefflera morototoni 
+ÁPICE acuminado. 
+BASE arredondada, ângulo obtuso, com extensão assimétrica e nervura primária pinada. nERvuRAS secundárias 
+eucamptódromas, quase craspedódromas, irregularmente espaçadas e dendríticas.
+83
+Schizolobium amazonicum Huber ex Ducke  
+Faveira, Paricá, Pinho cuiabano, Guapuruvu (AC, AM) 
+TROnCO cilíndrico, casca externa 
+escamosa com lenticelas dispersas. 
+BASE do tronco sapopema pequena, convexa, assimétrica e ramificada.Distribuição geográfica: Espécie ocorre na Amazônia no Norte do Brasil; Bolívia, Colômbia, Peru e Venezuela. 
+Características Ecológicas: 
+Planta decídua, heliófita, típica de matas abertas e capoeiras, rara em florestas primárias densas, de estágios inicias da sucessão ecológica.
+Densidade da madeira: 0,49 g/cm
+3³ 
+Polinização: por animal (zoofilia)
+Dispersão: pelo vento (anemocoria) CASCA interna amarela, anéis vermelhos, marcas de chamas vermelhas, siliciosa com alburno amarelo, resina incolor escassa não pegajosa. 
+84
+nERvAÇÃO terciária reticulada irregular. FOLHAS compostas bipinadas, alternas espiraladas, com folíolos 
+peciolados, opostos, oblongos, medianamente simétricos e margem inteira.
+Arquitetura foliar
+Schizolobium amazonicum 
+ÁPICE arredondado.
+Apenas uma nervura primária.
+BASE cordada e levemente assimétrica.nERvuRAS secundárias 
+broquidódromas irregularmente espaçadas.
+nERvuRA intersecundária 
+paralela a secundária maior. 
+85
+Swartzia jorori Harms 
+Pitaíca, Pau sangue, Pau sangue casca grossa (AC) 
+TROnCO cilíndrico, casca externa 
+escamosa soltando pequenas placas e fissuras pequenas.
+BASE do tronco digitada a dilatada.Distribuição geográfica:Espécie ocorre na Amazônia, Cerrado e Pantanal, Norte e Centro-oeste do Brasil; Bolívia e Peru.
+Características Ecológicas: 
+Planta típica de estágios iniciais da sucessão ecológica, que ocorre em florestas secundárias e florestas primárias.
+Densidade da madeira: 0,48 g/cm
+3³ 
+CASCA interna creme, siliciosa 
+e com resina vermelha escassa.
+86
+nERvuRA terciária do tipo 
+reticulada irregular. FOLHAS compostas paripinadas, alternas, com folíolos peciolados, 
+opostos, elípticos, medianamente simétricos e margem inteira.
+Arquitetura foliar
+Swartzia jorori 
+ÁPICE estreito e abruptamente acuminado.
+BASE côncava de onde parte uma nervura principal pinada.nERvuRA secundárias 
+festooned-broquidódromas, irregularmente espaçadas.
+87
+Stryphnodendron duckeana Occhioni 
+Fava branca 
+TROnCO cilíndrico, casca externa 
+lisa, com lenticelas dispersas. 
+BASE do tronco sapopema pequena, côncava e assimétrica. Distribuição geográfica: Espécie endêmica do Brasil, que ocorre na Amazônia nos estados do Acre, Amazonas Rondônia.
+Características Ecológicas: 
+Planta típica de florestas secundárias, ocorrendo em florestas primárias, de estágios iniciais da sucessão ecológica. 
+Dispersão: por vento (anemocoria) 
+CASCA interna vermelha, 
+compacta, com anéis brancos, resina incolor, pouco pegajosa.
+88
+FOLHAS compostas imparipinadas alternas, com foliólulos subsésseis, 
+opostos, medianamente assimétricos e margem inteira.
+Arquitetura foliar
+Stryphnodendron duckeana 
+ÁPICE arredondado.
+BASE convexo-arredondada, ângulo obtuso e inserção assimétrica.nERvuRAS secundárias 
+festooned-broquidódromas,  irregularmente espaçadas e com ângulo diminuindo em direção à base.
+FEvS com um ou dois ramos. nERvuRAS terciárias e quaternárias 
+reticuladas, irregulares e livremente ramificadas.
+89
+Terminalia oblonga (Ruiz & Pav.) Steud.  
+Imbiridiba amarela, imbirijiba amarela, imbirindiba, imbirimdiba amarela, mirimdiba 
+TROnCO cilíndrico com casca 
+externa escamosa, placas lenhosas sem rigidez e marcas do ritidoma desprendido.
+BASE do tronco Sapopema côncava, assimétrica e ramificada.Distribuição geográfica: Espécie que ocorre na Amazônia, Norte do Brasil; Bolívia, Colômbia, Equador, Guiana Francesa, Guiana, Peru, Suriname e Venezuela.
+Características Ecológicas:
+Encontrado em florestas secundárias e primárias com precipitação elevada e constante, mas também em áreas com uma estação seca. 
+Densidade da madeira: 0,70 g/cm
+3³ 
+Polinização: animal e vento (zoofilia e anemofilia) 
+Dispersão: vento (anemocoria) 
+Alimento para caça: sim CASCA interna creme, com anéis amarelos e alburno amarelo. 
+90
+nERvuRAS terciárias epimediais 
+perpendiculares à nervura principal, 
+intercostais irregularmente reticuladas e pontuações.FOLHAS simples, alternas, obovadas, com margem lisa e medianamente simétricas. 
+Arquitetura foliar
+Terminalia oblonga 
+ÁPICE arredondado. 
+BASE cuneada com ângulo obtuso e nervura primária pinada. nERvuRAS secundárias 
+festooned-broquidódromas, espaçamento sub-regular, ângulo diminuindo em direção à base.
+91
+Tetragastris altissima (Aubl.) Swart 
+Breu, breu vermelho, breu maxixe, mata fome 
+TROnCO cilíndrico, casca externa 
+rugosa devido às lenticelas dispersas, e desprendendo em placas lenhosas grandes.
+BASE do tronco Sapopema pequena, assimétrica e reta.Distribuição geográfica:Espécie ocorre na Amazônia e Cerrado, no Norte, Nordeste e Centro-oeste do Brasil; Bolívia, Equador, Guiana Francesa, Guiana, Peru, Suriname e Venezuela. 
+Características Ecológicas:
+Planta de florestas primárias e secundárias, que regenera na sombra e em clareiras, de estágios iniciais da sucessão ecológica. 
+Densidade da madeira: 0,71 g/cm
+3³  
+Polinização: por animal (zoofilia)
+Dispersão: por animal (zoocoria) 
+Alimento para caça: nãoCASCA interna rosa-alaranjada com 
+anéis vermelho claro, oxidando a marrom-avermelhado, exsudato incolor, escasso e pegajoso.
+92
+nERvuRAS terciárias alternado-
+opostas, percorrentes, sinuosas 
+e FEvS altamente ramificados.FOLHAS compostas imparipinadas, opostas, com folíolos opostos, elípticos, medianamente assimétricos, margem inteira e pulvínulo apenas no peciólulo terminal.
+Arquitetura foliar
+Tetragastris altissima 
+ÁPICE acuminado com ângulo agudo. 
+BASE cuneada assimétrica e inserção da base assimétrica.nERvuRAS secundárias 
+broquidódromas simples, com laço perto da margem.
+93Padrões de arquitetura foliar para espécies comumente chamadas pelo mesmo nome popular
+Abiorana
+Pouteria caimito (Ruiz & Pav.) Radlk
+Pouteria coriacea (Pierre) Pierre
+SECunDÁRIA eucamptódroma.
+SECunDÁRIA eucamptódroma.TERCIÁRIA reticulada irregular.
+TERCIÁRIA reticulada 
+irregular.APRESEnTA pontoações.ÁPICE reto.
+ÁPICE reto.BASE cuneada.
+BASE convexa.FORMA elíptica
+FORMA elíptica94Abiorana  (Continuação)
+Pouteria filipes Eyma
+Pouteria franciscana Baehni
+FORMA obovada.
+FORMA cuneada.SECunDÁRIA com espaçamento regular, 
+ângulo agudo, diminuindo para o ápice.
+SECunDÁRIA eucamptódroma, espaçamento irregular.TERCIÁRIA intercostais perpendiculares a nervura principal.
+TERCIÁRIA reticulada  irregular.ÁPICE largamente acuminado e obtuso – acumem curto.
+ÁPICE reto com ângulo obtuso.BASE aguda.
+BASE convexa.95Abiorana (Continuação)
+Pouteria glomerata (Miq.) Radlk
+Pouteria torta (Mart.) Radlk
+FORMA obovada.
+FORMA obovada.SECunDÁRIA broquitódroma – espaçamento 
+irregular ângulo um pouco irregular.
+SECunDÁRIA com espaçamento e ângulos regulares.TERCIÁRIA percorrente (oposto e alternado) – tende a ser perpendicular as secundárias.
+TERCIÁRIA alterna percorrente e irregularmente reticulada.ÁPICE obtuso até arredondado.
+ÁPICE reto com ângulo obtuso.BASE cuneada.
+BASE cuneada.
+96Amarelão
+Aspidosperma parvifolium A. DC.
+Aspidosperma williamsii Duarte
+SECunDÁRIA com espaçamento irregular 
+com intersecundárias (sub) perpendiculares, aproximadamente uma a cada par de secundárias.
+SECunDÁRIA eucamptódroma.TERCIÁRIA reticulada irregular.
+TERCIÁRIA irregular reticulada.BASE aguda assimétrica.
+BASE cuneada simétrica.
+97Cumaru ferro
+Dipteryx ferrea Ducke
+Dipteryx odorata (Aubl.) Willd.
+ÁPICE acuminado sem 
+ponta de gotejamento.
+ÁPICE acuminado com ponta de gotejamento.BASE assimétrica.
+BASE assimétrica.
+APRESEnTA pontoações dentro das nervuras quartenárias.
+nÃO APRESEnTA pontoações.98Faveira
+Andira macrothyrsa Ducke
+Macrolobium acacifolium Benth.
+FORMA oblonga.
+FORMA linear.ÁPICE arredondado e retuso.
+ÁPICE pouco obovado.
+SECunDÁRIA semicraspedódroma.
+SECunDÁRIA broquidódroma.TERCIÁRIA reticulada irregular.
+TERCIÁRIA irregularmente reticuladas e ramificadas 
+fortemente no sentido admedial. 
+99Faveira (Continuação)
+Parkia reticulata Ducke
+Parkia pendula (Willd.) Benth. ex Walp.
+SECunDÁRIA broquidódroma. MARGEM ciliada.
+FORMA oblonga.
+FORMA linear.ÁPICE arredondado.
+ÁPICE reto com 
+ângulo obtuso.SECunDÁRIA broquidodroma. TERCIÁRIA ramificada.100Faveira (Continuação)
+Parkia multijuga Benth.
+Parkia nitida Miq.
+FORMA oblonga.
+FORMA oblonga.SECunDÁRIA broquidódroma.TERCIÁRIA reticulada.
+3 Nervuras saindo da base.
+TERCIÁRIA reticulada.ÁPICE arredondado.
+ÁPICE arredondado.BASE truncada.
+BASE truncada.101Acanalada 
+Depressões longitudinais formando canais, acompanhando o diâmetro do tronco, sem expandir-se. Às vezes todo o tronco é acanala-do, não apenas na base.
+Acanalado 
+Quando o tronco possui secção irregular, com depressões e elevações longitudinais, formando canais.
+Agudo 
+Ângulo de ápice e base, com ângulação menor que 90º.
+Alburno 
+Madeira jovem do tronco, vísivel sob a casca.
+Anéis 
+Camadas longitudinais sobrepostas e que no corte (trasnversal) apresentam coloração disi-tinta. Podem ser identificados quando a casca está viva.
+Ápice 
+Porção terminal da folha. 
+Aplainada 
+Copa de árvore reta ou achatada.
+Arestado ou cristado 
+Tronco com projeções longitudinais em geral agudas na forma de cristas ou arestas.Glossário
+Assimétricas Sapopemas com formas ou tamanhos diferentes a cada lado do tronco.
+Bainha 
+Parte da extremidade basal e dilatada do pecíolo de uma folha, que abraça parcial ou totalmente o caule.
+Base 
+Porção basal da folha.
+Broquidódroma 
+Tipo de venação secundária que se unem for-mando arcos.
+Caducifolia 
+Espécie que tem folhas caducas, ou seja, caem. O oposto de perenifolia. 
+Ciofita 
+Planta que vive melhor na sombra. 
+Cilíndrico 
+Quando o tronco possui secção horizontal tem forma aproximada ao círculo.
+Compacta 
+Quando a  casca viva apresenta um aspecto homogêneo, não permitindo o reconhecimento de fibras isoladas ou de outros padrões. 
+Craspedódroma 
+Tipo de venação secundária que segue até tocar na margem.
+Decidua 
+Em uma certa estação do ano, perdem suas folhas, grande parte no período mais seco.
+Depressões 
+Marcas irregulares, em geral bordas arredon-dadas, que são cicatrizes deixadas pelas placas de desprendimento.
+Digitada 
+Apresenta pequenas projeções em forma de “dedo” onde as raízes superficiais se juntam ao tronco.
+Dilatada 
+O tronco é mais grosso rente ao solo.
+Dística 
+A folha seguinte está sempre posicionada a 180º em relaçao a folha anterior.
+Elíptica 
+Tipo de folha, cujo característica é ser mais larga na porção mediana.
+Erosa 
+Tipo de margem foliar, cuja característica é ser “minusciosamente” irregular.
+Escamoso 
+Tipo de ritidoma comum, que se desprende em placas mais ou menos irregulares, que podem ser grossas ou finas, rígidas ou quebradiças.102Esciofita 
+Planta adaptada em crescer na sombra. 
+Estípula 
+Folhas reduzidas, sempre em número de dois, que podem estar presentes ou não na base de uma folha comum.
+Estriada 
+Quando o tronco apresenta linhas superficiais de coloração distinta.
+Eucamptódroma 
+Tipo de venação secundária que segue em direção a margem mais sem tocá-la.
+Exsudatos 
+São os líquidos liberados quando a planta  é cortada.
+Fendido 
+Quando os sulcos do tronco são mais ou  menos retos.
+Fenestrado 
+Quando o tronco apresenta cavidades profun-das formando buracos.
+Festooned-broquidódroma  
+Tipo de venação secundária que se unem for-
+mando vários arcos.
+FEVs 
+Vênulas terminais livres.Filotaxia É a posiçao ou arranjo no qual as folhas surgem no caule.
+Folha alterna 
+Folhas que se inserem isoladamente, em diferen-tes níveis do caule.
+Folha compostas 
+Possui o limbo dividido e cada partição (folíolo) tem movimentação ou abscisão independente.
+Folha oposta 
+Duas folhas surgem simultaneamente de cada nó.
+Folha simples 
+Caule que produz uma única folha de cada vez.
+Folíolo 
+Porção de uma folha composta.
+Foliólulo 
+Divisão dos folíolos.
+Heliofita 
+Que cresce bem em terrenos descampados, que vive completamente ao sol. 
+Imparipenadas 
+Folhas compostas que possuem número impar de folíolos.
+Laminado 
+Diz-se do ritidoma que desprende-se do tronco em lâminas, que usualmente enrolam-se nas mar-gens e podem facilmente serem destacadas.
+Lâminas coriáceas 
+Em geral são lâminas grandes que ao desprender do tronco deixam uma superfície lisa exposta.
+Lâminas papiráceas 
+Parecem pedaços de papel-velho quebradiço, em geral sob as lâminas finas formando cama-das subrepostas.
+Látex 
+É uma emulsão de diversas substâncias insólu-veis em um líquido aquoso.
+Lenticelas 
+Região da periderme (tronco) com crescimento mais acentuado, formando verdadeiras vesículas de tecido frouxo. Usadas para respirar.
+Linear 
+Tipo de Folha onde as suas margens são parale-las e maior que o comprimento.
+Marcas de chama 
+embram chamas de fogo (cônicas), são reconhe-cidas no corte transversal do tronco.
+Marcas de olho 
+São cicatrizes de queda de galhos ou folhas ao longo do tronco.
+Mesiofita 
+Planta que necessita de ambiente nem muito seco nem muito úmido. 103Margem  
+Termo que descreve a lateral (bordo) da folha. É o limite externo do limbo.
+Margem inteira 
+Descreve as folhas que não possuem lobos.
+Nervação  
+Na folha o sistema para transporte de nutrientes e 
+água normalmente formando um tipo de rede. 
+Nodoso 
+Quando o tronco possui nós salientes em  geral arredondados.
+Oblonga 
+Tipo de folha em que sua estrutura laminar apre-senta margens paralelas.
+Obtuso 
+Ângulo de ápice e base, com ângulação maior que 90º e menor que 180º.
+Ovada 
+Tipo de folha que apresenta base mais larga que o ápice.
+Oxidação 
+Quando ocorre mudança de cor na casca viva depois do corte do tronco, no alburno e/ou exsudato, em função do contato com ar.
+Paripinadas  
+Folhas compostas que possuem número par  de folíolos.Peciolo Parte da folha que une o limbo ao caule.
+Peciólulo 
+Termo que designa o pequeno pecíolo que se forma na base de cada folíolo de uma  
+folha composta.
+Perenifolia 
+Espécies que têm folhas perenes, ou seja, que não caem. O oposto de caducifolia. 
+Pontuações 
+Quando a casca é composta por dois tipos dife-rentes de fibras longitudinais, de cores distintas, representando tipos diferentes de células.
+Pulvino 
+Estrutura geralmente intumescida ocorrendo na base ou no ápice do pecíolo.
+Pulvinulo 
+Tipo de pulvino reduzido que ocorre no peciólu-lo de folíolos em folhas compostas.
+Ramificadas 
+Quando se dividem.
+Resinas 
+Substâncias pegajosas e geralmente aromáticas, que ao contato com o ar perdem os elementos voláteis, oxidam e se solidificam.Reta Base do tronco com a mesma forma do tronco, sem expansão na base.
+Reticulado 
+Definido por pequenos retículos, geralmente mais ou menos quadrados, formados por fendi-lhamento fino vertival ou horizontal.
+Ritidoma 
+Termo que designa a casca morta nas plantas lenhosas, que pode acumular-se e torna-se pro-gressivamente mais grossa ou ser frequentemente eliminada em placas.
+Ritidoma liso 
+Quando não apresenta nenhuma forma de desprendimento, fissuras, lenticelas, rugosidades, cicatrizes.
+Rugoso 
+Definido pela presença de muitas dobras (anéis horizontais proeminentes) que tornam a superfície acidentada.
+Sapopema côncava 
+A crista apresenta uma linha côncava. Forma mais comum.
+Sapopema convexa 
+A crista apresenta uma linha convexa.
+Sapopema reta 
+A crista apresenta uma linha reta.104Sapopemas ou raízes tabulares 
+São extensões achatadas (tabulares) da parte superior das raízes superficiais, que funcionam como estruturas de sustentação das árvores.
+Seiva 
+É o “sangue” da planta, uma solução nutritiva transportada pelos vasos do floema (casca viva).
+Semi-decidua 
+Em estações muito severas perdem ass folhas.
+Siliciosa 
+Quando a textura da casca é definida pela pre-sença de sílica, e pode ser reconhecida porque ao tato tem-se sensação de passar os dedos numa superfície com grãos de areia.Simétricas Lados mais ou menos da mesma forma e tama-nho a cada lado do tronco.
+Suberosa 
+Quando a casca morta tem textura de cortiça ou súber (rolha).
+Sujo
+Termo aplicado especificamente àqueles casos em que o ritidoma apresenta fendas profundas e irregulares que dão um aspecto de desorganiza-ção à casca.Torcido Quando o tronco se desenvolve de maneira espiralada sobre o mesmo eixo.
+Tortuoso 
+Quando o tronco apresenta  
+sinuosidades longitudinais.
+Vênulas 
+Veias menores com caracteres terminais.
+Verticilada 
+Com três ou mais folhas surgindo do mesmo nó.
+ 
+    105AB’SABER, A.N. 2002. Bases para o Estudo dos Ecossistemas da Amazô-
+nia Brasileira. Estudos Avançados 16 (45): 26p.
+AB’SABER, A.N. 2006. Ecossistemas do Brasil. Metalivros, São Paulo, 
+299 p. 
+ALVES, F.M. & SARTORI, A.B.L. 2009. Nectandra Rol. ex Rottb. (Laurace-
+ae) no Mato Grosso do Sul, Brasil. Acta Botânica Brasílica, v. 23(1): 118 – 129. 
+ASNER, G.P.; KELLER, M.; PEREIRA, R.J.R.; ZWEEDER, J.C. & SILVA, 
+J.N.M. 2004. Canopy Damage and Recovery After Selective Logging in Amazonia: Field and Satellite Studies. Ecological Applications 14(4): 280-298.
+AZEVEDO, C. P., SANQUETA, C.R., SILVA, J.N.M. & MACHADO, S.A. 
+2008. Efeito da exploração de madeira e dos tratamentos silviculturais no agrupamento ecológico de espécies. Floresta, Curitiba, PR, v. 38, n. 1.
+CAMARGOS, J. A. A.; V. T. R. CORADIN, C. MOROSIi ; C. ZAENESKI; 
+D. de OLIVEIRA, I. MEGUERDITCHIAN  2001.  Catálogo de Árvores do Brasil.  2nd edition. Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renovaveis-IBAMA, Brasilia.  
+DALY, D.C. & SILVEIRA, M. 2008. Primeiro Catálago da Flora do Acre, 
+Brasil. EDIUFAC, Rio Branco. 463p.
+DALY, D.C. 2007. The Local Branch: Toward Better Management of Produc-
+tion Forests in Amazonia. Public Garden NYBG, New Yorke, 2 p.
+DEDE, R.A. 1962. Foliar patterns in the Rutaceae. American Journal of 
+Botany 49(5): 490-497. ELLIS, B., D. C. DALY, L. J. HICKEY, J. D. MITCHELL, K. R. JOHNSON, P. WILF, S. L. WING, 2009. Manual of Leaf Architecture. New York, New York Botanical Garden Press.
+FERRAZ, I.D.K., LEAL FILHO, N., IMAKAWA, A.M., VARELA, V.P., PIÑA-
+RODRIGUES, F.C.M. 2004. Características básicas para um agrupamen-to ecológico preliminar de espécies madeireiras da floresta de terra firme da Amazônia Central. Acta Amazônia, v. 34(4): 621 – 633.
+FORZZA, R.C., LEITMAN, P.M., COSTA, A.F., CARVALHO Jr., A.A., 
+PEIXOTO, A.L., WALTER, B.M.T., BICUDO, C., ZAPPI, D., COSTA, D.P., LLERAS, E., MARTINELLI, G., LIMA, H.C., PRADO, J., STEHMANN, J.R., BAUMGRATZ, J.F.A., PIRANI, J.R., SYLVESTRE, L., MAIA, L.C., LOHM-MAN, L.G., QUEIROZ, L.P., SILVEIRA, M., COELHO, M.N., MAMEDE, M.C., BASTOS, M.N.C., MORIM, M.P., BARBOSA, M.R., MENEZES, M., HOPKINS, M., SECCO, R., CAVALCANTI, T.B., SOUZA, V.C. 2010. Introdução. in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. http://floradobrasil.jbrj.gov.br/search
+FSC – Conselho de Manejo Florestal. 2007. Manejo Florestal Responsá-
+vel: a relação entre aspectos ambientais, sócio-culturais e econômicos. Cartilha técnica, 7 p.
+IBAMA, Instituto Brasileiro do Meio Ambiente e dos recursos Naturais 
+renováveis. 2003. Disponível em: www.ibama.gov.br. Acessada em 02 de fevereiro de 2007.
+IIEB, Instituto Internacional da Educação do Brasil. 2007. Disponível em: 
+http://www.iieb.org.br/diagnosticomfc/. Acessado em 17 de março de 2007.
+IPNI. 2010. Disponível em http://www.ipni.org/ipni/plantnamesear-
+chpage.doReferencias Bibliográficas106LORENZI, H. 2002. Árvores Brasileiras: manual de identificação e cultivo 
+de plantas arbóreas nativas do Brasil. Editora Plantarum Ltda, Nova Odessa-SP. v. 1,4.ed.
+LORENZI, H. 1998. Árvores Brasileiras: manual de identificação e cultivo 
+de plantas arbóreas nativas do Brasil. Editora Plantarum Ltda, Nova Odessa-SP. v. 2, 2.ed.
+MANEJO FLORESTAL 2007, disponível em: http://www.manejoflorestal.
+org/index3.cfm?cat_id=58&subcat_id=180 . Acessado em 15 de janei-ro de 2007.
+MITTERMEIER, R.A.; MITTERMEIER, C.G.; BROOKS, T.M.; PILGRIM, J.D.; 
+KONSTANT, W.R.; FONSECA, G.A.B. & KORMOS, C. 2003. “Wilder-ness and Biodiversity Conservation”. Proceedings of the National Acade-my of Sciences 100 (18): 10309-10313.
+MUNIZ, F.H. 2008. Padrões de floração e frutificação de árvores da Amazô-
+nia Maranhense. Acta Amazônica, v. 38(4) 2008: 617 – 626. 
+OLIVEIRA, M.C.P., FERRAZ, I.D.K. & OLIVEIRA, G.J. 2006. Dispersão e 
+superação da dormência de sementes de Parkia pendula (Willd.) Walp. (visgueiro) na Amazônia Central, AM, Brasil. Hoehnea, v. 33(4): 485 – 493.
+OLIVEIRA, A. N. & AMARAL, I. L. 2004. Florística e fitossociologia de 
+uma floresta de vertente na Amazônia Central, Amazonas, Brasil. Acta Amazônica, v. 34(1): 21– 34.
+PEIXOTO, A.L. & MORIM, M.P. 2003. Coleções Botânicas: documento 
+da biodiversidade. Ciência e Cultura v.55 n.3: 21-24.PINHEIRO, K.A.O., CARVALHO, J.O.P., QUANZ, B., FRANCEZ, L.M.B., SCHWARTZ, G. 2007. Fitossociologia de uma área de preservação Per-manente no leste da amazônia: indicação de Espécies para recuperação de áreas alteradas. Floresta, v. 37(2): 175 – 187.
+PROCóPIO, L. C. & R. S. SECCO  2008.  A importância da identifi-
+cação botânica nos inventários florestais: o exemplo do “tauari” (Cou-ratari spp. e Cariniana spp. - Lecythidaceae) em duas áreas manejadas no estado do Pará/ The importance of botanical identification in forest inventories: the example of “tauari” – Couratari spp. and Cariniana spp., Lecythidaceae - in two timber areas of the State of Pará.  Acta Amazônica 38(1): 31 – 44.
+RAMOS, M.B.P & FERRAZ, I.D.K. 2008. Estudos morfológicos de frutos, 
+sementes e plântulas de Enterolobium schomburgkii Benth. (Leguminosae-Mimosoideae). Revista Brasilleira de Botânica, v. 31(2): 227 – 235.
+REYNEL, C., PENNIGTON, T.D., PENNINGTON, R.T., FLORES, C. & 
+DAZA, A. 2003. Árboles útiles de la Amazonía peruana y sus usos. Tarea Gráfica Educativa, Perú.
+RIBEIRO, J. E. L. S., HOPKINS, M. J. G., VICENTINI, A., SOTHERS, C. 
+A., COSTA, M. A. S., BRITO, J. M.; SOUZA, M. A. D., MARTINS, L. H. P., LOHMANN, L. G., ASSUNÇÃO, P. A. C. L., Pereira, E. C., Silva, C. F., Mesquita, M. R. & Procópio, L. C. 1999. Flora Da Reserva Ducke: Guia de identificação das plantas vasculares de uma floresta de terra-firme na Amazônia Central. Manaus: Instituto Nacional de Pesquisas da Amazônia. 27-50 p.
+ROCHA, R.M. 2001. Taxas de recrutamento e mortalidade da floresta de 
+terra firme da bacia do Rio Cuieiras na região de Manaus-AM. Manaus, AM. 49 p. Dissertação (Mestrado em Ciências Florestais). Universidade Federal do Amazonas / INPA.107SHANLEY, P.; PIERCE A.R.; LAIRD S.A. & GUILLÉN, A. 2002. Tapping 
+the Green Market: Certification and Management of Non-Timber Forest Products. Earthscan: London.
+TANAKA, A & VIEIRA, G. 2006. Autoecologia das espécies florestais 
+em regime de plantio de enriquecimento em linha na floresta primária da Amazônia Central. Acta Amazônica, v. 36(2): 193 – 204. 
+TROPICOS. 2010. Disponível em http://www.tropicos.org/.
+UFAM. 2010. Disponível em  http://rsa.ufam.edu.brVIEIRA, I.C.; SILVA, C.J.M. & TOLEDO, P.M. 2005. Estratégias para a Per-
+da de Biodiversidade na Amazônia. Estudos Avançados 19 (54): 12p.
+YAMAMOTO, L.F., KINOSHITA, L.S. & MARTINS, F.R. 2007. Síndromes de 
+polinização e de dispersão em fragmentos da Floresta Estacional Semidecí-dua Montana, SP, Brasil. Acta Botânica Brasílica, v. 21(3): 553 – 573.Apuleia leiocarpa  - Fabaceae  
+Aspidosperma parvifolium - Apocynaceae  
+Astronium lecointei - Anacardiaceae  
+Batocarpus amazonicus - Moraceae  
+Brosimum guianense - Moraceae  
+Caryocar pallidum - Caryocaraceae  
+Cedrela odorata - Meliaceae  
+Clarisia biflora - Moraceae  
+Clarisia racemosa - Moraceae  
+Cordia alliodora - Boraginaceae  
+Cordia sellowiana - Boraginaceae  
+Dalbergia miscolobium - Fabaceae  
+Dialium guianense - Fabaceae  
+Diploön cuspidatum – Sapotaceae  
+Dipteryx ferrea - Fabaceae  
+Enterolobium schomburgkii - Fabaceae  
+Eriotheca globosa - Malvaceae  
+Eschweilera grandiflora - Lecythidaceae  
+Eschweilera truncata - Lecythidaceae  
+Hymenaea parvifolia - Fabaceae  
+Jacaranda copaia - Bignoniaceae  
+Mezilaurus itauba - Lauraceae  
+Minquartia guianensis - Olacaceae  
+Myroxylon balsamum - Fabaceae  
+Nectandra cuspidata. - Lauraceae  
+Nectandra longifolia - Lauraceae  
+Parkia nitida - Fabaceae  
+Parkia pendula - Fabaceae  
+Pouteria triloculares – Sapotaceae  
+Protium rhynchophyllum - Burseraceae  
+Pseudopiptadenia psilostachya - Fabaceae  
+Qualea grandiflora - Vochysiaceae  
+Schefflera morototoni - Araliaceae  
+Schizolobium amazonicum - Fabaceae  
+Swartzia jorori - Fabaceae  
+Stryphnodendron duckeana - Fabaceae  
+Tabebuia serratifolia - Bignoniaceae  
+Terminalia oblonga - Combretaceae  
+Tetragastris altissima - BurseraceaeÍndice de Família por espécieO Guia Ilustrado e Manual de Arquitetura Foliar para Espécies Madeireiras da Amazônia Ocidental, 
+é um produto fruto da parceria entre a Universidade Federal do Acre, Jardim Botânico de Nova York e o WWF-Brasil, diante 
+das questões chave na busca da sustentabilidade do manejo madeireiro que é a identificação botânica rigorosa e confiavél 
+das espécies arbóreas manejadas. Este guia tem como meta melhorar a qualidade do manejo e consiste em uma ferramenta 
+importante para estudantes, parataxonomistas, identificadores botânicos, e o público geral interessado 
+nas característcas que conduzem a uma boa identificação.
+APOIO
