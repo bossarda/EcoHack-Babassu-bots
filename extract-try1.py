@@ -20,7 +20,7 @@ def extract_information(text):
     """
 
     data = {
-        "model": "meta-llama/llama-3-8b-instruct:free",
+        "model": "openchat/openchat-7b:free",
         "messages": [{"role": "user", "content": prompt}]
     }
 
