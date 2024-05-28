@@ -55,7 +55,7 @@ def extract_information(text):
     Output 2: "no information about species with medicinal use"
 
     Input 3: "In the lush Amazon rainforest, the towering Brazil nut trees stand as guardians of the diverse ecosystem. Scarlet macaws, with their vibrant plumage, soar through the canopy, while howler monkeys leap from branch to branch, filling the air with their distinctive calls. On the forest floor, jaguars prowl stealthily, their rosetted coats blending into the dappled shadows. Nearby, colorful poison dart frogs hop among the leaf litter, their bright hues a warning to predators. The rainforest is also home to the elusive harpy eagle, whose powerful talons grasp the branches as it scans for prey. Beneath the water's surface, pink river dolphins navigate the winding tributaries, sharing the waters with schools of piranhas. This rich tapestry of plant and animal life highlights the incredible biodiversity of the Amazon, where every species plays a crucial role in maintaining the delicate balance of this unique environment."
-    Output 3: "no information about species with medicinal use
+    Output 3: "no information about species with medicinal use"
 
     Your input to analyze:
     {text}
